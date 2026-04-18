@@ -3,19 +3,22 @@
 (function () {
   'use strict';
 
-  /* ── Esperar a que el DOM esté listo ── */
-  function ready(fn) {
-    if (document.readyState !== 'loading') fn();
-    else document.addEventListener('DOMContentLoaded', fn);
+  /* ── Iniciar cuando DOM y DM_DATA estén listos (polling robusto) ── */
+  function waitAndInit() {
+    if (typeof DM_DATA !== 'undefined' && document.getElementById('dm-tbody')) {
+      init();
+    } else {
+      setTimeout(waitAndInit, 80);
+    }
   }
 
-  ready(function () {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', waitAndInit);
+  } else {
+    waitAndInit();
+  }
 
-    /* ── Verificar que los datos existen ── */
-    if (typeof DM_DATA === 'undefined') {
-      console.error('[DirectorioMedico] DM_DATA no encontrado. Cargá directorio-data.js primero.');
-      return;
-    }
+  function init() {
 
     var doctors = DM_DATA.doctors;
     var procs   = DM_DATA.procedures;
@@ -337,25 +340,44 @@
           + '</tbody></table></div>';
       }
 
-      document.getElementById('dm-overlay').classList.add('open');
+      var ov2 = document.getElementById('dm-overlay');
+      ov2.style.display = 'flex';
+      ov2.classList.add('open');
       document.body.style.overflow = 'hidden';
     };
 
-    document.getElementById('dm-mcls').addEventListener('click', dmClose);
-    document.getElementById('dm-overlay').addEventListener('click', function (e) {
-      if (e.target.id === 'dm-overlay') dmClose();
-    });
-    document.addEventListener('keydown', function (e) {
+    /* ── Modal close — robusto ── */
+    function dmClose() {
+      var ov = document.getElementById('dm-overlay');
+      if (ov) { ov.classList.remove('open'); ov.style.display = 'none'; }
+      document.body.style.overflow = '';
+    }
+    window.dmClose = dmClose;
+
+    var mclsBtn = document.getElementById('dm-mcls');
+    if (mclsBtn) mclsBtn.onclick = function(e) { e.stopPropagation(); dmClose(); };
+
+    var overlay = document.getElementById('dm-overlay');
+    if (overlay) {
+      overlay.addEventListener('click', function(e) {
+        if (e.target === overlay) dmClose();
+      });
+    }
+
+    document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape') dmClose();
     });
 
-    window.dmClose = function () {
-      document.getElementById('dm-overlay').classList.remove('open');
-      document.body.style.overflow = '';
+    /* ── Patch dmOpenModal to also reset display ── */
+    var _origOpen = window.dmOpenModal;
+    window.dmOpenModal = function(jsonStr) {
+      var ov = document.getElementById('dm-overlay');
+      if (ov) { ov.style.display = ''; }
+      _origOpen(jsonStr);
     };
 
     /* ── Init ── */
     render();
 
-  }); // ready
+  } // init
 })();
