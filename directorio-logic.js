@@ -2,7 +2,19 @@
    Depende de: directorio-data.js (debe cargarse primero) */
 (function () {
   'use strict';
-
+ 
+  /* ── Exponer funciones globales INMEDIATAMENTE para que los onclick= del HTML funcionen ── */
+  window.dmClose = function () {
+    var ov = document.getElementById('dm-overlay');
+    if (ov) { ov.classList.remove('open'); ov.style.display = 'none'; }
+    document.body.style.overflow = '';
+  };
+ 
+  window.dmOpenModal = function (jsonStr) {
+    /* Se sobreescribe con la versión completa cuando init() corra */
+    console.warn('[DirectorioMedico] dmOpenModal llamado antes de que init() termine.');
+  };
+ 
   /* ── Iniciar cuando DOM y DM_DATA estén listos (polling robusto) ── */
   function waitAndInit() {
     if (typeof DM_DATA !== 'undefined' && document.getElementById('dm-tbody')) {
@@ -11,18 +23,18 @@
       setTimeout(waitAndInit, 80);
     }
   }
-
+ 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', waitAndInit);
   } else {
     waitAndInit();
   }
-
+ 
   function init() {
-
+ 
     var doctors = DM_DATA.doctors;
     var procs   = DM_DATA.procedures;
-
+ 
     /* ── Proc map por Id Medico ── */
     var procMap = {};
     procs.forEach(function (p) {
@@ -32,14 +44,14 @@
         procMap[id].push(p);
       }
     });
-
+ 
     /* ── Helpers ── */
     function esc(s) {
       return (s || '')
         .replace(/&/g, '&amp;').replace(/</g, '&lt;')
         .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
     }
-
+ 
     function fmtPrice(v) {
       if (!v || !v.trim() || /precio brinda|consulta/i.test(v))
         return '<span class="dm-p-na">En consulta</span>';
@@ -47,14 +59,14 @@
       if (!isNaN(n) && n > 0) return '\u20a1\u202f' + n.toLocaleString('es-CR');
       return esc(v);
     }
-
+ 
     function badge(v) {
       var t = (v || '').trim();
       if (t === 'SI') return '<span class="dm-b-si">SI</span>';
       if (t === 'NO') return '<span class="dm-b-no">NO</span>';
       return '<span class="dm-b-na">' + (t || '—') + '</span>';
     }
-
+ 
     function seguros(v) {
       if (!v || !v.trim()) return '—';
       var segs = v.split('|').map(function (s) { return s.trim(); }).filter(Boolean);
@@ -62,7 +74,7 @@
         segs.map(function (s) { return '<span class="dm-seg">' + esc(s) + '</span>'; }).join('') +
         '</div>';
     }
-
+ 
     function priceBlockMain(doc) {
       var rt = fmtPrice(doc['Precio Regular Tarjeta']);
       var re = fmtPrice(doc['Precio Regular Efectivo']);
@@ -72,7 +84,7 @@
         out += '<div><span class="dm-pl">Efectivo:</span> <strong>' + re + '</strong></div>';
       return out + '</div>';
     }
-
+ 
     function priceBlockMS(doc) {
       var mt = (doc['Precio MS Tarjeta'] || '').trim();
       var me = (doc['Precio MS Efectivo'] || '').trim();
@@ -83,7 +95,7 @@
         out += '<div><span class="dm-pl">Efectivo:</span> <strong>' + fmtPrice(me) + '</strong></div>';
       return out + '</div>';
     }
-
+ 
     /* ── Populate selects ── */
     function uniq(field) {
       var seen = {}, out = [];
@@ -93,7 +105,7 @@
       });
       return out.sort(function (a, b) { return a.localeCompare(b, 'es'); });
     }
-
+ 
     function fill(id, vals) {
       var s = document.getElementById(id);
       if (!s) return;
@@ -102,18 +114,18 @@
         o.value = v; o.textContent = v; s.appendChild(o);
       });
     }
-
+ 
     fill('dm-fSede', uniq('Sede'));
     fill('dm-fEsp',  uniq('Especialidad'));
     fill('dm-fMod',  uniq('Modalidad Cita'));
     fill('dm-fAg',   uniq('Agenda'));
-
+ 
     var totEl = document.getElementById('dm-tot');
     if (totEl) totEl.textContent = doctors.length;
-
+ 
     /* ── Sort state ── */
     var sortKey = null, sortDir = 1;
-
+ 
     /* ── Filtering ── */
     function getFiltered() {
       var q   = (document.getElementById('dm-fNombre').value || '').toLowerCase();
@@ -132,7 +144,7 @@
         return true;
       });
     }
-
+ 
     function getSorted(arr) {
       if (!sortKey) return arr;
       return arr.slice().sort(function (a, b) {
@@ -141,7 +153,7 @@
         return av < bv ? -sortDir : av > bv ? sortDir : 0;
       });
     }
-
+ 
     /* ── Render ── */
     function render() {
       var data = getSorted(getFiltered());
@@ -153,15 +165,15 @@
         data.forEach(function(d){ uniqNames[d['Nombre Doctor']] = 1; });
         cnt2El.textContent = Object.keys(uniqNames).length + ' médicos únicos';
       }
-
+ 
       var tbody = document.getElementById('dm-tbody');
       if (!tbody) return;
-
+ 
       if (!data.length) {
         tbody.innerHTML = '<tr><td colspan="24" style="text-align:center;padding:30px;color:#888;">Sin resultados con los filtros seleccionados.</td></tr>';
         return;
       }
-
+ 
       tbody.innerHTML = data.map(function (doc) {
         var id  = (doc['Id Medico'] || '').trim();
         var cnt = (procMap[id] || []).length;
@@ -170,7 +182,7 @@
           ? '<button class="dm-btn-proc" onclick=\'dmOpenModal(' + docJson + ')\'>'
             + '&#128203; Procedimientos <span class="dm-cnt-badge">' + cnt + '</span></button>'
           : '<span class="dm-no-proc">Sin procedimientos</span>';
-
+ 
         return '<tr>'
           + '<td><strong class="dm-doc-name">' + esc(doc['Nombre Doctor']) + '</strong>'
             + '<div class="dm-doc-id">' + esc(doc['Id Medico']) + '</div></td>'
@@ -201,7 +213,7 @@
           + '</tr>';
       }).join('');
     }
-
+ 
     /* ── Sort headers ── */
     document.querySelectorAll('#dm-tbl thead th[data-k]').forEach(function (th) {
       th.addEventListener('click', function () {
@@ -214,13 +226,13 @@
         render();
       });
     });
-
+ 
     /* ── Filter events ── */
     ['dm-fNombre', 'dm-fSede', 'dm-fEsp', 'dm-fMod', 'dm-fMS', 'dm-fAg'].forEach(function (id) {
       var el = document.getElementById(id);
       if (el) el.addEventListener('input', render);
     });
-
+ 
     var btnReset = document.getElementById('dm-btnReset');
     if (btnReset) {
       btnReset.addEventListener('click', function () {
@@ -235,79 +247,87 @@
         render();
       });
     }
-
+ 
     /* ── MODAL ── */
-    window.dmOpenModal = function (jsonStr) {
+ 
+    /* ── Modal close — listeners ── */
+    var mclsBtn = document.getElementById('dm-mcls');
+    if (mclsBtn) mclsBtn.onclick = function(e) { e.stopPropagation(); window.dmClose(); };
+ 
+    var overlay = document.getElementById('dm-overlay');
+    if (overlay) {
+      overlay.addEventListener('click', function(e) {
+        if (e.target === overlay) window.dmClose();
+      });
+    }
+ 
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') window.dmClose();
+    });
+ 
+    /* ── Sobreescribir dmOpenModal con la versión completa ── */
+    window.dmOpenModal = function(jsonStr) {
       var doc = JSON.parse(jsonStr);
       var id  = (doc['Id Medico'] || '').trim();
       var ps  = procMap[id] || [];
-
+ 
       document.getElementById('dm-mName').textContent = doc['Nombre Doctor'] || '';
       document.getElementById('dm-mSub').textContent  =
         (doc['Especialidad'] || '') + ' — ' + (doc['Sede'] || '');
-
-      /* Info grid */
+ 
       var infoFields = [
-        ['ID Médico',        doc['Id Medico']],
-        ['Sede',             doc['Sede']],
-        ['Piso',             doc['Piso'] ? 'Piso ' + doc['Piso'] : '—'],
-        ['Consultorio',      doc['Número Del Consultorio'] || '—'],
-        ['Extensión',        doc['Extensión'] || '—'],
-        ['Secretaría',       doc['Secretarias'] || '—'],
-        ['Agenda',           doc['Agenda'] || '—'],
-        ['Modalidad',        doc['Modalidad Cita'] || '—'],
+        ['ID Médico', doc['Id Medico']],['Sede', doc['Sede']],
+        ['Piso', doc['Piso'] ? 'Piso ' + doc['Piso'] : '—'],
+        ['Consultorio', doc['Número Del Consultorio'] || '—'],
+        ['Extensión', doc['Extensión'] || '—'],['Secretaría', doc['Secretarias'] || '—'],
+        ['Agenda', doc['Agenda'] || '—'],['Modalidad', doc['Modalidad Cita'] || '—'],
         ['Cobro Anticipado', doc['Cobro Anticipado'] || '—'],
-        ['Call Center',      doc['Agenda Call Center'] || '—'],
-        ['Medicina Mixta',   doc['Medicina Mixta'] || '—'],
-        ['Medismart',        doc['Acepta Medismart'] || '—'],
-        ['Forma de Pago',    doc['Forma De Pago'] || '—'],
-        ['Enfoque',          doc['Enfoque De Atención'] || '—'],
-        ['T. Consulta',      doc['Tiempo de Consulta'] ? doc['Tiempo de Consulta'] + ' min' : '—'],
-        ['T. Espera',        doc['Tiempo De Espera'] ? doc['Tiempo De Espera'] + ' min' : '—'],
-        ['Método Ingreso',   doc['Método De Ingreso'] || '—'],
-        ['Correo',           doc['Correo Electrónico'] || '—'],
-        ['Horario',          doc['Horario de Atención'] || '—'],
-        ['Comentario',       doc['Comentario'] || '—'],
+        ['Call Center', doc['Agenda Call Center'] || '—'],
+        ['Medicina Mixta', doc['Medicina Mixta'] || '—'],
+        ['Medismart', doc['Acepta Medismart'] || '—'],
+        ['Forma de Pago', doc['Forma De Pago'] || '—'],
+        ['Enfoque', doc['Enfoque De Atención'] || '—'],
+        ['T. Consulta', doc['Tiempo de Consulta'] ? doc['Tiempo de Consulta'] + ' min' : '—'],
+        ['T. Espera', doc['Tiempo De Espera'] ? doc['Tiempo De Espera'] + ' min' : '—'],
+        ['Método Ingreso', doc['Método De Ingreso'] || '—'],
+        ['Correo', doc['Correo Electrónico'] || '—'],
+        ['Horario', doc['Horario de Atención'] || '—'],
+        ['Comentario', doc['Comentario'] || '—'],
       ];
-      document.getElementById('dm-infoGrid').innerHTML = infoFields.map(function (f) {
+      document.getElementById('dm-infoGrid').innerHTML = infoFields.map(function(f) {
         return '<div class="dm-di"><label>' + esc(f[0]) + '</label><span>' + esc(f[1]) + '</span></div>';
       }).join('');
-
-      /* Prices */
+ 
       var rt = fmtPrice(doc['Precio Regular Tarjeta']);
       var re = fmtPrice(doc['Precio Regular Efectivo']);
       var mt = fmtPrice(doc['Precio MS Tarjeta']);
       var me = fmtPrice(doc['Precio MS Efectivo']);
       var iva = doc['Iva'] && doc['Iva'] !== '0'
-        ? '<div class="dm-pr"><span class="dm-pl">IVA</span><span class="dm-pv">\u20a1\u202f' +
+        ? '<div class="dm-pr"><span class="dm-pl">IVA</span><span class="dm-pv">₡ ' +
           parseFloat(doc['Iva'] || 0).toLocaleString('es-CR') + '</span></div>' : '';
       document.getElementById('dm-prices').innerHTML =
         '<div class="dm-price-card">'
         + '<h4>&#128179; Precio Regular — Consulta</h4>'
         + '<div class="dm-pr"><span class="dm-pl">Tarjeta</span><span class="dm-pv">' + rt + '</span></div>'
         + '<div class="dm-pr"><span class="dm-pl">Efectivo</span><span class="dm-pv">' + re + '</span></div>'
-        + iva
-        + '</div>'
+        + iva + '</div>'
         + '<div class="dm-price-card dm-price-card-ms">'
         + '<h4>&#11088; Precio Medismart — Consulta</h4>'
         + '<div class="dm-pr"><span class="dm-pl">Tarjeta</span><span class="dm-pv dm-ms-v">' + mt + '</span></div>'
         + '<div class="dm-pr"><span class="dm-pl">Efectivo</span><span class="dm-pv dm-ms-v">' + me + '</span></div>'
         + '</div>';
-
-      /* Seguros */
-      var segs = (doc['Seguros_Todos'] || '').split('|').map(function (s) { return s.trim(); }).filter(Boolean);
+ 
+      var segs = (doc['Seguros_Todos'] || '').split('|').map(function(s){return s.trim();}).filter(Boolean);
       document.getElementById('dm-segsBlock').innerHTML = segs.length
         ? '<div class="dm-segs-lbl">&#128737;&#65039; Seguros aceptados</div>'
-          + '<div class="dm-seg-wrap dm-mb">' + segs.map(function (s) {
+          + '<div class="dm-seg-wrap dm-mb">' + segs.map(function(s){
               return '<span class="dm-seg">' + esc(s) + '</span>';
             }).join('') + '</div>'
         : '';
-
-      /* Procs header */
+ 
       document.getElementById('dm-procsHdr').innerHTML =
         '&#128203; Procedimientos <span class="dm-pc2">' + ps.length + '</span>';
-
-      /* Procs table */
+ 
       if (!ps.length) {
         document.getElementById('dm-procsContent').innerHTML =
           '<div class="dm-no-procs-msg">No hay procedimientos registrados para este médico.</div>';
@@ -320,11 +340,11 @@
           + '<th>Precio MS<br>Tarjeta</th><th>Precio MS<br>Efectivo</th>'
           + '<th>Horario</th><th>Tiempo</th><th>Comentarios</th>'
           + '</tr></thead><tbody>'
-          + ps.map(function (p, i) {
+          + ps.map(function(p, i) {
               var iva2 = p['Iva'] && p['Iva'] !== '0'
-                ? '\u20a1\u202f' + parseFloat(p['Iva']).toLocaleString('es-CR') : '—';
+                ? '₡ ' + parseFloat(p['Iva']).toLocaleString('es-CR') : '—';
               return '<tr>'
-                + '<td class="dm-pnum">' + (i + 1) + '</td>'
+                + '<td class="dm-pnum">' + (i+1) + '</td>'
                 + '<td class="dm-pname">' + esc(p['Procedimiento']) + '</td>'
                 + '<td class="dm-psede">' + esc(p['Sede']) + '</td>'
                 + '<td class="dm-pprice">' + fmtPrice(p['Precio Regular Tarjeta']) + '</td>'
@@ -339,46 +359,15 @@
             }).join('')
           + '</tbody></table></div>';
       }
-
-      var ov2 = document.getElementById('dm-overlay');
-      ov2.style.display = 'flex';
-      ov2.classList.add('open');
+ 
+      var ov = document.getElementById('dm-overlay');
+      ov.style.display = 'flex';
+      ov.classList.add('open');
       document.body.style.overflow = 'hidden';
     };
-
-    /* ── Modal close — robusto ── */
-    function dmClose() {
-      var ov = document.getElementById('dm-overlay');
-      if (ov) { ov.classList.remove('open'); ov.style.display = 'none'; }
-      document.body.style.overflow = '';
-    }
-    window.dmClose = dmClose;
-
-    var mclsBtn = document.getElementById('dm-mcls');
-    if (mclsBtn) mclsBtn.onclick = function(e) { e.stopPropagation(); dmClose(); };
-
-    var overlay = document.getElementById('dm-overlay');
-    if (overlay) {
-      overlay.addEventListener('click', function(e) {
-        if (e.target === overlay) dmClose();
-      });
-    }
-
-    document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape') dmClose();
-    });
-
-    /* ── Patch dmOpenModal to also reset display ── */
-    var _origOpen = window.dmOpenModal;
-    window.dmOpenModal = function(jsonStr) {
-      var ov = document.getElementById('dm-overlay');
-      if (ov) { ov.style.display = ''; }
-      _origOpen(jsonStr);
-    };
-
+ 
     /* ── Init ── */
     render();
-
+ 
   } // init
 })();
-
