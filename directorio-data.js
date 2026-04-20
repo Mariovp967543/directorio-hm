@@ -2747,7 +2747,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Viernes 9am a 2pm",
+      "Horario de Atención": "Viernes de 9am a 2pm",
       "Precio Regular Tarjeta": "88750.86",
       "Iva": "3550.03",
       "Precio Regular Efectivo": "92300.89",
