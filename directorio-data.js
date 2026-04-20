@@ -565,7 +565,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Forma De Pago": "EFECTIVO | TARJETA",
       "Enfoque De Atención": "Adulto | Adulto mayor",
-      "Tiempo de Consulta": "30",
+      "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
       "Comentario": "Horario: Consulta Incluye ElectrocardiogramaProcedimiento•    Ecocardiograma transtorácico.•    Ecocardiograma con estrés.•    Holter.•    Prueba de esfuerzo.•    Valoración preoperatoria.•    EKG con interpretación.Precio de consulta +electrocardiograma MSPrecio con medismart Trajeta: ₡ 48 812,97Precio con medismart efectivo: ₡50 765,48",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
