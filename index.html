@@ -183,10 +183,13 @@
 <script>
 (function(){
   var s = document.createElement('script');
-  s.src = 'https://cdn.jsdelivr.net/gh/Mariovp967543/directorio-hm@main/directorio-data.js?_=' + Date.now();
+  // Carga directo desde GitHub raw — sin caché CDN, siempre la versión más reciente
+  s.src = 'https://raw.githubusercontent.com/Mariovp967543/directorio-hm/main/directorio-data.js?_=' + Date.now();
   s.onerror = function(){
-    var tb = document.getElementById('dm-tbody');
-    if(tb) tb.innerHTML = '<tr><td colspan="24" style="text-align:center;padding:30px;color:#c0392b;">Error cargando datos. Recargá la página.</td></tr>';
+    // Fallback a jsdelivr si raw falla
+    var s2 = document.createElement('script');
+    s2.src = 'https://cdn.jsdelivr.net/gh/Mariovp967543/directorio-hm@main/directorio-data.js?_=' + Date.now();
+    document.head.appendChild(s2);
   };
   document.head.appendChild(s);
 })();
