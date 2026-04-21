@@ -167,7 +167,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Horario de Atención: \nLunes a Viernes 7:10 am a 3:40 pm, Sábado 7:30 am a 1:40 pm.",
+      "Horario de Atención": "Lunes a Viernes 7:30 am a 4:15 pm, Sabado 7:30 am a 2 pm.",
       "Precio Regular Tarjeta": "Precio Brinda el Profecional en Consulta",
       "Iva": "",
       "Precio Regular Efectivo": "Precio Brinda el Profecional en Consulta",
