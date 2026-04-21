@@ -3,11 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>Directorio Médico — Hospital Metropolitano</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: #f5f2ed; font-family: Arial, sans-serif; padding: 16px; }
 </style>
+<script>
+// Si la URL no tiene timestamp, agrégalo y recargá — fuerza GitHub Pages a no usar caché
+(function(){
+  if(window.location.search.indexOf('_=') === -1){
+    var sep = window.location.search ? '&' : '?';
+    window.location.replace(window.location.pathname + sep + '_=' + Date.now());
+  }
+})();
+</script>
 </head>
 <body>
 
