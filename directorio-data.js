@@ -140,9 +140,9 @@ var DM_DATA = {
       "Horario de Atención": "De lunes a viernes de 8 am a 5 pm",
       "Precio Regular Tarjeta": "31972.5",
       "Iva": "1278.9",
-      "Precio Regular Efectivo": "33251.4",
-      "Precio MS Tarjeta": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Efectivo": "Precio Brinda el Profecional en Consulta",
+      "Precio MS Tarjeta": "Precio Brinda el Profecional en Consulta",
+      "Precio MS Efectivo": "Precio Brinda el Profecional en Consulta",
       "Forma De Pago": "EFECTIVO | TARJETA",
       "Enfoque De Atención": "(+5 años) Niño | Adulto | Adulto mayor",
       "Tiempo de Consulta": "Citas de primera vez tardan 1 hora y las citas de seguimiento 30 min.",
@@ -227,7 +227,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Horario de atención \r\r\r\nL unes a Viernes 7:10 am a 3:40 pm, Sábado 8:00 am a 1 pm.",
+      "Horario de Atención": "Horario de atención \r\r\r\r\nL unes a Viernes 7:10 am a 3:40 pm, Sábado 8:00 am a 1 pm.",
       "Precio Regular Tarjeta": "Precio Brinda el Profecional en Consulta",
       "Iva": "",
       "Precio Regular Efectivo": "Precio Brinda el Profecional en Consulta",
@@ -4008,11 +4008,11 @@ var DM_DATA = {
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
-      "Precio Regular Tarjeta": "65866,55",
-      "Iva": "2634.66",
-      "Precio Regular Efectivo": "68501.21",
-      "Precio MS Tarjeta": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "74602.5",
+      "Iva": "2849.65",
+      "Precio Regular Efectivo": "74090.9",
+      "Precio MS Tarjeta": "29841",
+      "Precio MS Efectivo": "31034.64",
       "Forma De Pago": "EFECTIVO | TARJETA",
       "Enfoque De Atención": "+ 11 años en adelante",
       "Tiempo de Consulta": "20",
@@ -5688,7 +5688,7 @@ var DM_DATA = {
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
-      "Precio Regular Tarjeta": "71241.25",
+      "Precio Regular Tarjeta": "74602.5",
       "Iva": "2849.65",
       "Precio Regular Efectivo": "74090.9",
       "Precio MS Tarjeta": "29841",
@@ -5847,7 +5847,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Para Coordinar la cita se le brinda el numero 60509640 ( visita a domicilio) 64480100 (Coordinación de cuidados paliativos en el hoga) O al correo zeca.avj@gmail.com\r\r\r\n\r\r\r\n\r\r\r\nPrecio debe verse con la asistente al numero de WS. (Adrina)",
+      "Comentario": "Para Coordinar la cita se le brinda el numero 60509640 ( visita a domicilio) 64480100 (Coordinación de cuidados paliativos en el hoga) O al correo zeca.avj@gmail.com\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nPrecio debe verse con la asistente al numero de WS. (Adrina)",
       "Seguros_Todos": "Palig |INS |RedBridge |Mapfre |BlueCross |BMI |ASSA |Mediprocesos |Adisa"
     },
     {
@@ -5877,7 +5877,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "10",
-      "Comentario": "Para Coordinar la cita se le brinda el numero\r\r\r\n60509640 ( Visita a domicilio) \r\r\r\n64480100 (Coordinación de cuidados paliativos en el hogar)",
+      "Comentario": "Para Coordinar la cita se le brinda el numero\r\r\r\r\n60509640 ( Visita a domicilio) \r\r\r\r\n64480100 (Coordinación de cuidados paliativos en el hogar)",
       "Seguros_Todos": "Palig |INS |RedBridge |Mapfre |BlueCross |BMI |ASSA |Mediprocesos |Adisa"
     },
     {
@@ -5889,7 +5889,7 @@ var DM_DATA = {
       "Correo Electrónico": "marco.ferrandino@metropolitano.cr",
       "Piso": "3",
       "Número Del Consultorio": "Centro de Cancer",
-      "Extensión": "4035-1212, Ext 1601|1612|1608|\r\r\r\n\r\r\r\nWhatsapp 70812953",
+      "Extensión": "4035-1212, Ext 1601|1612|1608|\r\r\r\r\n\r\r\r\r\nWhatsapp 70812953",
       "Secretarias": "Astelia Noguera",
       "Agenda": "ZH Blue",
       "Modalidad Cita": "Presencial",
@@ -5919,7 +5919,7 @@ var DM_DATA = {
       "Correo Electrónico": "marco.williams@metropolitanocr.com",
       "Piso": "3",
       "Número Del Consultorio": "Centro de Cancer",
-      "Extensión": "4035-1212, Ext 1601|1612|1608|\r\r\r\n\r\r\r\nWhatsapp 70812953",
+      "Extensión": "4035-1212, Ext 1601|1612|1608|\r\r\r\r\n\r\r\r\r\nWhatsapp 70812953",
       "Secretarias": "Astelia Noguera",
       "Agenda": "ZH Blue",
       "Modalidad Cita": "Presencial",
@@ -5967,7 +5967,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Para Coordinar la cita se le brinda el numero 60509640 ( visita a domicilio) 64480100 (Coordinación de cuidados paliativos en el hoga) O al correo zeca.avj@gmail.com\r\r\r\n\r\r\r\n\r\r\r\nPrecio debe verse con la asistente al numero de WS. (Adrina)",
+      "Comentario": "Para Coordinar la cita se le brinda el numero 60509640 ( visita a domicilio) 64480100 (Coordinación de cuidados paliativos en el hoga) O al correo zeca.avj@gmail.com\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nPrecio debe verse con la asistente al numero de WS. (Adrina)",
       "Seguros_Todos": "Palig |INS |RedBridge |Mapfre |BlueCross |BMI |ASSA |Mediprocesos |Adisa"
     },
     {
@@ -6069,7 +6069,7 @@ var DM_DATA = {
       "Correo Electrónico": "",
       "Piso": "3",
       "Número Del Consultorio": "Centro de Cancer",
-      "Extensión": "4035-1212 ext 1601| 1608|1612\r\r\r\nWhatsapp 70812953",
+      "Extensión": "4035-1212 ext 1601| 1608|1612\r\r\r\r\nWhatsapp 70812953",
       "Secretarias": "Astelia Noguera",
       "Agenda": "ZH Blue",
       "Modalidad Cita": "Presencial",
@@ -6237,7 +6237,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Acepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"\r\r\r\n\r\r\r\n*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo",
+      "Comentario": "Acepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"\r\r\r\r\n\r\r\r\r\n*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo",
       "Seguros_Todos": ""
     },
     {
@@ -6267,7 +6267,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Mayores de 10 años",
       "Tiempo de Consulta": "20",
       "Tiempo De Espera": "10",
-      "Comentario": "NO ACEPTA SEGUROS NI MEDISMART |  No ve niños menores de 10 años \r\r\n\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"\r\r\n\r\r\nCobro Previo a la cita",
+      "Comentario": "NO ACEPTA SEGUROS NI MEDISMART |  No ve niños menores de 10 años \r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"\r\r\r\n\r\r\r\nCobro Previo a la cita",
       "Seguros_Todos": ""
     },
     {
@@ -6347,7 +6347,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "jueves de 4 pm a 6 pm (La Dra envía los jueves que dará consulta) \r\r\r\n\r\r\r\nPara los próximos 3 meses serán los días: jueves 28 de mayo, 4,11 y 25 de junio y 2,9 y 30 de julio",
+      "Horario de Atención": "jueves de 4 pm a 6 pm (La Dra envía los jueves que dará consulta) \r\r\r\r\n\r\r\r\r\nPara los próximos 3 meses serán los días: jueves 28 de mayo, 4,11 y 25 de junio y 2,9 y 30 de julio",
       "Precio Regular Tarjeta": "69156.52",
       "Iva": "2766.26",
       "Precio Regular Efectivo": "71922.78",
@@ -14265,7 +14265,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Retiro de T de cobre, Retiro de Mirena sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Retiro de T de cobre, Retiro de Mirena sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14280,7 +14280,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "62400",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Retiro de Implanon sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Retiro de Implanon sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14295,7 +14295,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "114400",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Criocirugía Cervical sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Criocirugía Cervical sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14310,7 +14310,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "20800",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Ácido tricloroacético sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Ácido tricloroacético sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14325,7 +14325,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "114400",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Biopsia de Vulva Incluye estudio patológico sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Biopsia de Vulva Incluye estudio patológico sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14340,7 +14340,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "72800",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Resección de Pólipo de Cuello Uterino Incluye estudio patológico sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Resección de Pólipo de Cuello Uterino Incluye estudio patológico sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14355,7 +14355,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "67600",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Estado de patología cervical (ASCUS/lesión intraepitelial) Incluye estudio patologico sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Estado de patología cervical (ASCUS/lesión intraepitelial) Incluye estudio patologico sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14370,7 +14370,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "109200",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Estado de patología cervical (ASCUS/lesión intraepitelial) Incluye estudio patologico sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Estado de patología cervical (ASCUS/lesión intraepitelial) Incluye estudio patologico sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14385,7 +14385,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "88400",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Drenaje de Absceso de Bartholin con anestesia local sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Drenaje de Absceso de Bartholin con anestesia local sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14400,7 +14400,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "57200",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Detección del Virus del Papiloma Humano sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Detección del Virus del Papiloma Humano sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14415,7 +14415,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "62400",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Electrofulguración de verrugas sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Electrofulguración de verrugas sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14430,7 +14430,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "104000",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Incluye Pesario sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Incluye Pesario sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED14390",
@@ -14445,7 +14445,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "20800",
       "Horario de Atención": "Lunes, Martes, Miércoles, Viernes 7 am a 12 md, J 7:30 am a 4 pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Histerosonografía sumar el precio de la consulta según el caso:\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\nNota importante:\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
+      "Comentarios": "Histerosonografía sumar el precio de la consulta según el caso:\r\r\r\r\n1- Precio MEDISMART  12360 + IVA  \r\r\r\r\n2- Precio Regular  55000 + IVA)\r\r\r\r\nNota importante:\r\r\r\r\nEl costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\nPrecios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA"
     },
     {
       "Id Medico": "MED13790",
@@ -30555,7 +30555,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "35360",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30570,7 +30570,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30585,7 +30585,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "104000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30600,7 +30600,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "130000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30615,7 +30615,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "104000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30630,7 +30630,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "130000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30645,7 +30645,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "130000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30660,7 +30660,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "104000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30675,7 +30675,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "130000",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30690,7 +30690,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "36400",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED8220",
@@ -30705,18 +30705,33 @@ var DM_DATA = {
       "Precio MS Efectivo": "71760",
       "Horario de Atención": "lunes, miercoles y viernes 2:00 pm a 4:40 pm |  martes y jueves de 4:00pm a 6:40pm",
       "Tiempo de Consulta": "20",
-      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\n\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\n\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\n\r\r\r\nNO está incluido en el precio de los procedimientos."
+      "Comentarios": "No ofrece la opción de solo consulta, todas las consultas incluyen ultrasonido.\r\r\r\r\nNo se incluyen los dispositivos DIU ni Implanon.\r\r\r\r\n\r\r\r\r\nEstar con el período menstrual para la colocación del DIU\r\r\r\r\n\r\r\r\r\nTodos los procedimientos realizados deben incluir el costo de la consulta, ya que este\r\r\r\r\n\r\r\r\r\nNO está incluido en el precio de los procedimientos."
     },
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Consulta",
+      "Procedimiento": "Consulta prenatal",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "65866.55",
-      "Iva": "2634.6620000000003",
-      "Precio Regular Efectivo": "68501.212",
+      "Precio Regular Tarjeta": "133500",
+      "Iva": "5340",
+      "Precio Regular Efectivo": "138840",
+      "Precio MS Tarjeta": "53400",
+      "Iva2": "2136",
+      "Precio MS Efectivo": "55536",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Consulta Ginecologia (Liberia, Huacas y San Carlos)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "74602.5",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "74090.9",
       "Precio MS Tarjeta": "29841",
-      "Iva2": "1193.64",
+      "Iva2": "0.04",
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
@@ -30725,14 +30740,14 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Toma muestra PAP",
+      "Procedimiento": "Honorarios Medicos Colocación de Implanon",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "11190.38",
-      "Iva": "447.61519999999996",
-      "Precio Regular Efectivo": "11637.9952",
-      "Precio MS Tarjeta": "No Aplica",
+      "Precio Regular Tarjeta": "55688.9",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "57916.456",
+      "Precio MS Tarjeta": "",
       "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30740,29 +30755,14 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Consulta + Ultrasonido (Vaginal U obstetrico) (Tambien realiza 4D)",
+      "Procedimiento": "Retiro de Implanon",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "87932.37",
-      "Iva": "3517.2947999999997",
-      "Precio Regular Efectivo": "91449.6648",
-      "Precio MS Tarjeta": "40498.5",
-      "Iva2": "1619.94",
-      "Precio MS Efectivo": "42118.44",
-      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
-      "Tiempo de Consulta": "20",
-      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
-    },
-    {
-      "Id Medico": "MED9084",
-      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Citopatología cervical o vaginal - monocapa (PAP)",
-      "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "12113.89",
-      "Iva": "484.55559999999997",
-      "Precio Regular Efectivo": "12598.4456",
-      "Precio MS Tarjeta": "No Aplica",
+      "Precio Regular Tarjeta": "55688.9",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "57916.456",
+      "Precio MS Tarjeta": "",
       "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30770,14 +30770,14 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Electrofulgoracion VPH (Cauterizacion Verrugas y/o condilomas Consultorio)",
+      "Procedimiento": "Toma de Papanicolau o citologia por monocapa",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "180367.92",
-      "Iva": "7214.716800000001",
-      "Precio Regular Efectivo": "187582.6368",
-      "Precio MS Tarjeta": "No Aplica",
+      "Precio Regular Tarjeta": "11190.3",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "11637.911999999998",
+      "Precio MS Tarjeta": "",
       "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30785,14 +30785,14 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Colocación de Dispositivo Intrauterino -DIU- (No incluye dispositivo)",
+      "Procedimiento": "Citología cervical o vaginal monocapa (PAP)",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "160 973, 55",
-      "Iva": "",
-      "Precio Regular Efectivo": "",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "13459.88",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "13998.2752",
+      "Precio MS Tarjeta": "12113.89",
+      "Iva2": "0.04",
+      "Precio MS Efectivo": "12598.44",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30800,29 +30800,89 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Retiro de Dispositivo Intrauterino -DIU consultorio",
+      "Procedimiento": "Consulta Ginecologia con Ultrasonido (endovaginal o suprapubico)  (Liberia, Huacas y San Carlos)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "101246.25",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "105296.1",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Toma de biopsia ginecologica",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "23499.79",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "24439.781600000002",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Nivel II - Pólipo cervical y endometrial (macroscopico e histologico)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "50400.0016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "0.04",
+      "Precio MS Efectivo": "45360.0056",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Nivel II - Endometrio curetaje o biopsia (Macroscopico e histologico)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "50400.0016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "0.04",
+      "Precio MS Efectivo": "45360.0056",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Consulta Ginecologia (Liberia, Huacas y San Carlos) Depende del médico si requiere la consulta",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "71241.25",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "74090.9",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Retiro de Dispositivo Intrauterino -DIU",
       "Sede": "H. Metropolitano San Carlos",
       "Precio Regular Tarjeta": "99874.1",
-      "Iva": "3994.9640000000004",
+      "Iva": "0.04",
       "Precio Regular Efectivo": "103869.06400000001",
-      "Precio MS Tarjeta": "No Aplica",
+      "Precio MS Tarjeta": "",
       "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
-      "Tiempo de Consulta": "20",
-      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
-    },
-    {
-      "Id Medico": "MED9084",
-      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Toma muestra VPH",
-      "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "11749.9",
-      "Iva": "469.996",
-      "Precio Regular Efectivo": "12219.895999999999",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30833,11 +30893,11 @@ var DM_DATA = {
       "Procedimiento": "Colposcopia",
       "Sede": "H. Metropolitano San Carlos",
       "Precio Regular Tarjeta": "99874.1",
-      "Iva": "3994.9640000000004",
+      "Iva": "0.04",
       "Precio Regular Efectivo": "103869.06400000001",
-      "Precio MS Tarjeta": "No Aplica",
+      "Precio MS Tarjeta": "",
       "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30845,14 +30905,14 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Biopsia Endometrial o Polipo cervical",
+      "Procedimiento": "Consultar al doc el tipo de citologia (Endometrio curetaje o biopsia// Pólipo cervical y endometrial)",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "43615.39",
-      "Iva": "1744.6156",
-      "Precio Regular Efectivo": "45360.0056",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "50400.0016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "0.04",
+      "Precio MS Efectivo": "45360.0056",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30860,14 +30920,209 @@ var DM_DATA = {
     {
       "Id Medico": "MED9084",
       "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
-      "Procedimiento": "Colocación de Implanon (No incluye dispositivo)",
+      "Procedimiento": "Marzupializacion de quiste bartolino (Consultorio)",
       "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "55688.9",
-      "Iva": "2227.556",
-      "Precio Regular Efectivo": "57916.456",
-      "Precio MS Tarjeta": "No Aplica",
+      "Precio Regular Tarjeta": "156665.25",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "162931.86",
+      "Precio MS Tarjeta": "",
       "Iva2": "",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Leep",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "232385.28",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "241680.6912",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Criocirugia",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "145467.12",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "151285.80479999998",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Cauterizacion Verrugas y/o condilomas Consultorio",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "180367.92",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "187582.6368",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Colocacion de Acido Tricloroacetico Tratamiento verrugas",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "14830.26",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "15423.4704",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Consulta Ginecologia (Liberia, Huacas y San Carlos) PUEDE SER CONSULTA + US TAMBIÉN",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "71241.25",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "74090.9",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Toma de Muestra de VPH",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "11749.9",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "12219.895999999999",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Virus del Papiloma Humano (14 genotipos) por PCR",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "63554.49",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "66096.6696",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Histerosonografía en Consultorio",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "152504.64",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "158604.8256",
+      "Precio MS Tarjeta": "57199.04",
+      "Iva2": "0.04",
+      "Precio MS Efectivo": "59487.0016",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Honorarios Medicos Colocacion de Dispositivo Intrauterino (DIU)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "151070.06",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "157112.86239999998",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Kit colocación de Jaydess  ( incluye dispositivo)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "145242.24",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "151051.9296",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Kit colocación de Myrena ( incluye dispositivo )",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "167855.63",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "174569.8552",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Kit colocación de  T de plata Silvercare Mini + Histerometro DIU- CP ( incluye dispositivo)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "67034.88",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "69716.2752",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
+      "Tiempo de Consulta": "20",
+      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
+    },
+    {
+      "Id Medico": "MED9084",
+      "Especialidad": "Ginecología y Obstetricia | Medicina Materno Fetal",
+      "Procedimiento": "Kit colocación de T de Cobre ( incluye dispositivo)",
+      "Sede": "H. Metropolitano San Carlos",
+      "Precio Regular Tarjeta": "15724.8",
+      "Iva": "0.04",
+      "Precio Regular Efectivo": "16353.792",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA. Todos los procedimientos realizados deben incluir el costo de la consulta, ya que este NO está incluido en el precio de los procedimientos."
@@ -30892,7 +31147,7 @@ var DM_DATA = {
       "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Consulta Ginecologia (Liberia, Huacas y San Carlos)",
       "Sede": "H. Metropolitano Huacas (Cabo Velas)",
-      "Precio Regular Tarjeta": "71241.25",
+      "Precio Regular Tarjeta": "74602.5",
       "Iva": "0.04",
       "Precio Regular Efectivo": "74090.9",
       "Precio MS Tarjeta": "29841",
@@ -31312,7 +31567,7 @@ var DM_DATA = {
       "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Consulta Ginecologia (Liberia, Huacas y San Carlos)",
       "Sede": "H. Metropolitano 25 de Julio (Liberia)",
-      "Precio Regular Tarjeta": "71241.25",
+      "Precio Regular Tarjeta": "74602.5",
       "Iva": "0.04",
       "Precio Regular Efectivo": "74090.9",
       "Precio MS Tarjeta": "29841",
@@ -31852,7 +32107,7 @@ var DM_DATA = {
       "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Consulta Ginecologia (Liberia, Huacas y San Carlos) Depende del médico si requiere la consulta",
       "Sede": "H. Metropolitano 25 de Julio (Liberia)",
-      "Precio Regular Tarjeta": "71241.25",
+      "Precio Regular Tarjeta": "74602.5",
       "Iva": "0.04",
       "Precio Regular Efectivo": "74090.9",
       "Precio MS Tarjeta": "",
@@ -33165,7 +33420,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "92560",
       "Horario de Atención": "1er y 3er lunes de mes de 8 am a 3 pm Enero Viernes 16. De 8 am a 5 pm - 12md a 1 pm para almuerzo MarzoLunes 23- De 8 am a 3 pm - 12:30 md a 1 pm",
       "Tiempo de Consulta": "60",
-      "Comentarios": "Codigo Facturacion SER-04599 Agendamiento 60 min Preparación intestinal:\r\r\r\nDos días antes del examen iniciar con alimentación Blanda.\r\r\r\nEvitar: carnes rojas y procesadas, gaseosas y bebidas carbonatadas, granos\r\r\r\ncomo frijoles, garbanzos, lentejasy cualquier alimentoque le genere\r\r\r\ninflamación.\r\r\r\nEl día del estudio puede desayunar y almorzar, pero es fundamental una\r\r\r\ndieta blanda.\r\r\r\nAlimentos permitidos:\r\r\r\nCaldos claros o sopas sin grasa\r\r\r\nPuré de papas sin leche ni mantequilla.\r\r\r\nGalletas de soda o María\r\r\r\nPan blanco tostado\r\r\r\nJugos naturales sin pulpa (como jugo de manzana o uva) Agua pura y té sin\r\r\r\ncafeína\r\r\r\nEl enema debe colocarseuna única vez entre 2 a 4 horas antes de la cita.\r\r\r\nEsto es muy importante para la adecuada visualización de las imágenes por\r\r\r\nultrasonido.ptimo.\r\r\r\nSe utiliza Paralaxrectal de 133ml"
+      "Comentarios": "Codigo Facturacion SER-04599 Agendamiento 60 min Preparación intestinal:\r\r\r\r\nDos días antes del examen iniciar con alimentación Blanda.\r\r\r\r\nEvitar: carnes rojas y procesadas, gaseosas y bebidas carbonatadas, granos\r\r\r\r\ncomo frijoles, garbanzos, lentejasy cualquier alimentoque le genere\r\r\r\r\ninflamación.\r\r\r\r\nEl día del estudio puede desayunar y almorzar, pero es fundamental una\r\r\r\r\ndieta blanda.\r\r\r\r\nAlimentos permitidos:\r\r\r\r\nCaldos claros o sopas sin grasa\r\r\r\r\nPuré de papas sin leche ni mantequilla.\r\r\r\r\nGalletas de soda o María\r\r\r\r\nPan blanco tostado\r\r\r\r\nJugos naturales sin pulpa (como jugo de manzana o uva) Agua pura y té sin\r\r\r\r\ncafeína\r\r\r\r\nEl enema debe colocarseuna única vez entre 2 a 4 horas antes de la cita.\r\r\r\r\nEsto es muy importante para la adecuada visualización de las imágenes por\r\r\r\r\nultrasonido.ptimo.\r\r\r\r\nSe utiliza Paralaxrectal de 133ml"
     },
     {
       "Id Medico": "MED13945",
@@ -33495,7 +33750,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "92560",
       "Horario de Atención": "3ros lunes del mes. De 8 am a 3 pm.",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Codigo Facturacion SER-04599 Agendamiento 60 min Preparación intestinal:\r\r\r\nDos días antes del examen iniciar con alimentación Blanda.\r\r\r\nEvitar: carnes rojas y procesadas, gaseosas y bebidas carbonatadas, granos\r\r\r\ncomo frijoles, garbanzos, lentejasy cualquier alimentoque le genere\r\r\r\ninflamación.\r\r\r\nEl día del estudio puede desayunar y almorzar, pero es fundamental una\r\r\r\ndieta blanda.\r\r\r\nAlimentos permitidos:\r\r\r\nCaldos claros o sopas sin grasa\r\r\r\nPuré de papas sin leche ni mantequilla.\r\r\r\nGalletas de soda o María\r\r\r\nPan blanco tostado\r\r\r\nJugos naturales sin pulpa (como jugo de manzana o uva) Agua pura y té sin\r\r\r\ncafeína\r\r\r\nEl enema debe colocarseuna única vez entre 2 a 4 horas antes de la cita.\r\r\r\nEsto es muy importante para la adecuada visualización de las imágenes por\r\r\r\nultrasonido.ptimo.\r\r\r\nSe utiliza Paralaxrectal de 133ml"
+      "Comentarios": "Codigo Facturacion SER-04599 Agendamiento 60 min Preparación intestinal:\r\r\r\r\nDos días antes del examen iniciar con alimentación Blanda.\r\r\r\r\nEvitar: carnes rojas y procesadas, gaseosas y bebidas carbonatadas, granos\r\r\r\r\ncomo frijoles, garbanzos, lentejasy cualquier alimentoque le genere\r\r\r\r\ninflamación.\r\r\r\r\nEl día del estudio puede desayunar y almorzar, pero es fundamental una\r\r\r\r\ndieta blanda.\r\r\r\r\nAlimentos permitidos:\r\r\r\r\nCaldos claros o sopas sin grasa\r\r\r\r\nPuré de papas sin leche ni mantequilla.\r\r\r\r\nGalletas de soda o María\r\r\r\r\nPan blanco tostado\r\r\r\r\nJugos naturales sin pulpa (como jugo de manzana o uva) Agua pura y té sin\r\r\r\r\ncafeína\r\r\r\r\nEl enema debe colocarseuna única vez entre 2 a 4 horas antes de la cita.\r\r\r\r\nEsto es muy importante para la adecuada visualización de las imágenes por\r\r\r\r\nultrasonido.ptimo.\r\r\r\r\nSe utiliza Paralaxrectal de 133ml"
     },
     {
       "Id Medico": "MED13945",
@@ -33600,7 +33855,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33615,7 +33870,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33630,7 +33885,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33645,7 +33900,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33660,7 +33915,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "12598.44",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33675,7 +33930,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33690,7 +33945,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33705,7 +33960,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "45360.0056",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33720,7 +33975,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "45360.0056",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33735,7 +33990,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33750,7 +34005,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33765,7 +34020,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33780,7 +34035,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "45360.0056",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33795,7 +34050,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33810,7 +34065,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33825,7 +34080,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33840,7 +34095,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33855,7 +34110,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33870,7 +34125,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33885,7 +34140,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33900,7 +34155,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33915,7 +34170,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "59487.0016",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33930,7 +34185,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33945,7 +34200,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33960,7 +34215,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33975,7 +34230,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -33990,7 +34245,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\n\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente\r\r\r\r\n\r\r\r\r\n*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED9836",
@@ -34620,7 +34875,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34635,7 +34890,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34650,7 +34905,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34665,7 +34920,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34680,7 +34935,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34695,7 +34950,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34710,7 +34965,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34725,7 +34980,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED14542",
@@ -34740,7 +34995,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\"",
       "Horario de Atención": "",
       "Tiempo de Consulta": "30",
-      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\n\r\r\r\nSe deben cotizar previo\r\r\r\n\r\r\r\nAcepta 3 citas medismart por día\r\r\r\n\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
+      "Comentarios": "*Procedimientos en consultorio, los demás en sala.\r\r\r\r\nTodos llevan biopsia menos ( infiltraciones -crioterapia)\r\r\r\r\n\r\r\r\r\nSe deben cotizar previo\r\r\r\r\n\r\r\r\r\nAcepta 3 citas medismart por día\r\r\r\r\n\r\r\r\r\n***Nota: Los precios de Santa Catalina verlos en el archivo \"COTIZADOR SANTA CATALINA V(009) - ENTREGAR (05 ENERO 2026).xlsm\""
     },
     {
       "Id Medico": "MED6740",
