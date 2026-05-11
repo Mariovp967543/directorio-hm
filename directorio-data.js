@@ -4197,7 +4197,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Los precios se colocan en la cita del paciente, cambio constante de precios.",
+      "Comentario": "Los precios se colocan en la cita del paciente, cambio constante de precios. A partir de 30 de mayo NO brindará más consulta en la sede",
       "Seguros_Todos": "Medismart | Palig"
     },
     {
