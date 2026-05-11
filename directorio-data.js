@@ -4067,7 +4067,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8am a 6pm tiempo de comida 12md a 1pm y Viernes 8am a 4pm (tiempo de almuerzo 12md a 1 pm). 2 últimos  Sábado al mes 8ama a 11:30am",
+      "Horario de Atención": "Lunes y viernes de 4 pm a 8:30 pm. 2 últimos  Sábado al mes 8ama a 11:30am",
       "Precio Regular Tarjeta": "Precio Brinda el Profecional en Consulta",
       "Iva": "",
       "Precio Regular Efectivo": "Precio Brinda el Profecional en Consulta",
