@@ -7647,7 +7647,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto mayor - Adulto - Deporte",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Enfoque: Hidroterapia. SOLO REALIZA Hidroterapia. NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Enfoque: Hidroterapia. SOLO REALIZA Hidroterapia (Lunes de 9am a 11:00am y los Viernes de 4pm a 7pm.). NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT"
     },
     {
