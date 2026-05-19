@@ -7527,7 +7527,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Fisioterapia deportiva",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Deportiva. Precios varían dependiendo del servicio, paquete (VER EN LA CARPETA DE ZENIT). El horario de los fisioterapeutas va a hacer rotativo, pero las 3 agendas siempre van a estar habilitadas. Precio con medisport: ₡18 860. NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Enfoque: Fisioterapia deportiva. Precios varían dependiendo del servicio, paquete (VER EN LA CARPETA DE ZENIT). El horario de los fisioterapeutas va a hacer rotativo, pero las 3 agendas siempre van a estar habilitadas. Realiza masaje de descarga, pero priorizar a Lourdes Gutiérrez para estos. Solo se pueden agendar 2 masajes por día. Las citas deben ser en horas intercaladas, no consecutivas. Precio con medisport: ₡18 860. NO acepta MEDISMART. Acepta MEDISPORT.",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -7557,7 +7557,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Fisioterapia deportiva",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Deportiva. Precios varían dependiendo del servicio, paquete (VER EN LA CARPETA DE ZENIT). El horario de los fisioterapeutas va a hacer rotativo. Precio con medisport: ₡18 860. NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Enfoque: Fisioterapia deportiva. Precios varían dependiendo del servicio, paquete (VER EN LA CARPETA DE ZENIT). El horario de los fisioterapeutas va a hacer rotativo. Realiza masaje de descarga, pero priorizar a Lourdes Gutiérrez para estos. Solo se pueden agendar 2 masajes por día. Las citas deben ser en horas intercaladas, no consecutivas. Precio con medisport: ₡18 860. NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -7587,7 +7587,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Fisioterapia deportiva",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Deportiva. Precios varían dependiendo del servicio, paquete (VER EN LA CARPETA DE ZENIT). NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Enfoque: Deportiva. Precios varían dependiendo del servicio, paquete (VER EN LA CARPETA DE ZENIT). Realiza masaje de descarga, pero priorizar a Lourdes Gutiérrez para estos. Solo se pueden agendar 2 masajes por día. Las citas deben ser en horas intercaladas, no consecutivas.  NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT | Mediprocesos | Adisa"
     },
     {
@@ -7617,7 +7617,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto mayor - Adulto - Deporte",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Temporalmente hasta nuevo aviso solo se agenda fisioterapia normal. Precio con medisport: ₡18 860. NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Temporalmente hasta nuevo aviso solo se agenda fisioterapia normal. No realiza masajes de descarga. Precio con medisport: ₡18 860. NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -7677,7 +7677,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, deportistas, adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Realiza masaje de descarga, pero priorizar a Lourdes Gutiérrez para estos. Solo se pueden agendar 2 masajes por día. Las citas deben ser en horas intercaladas, no consecutivas. NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -7707,7 +7707,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, deportistas, adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Enfoque: Masajes. MASAJITAS. NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Enfoque: Masajes. Masajista. Realiza masaje de descarga, pero priorizar a Lourdes Gutiérrez para estos. Solo se pueden agendar 2 masajes por día. Las citas deben ser en horas intercaladas, no consecutivas. NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -7737,7 +7737,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, deportistas, adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Enfoque: Masajes. MASAJITAS. El servicio se brindará medio tiempo cada día (4 horas de masaje diario) de lunes a sábado. En EVO se agendará la hora, pero los masajes tendrán una duración de 50min (10min para preparar la sala). Si un cliente quiere doble tanda de masaje se le puede agendar y debe pagar doble. NO acepta MEDISMART. Acepta MEDISPORT",
+      "Comentario": "Enfoque: Masajes. MASAJITAS. El servicio se brindará medio tiempo cada día (4 horas de masaje diario) de lunes a sábado. En EVO se agendará la hora, pero los masajes tendrán una duración de 50min (10min para preparar la sala). Si un cliente quiere doble tanda de masaje se le puede agendar y debe pagar doble. No habrán intervalos largos de descanso entre cada masaje, se podrán agendar 4 masajes diarios. NO acepta MEDISMART. Acepta MEDISPORT",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -12827,7 +12827,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "NO",
-      "Horario de Atención": "",
+      "Horario de Atención": "Lunes 2pm a 7pm, Martes, Miércoles y Viernes  8am a 1pm y Jueves 5pm a 8pm",
       "Precio Regular Tarjeta": "Ver Anexo (no estandarizado)",
       "Iva": "Ver Anexo (no estandarizado)",
       "Precio Regular Efectivo": "Ver Anexo (no estandarizado)",
@@ -12857,7 +12857,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "NO",
-      "Horario de Atención": "Martes 2pm a 8pm, Miercoles 8am a 2pm y Viernes 8am a 2pm (VER EN LA CARPETA DE ZENIT LOS PRECIOS)",
+      "Horario de Atención": "Martes 2pm a 8pm, Miercoles 8am a 2pm y Viernes 8am a 2pm",
       "Precio Regular Tarjeta": "Ver Anexo (no estandarizado)",
       "Iva": "Ver Anexo (no estandarizado)",
       "Precio Regular Efectivo": "Ver Anexo (no estandarizado)",
@@ -12867,7 +12867,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Psicología Deportiva",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "Atenderá la consulta de (presencial y virtual). Horario: Martes 2pm a 8pm, Miercoles 8am a 2pm y Viernes 8am a 2pm (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART",
+      "Comentario": "Atenderá la consulta de (presencial y virtual). VER EN LA CARPETA DE ZENIT LOS PRECIOS. NO acepta MEDISMART",
       "Seguros_Todos": "MediSport | Palig | INS | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa | Redbrige"
     },
     {
@@ -19015,7 +19015,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Forma De Pago": "EFECTIVO | TARJETA",
       "Enfoque De Atención": "Nutrición Deportiva",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "",
       "Tiempo De Espera": "",
       "Comentario": "- Duración de cada consulta: 45 mins deportiva, 60 mins alto rendimiento, 90 mins primera vez - Aceptaría el plan médico MediSport y se trabajan tres tipos de consulta: Nutrición Primera Vez Nutrición Deportista Nutrición Alto Rendimiento Horario: revisar agenda Atenderá la consulta de (Presencial) . (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART",
       "Seguros_Todos": "MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASS | Mediprocesos | Adisa"
@@ -19047,7 +19047,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Nutrición Deportiva",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "",
-      "Comentario": "Duración de cada consulta: 45 mins deportiva, 60 mins alto rendimiento, 90 mins primera vez - Aceptaría el plan médico MediSport y se trabajan tres tipos de consulta: Nutrición Primera Vez Nutrición Deportista Nutrición Alto Rendimiento Atenderá la consulta de (Presencial) . Horario: Martes 1pm a 6pm y Jueves 8am a 3pm (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART",
+      "Comentario": "Duración de cada consulta: 45 mins deportiva, 60 mins alto rendimiento, 90 mins primera vez - Aceptaría el plan médico MediSport y se trabajan tres tipos de consulta: Nutrición Primera Vez Nutrición Deportista Nutrición Alto Rendimiento. VER EN LA CARPETA DE ZENIT LOS PRECIOS. NO acepta MEDISMART",
       "Seguros_Todos": "MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASS | Mediprocesos | Adisa"
     },
     {
@@ -19077,7 +19077,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Nutrición Deportiva",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "",
-      "Comentario": "Duración de cada consulta: 45 mins deportiva, 60 mins alto rendimiento, 90 mins primera vez - Aceptaría el plan médico MediSport y se trabajan tres tipos de consulta: Nutrición Primera Vez Nutrición Deportista Nutrición Alto Rendimiento Atenderá la consulta de (Presencial) . Horario: Lunes y Martes 8:30am a 12pm (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART",
+      "Comentario": "Duración de cada consulta: 45 mins deportiva, 60 mins alto rendimiento, 90 mins primera vez - Aceptaría el plan médico MediSport y se trabajan tres tipos de consulta: Nutrición Primera Vez Nutrición Deportista Nutrición Alto Rendimiento. Horario: Lunes y Martes 8:30am a 12pm (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART",
       "Seguros_Todos": "MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASS | Mediprocesos | Adisa"
     },
     {
@@ -19169,6 +19169,66 @@ var DM_DATA = {
       "Tiempo De Espera": "15 min",
       "Comentario": "Horario de atención:Lunes de 7 a 11, Miercoles de 7 a 4 y Viernes 7am a 11 am Paciente de primera vez: 45 min Paciente de seguimiento: 30 min Paciente de Chequeos: 20 min",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASS | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "MED9941",
+      "Nombre Doctor": "Daniel Izrael Rubinstein",
+      "Especialidad": "Ortopedia",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "Zenit",
+      "Correo Electrónico": "",
+      "Piso": "1",
+      "Número Del Consultorio": "",
+      "Extensión": "",
+      "Secretarias": "",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Martes y Jueves de 3pm a 5:30 pm.",
+      "Precio Regular Tarjeta": "69273",
+      "Iva": "",
+      "Precio Regular Efectivo": "",
+      "Precio MS Tarjeta": "27709.50",
+      "Precio MS Efectivo": "",
+      "Forma De Pago": "",
+      "Enfoque De Atención": "",
+      "Tiempo de Consulta": "30",
+      "Tiempo De Espera": "",
+      "Comentario": "Acepta tanto MediSmart como MediSport",
+      "Seguros_Todos": "Medisport | Medismart"
+    },
+    {
+      "Id Medico": "MED6627",
+      "Nombre Doctor": "David Jenkins Jiménez",
+      "Especialidad": "Ortopedia",
+      "Método De Ingreso": "",
+      "Sede": "Zenit",
+      "Correo Electrónico": "",
+      "Piso": "1",
+      "Número Del Consultorio": "",
+      "Extensión": "",
+      "Secretarias": "",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "",
+      "Agenda Call Center": "",
+      "Medicina Mixta": "",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Viernes 10am a 12:30pm",
+      "Precio Regular Tarjeta": "",
+      "Iva": "",
+      "Precio Regular Efectivo": "",
+      "Precio MS Tarjeta": "",
+      "Precio MS Efectivo": "",
+      "Forma De Pago": "",
+      "Enfoque De Atención": "",
+      "Tiempo de Consulta": "30",
+      "Tiempo De Espera": "",
+      "Comentario": "Realiza infiltraciones, los precios son 37301,25 por infiltración grande y 34104 por infiltración pequeña. Precio por consulta regular: 69273 / medismart y medisport 27709,50. Acepta tanto Medismart como Medisport",
+      "Seguros_Todos": "Medisport | Medismart"
     }
   ],
   "procedures": [
