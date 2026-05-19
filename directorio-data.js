@@ -3437,17 +3437,17 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "",
+      "Horario de Atención": "Lunes a Jueves 8am a 4pm, Viernes 8am a 3pm y Sábados 8am a 12pm (último paciente 11) con la hora de almuerzo a la 1pm",
       "Precio Regular Tarjeta": "Precio Brinda el Profesional en Consulta",
       "Iva": "No Aplica",
       "Precio Regular Efectivo": "Precio Brinda el Profesional en Consulta",
       "Precio MS Tarjeta": "Precio Brinda el Profesional en Consulta",
       "Precio MS Efectivo": "Precio Brinda el Profesional en Consulta",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños 12+ y adultos, deportistas",
+      "Enfoque De Atención": "Adultos deportistas",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Se agenda en medicina general, doctora: Adriana Carolina Saenz Rojas (Especialidad: Medicina general)Solo se realiza procedimiento NO consulta El Dr. Andrés Francisco Garzona Navas solo realiza la interpretación Tiempo de procedimientos: - Pruebas de esfuerzo45 min- Ergoespirometría (prueba de oxigenación VO2Max)45 min- Electrocardiogramas (Sin interpretación)45 minPrecio con MediSport- Prueba de esfuerzo68039-Ergoespirometría (VO2MAX)131040-Electrocardiograma (Sin interpretación)28020Enfoque de atención: Población adulta . Prueba de esfuerzo, ergoespirometría, revisión de exámenes, chequeo medico generalNO Acepta Medismart",
+      "Comentario": "Se agenda en medicina general, doctora: Adriana Carolina Saenz Rojas (Especialidad: Medicina general)Solo se realiza procedimiento NO consulta El Dr. Andrés Francisco Garzona Navas solo realiza la interpretación. Tiempo de procedimientos: 45 min - Pruebas de esfuerzo.  45 min - Ergoespirometría (prueba de oxigenación VO2Max). 45 min - Electrocardiogramas (Sin interpretación) - Precio con MediSport- Prueba de esfuerzo, ergoespirometría (VO2Max), Prueba de esfuerzo + lactato, ergoespirometría (VO2Max) + lactato, revisión de exámenes, chequeo medico general. NO Acepta Medismart.",
       "Seguros_Todos": "Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -17397,7 +17397,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Traumatología deportiva/recuperación de lesiones deportivas || Niños 12+ y adultos, deportistas",
       "Tiempo de Consulta": "20",
       "Tiempo De Espera": "10 min",
-      "Comentario": "Enfoque: Traumatología Deportiva. La disponibilidad es de lunes a viernes 9am a 6pm (último paciente 5:30) con la hora de almuerzo a la 1pm. (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART Tiempo de consulta de 30 mins. Médico especializado en traumatología deportiva, recuperación de lesiones Precio Medisport 27040",
+      "Comentario": "Enfoque: Traumatología Deportiva. La disponibilidad es de lunes a viernes 9am a 6pm (último paciente 5:30) con la hora de almuerzo a la 1pm. (VER EN LA CARPETA DE ZENIT LOS PRECIOS) NO acepta MEDISMART Tiempo de consulta de 30 mins. Médico especializado en traumatología deportiva, recuperación de lesiones y biomecánica clínica. Precio Medisport 27040",
       "Seguros_Todos": "Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
