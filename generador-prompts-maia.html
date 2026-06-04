@@ -552,7 +552,7 @@ var categories = [
     actions: [
       { label: 'Ver doctores por especialidad', fields: ['especialidad', 'sede'] },
       { label: 'Sede donde atiende un doctor', fields: ['nombreMedico'] },
-      { label: 'Precio / horario / sede de un doctor', fields: ['tipoDato', 'nombreMedico'] }
+      { label: 'Precio / horario / teléfono de un doctor', fields: ['tipoDato', 'nombreMedico'] }
     ],
     note: 'Debes indicar siempre si es Red Médica 🏥 o Hospital Metropolitano (HM) 🏨'
   },
@@ -651,7 +651,7 @@ var fieldDefs = {
   especialidad:       { label: 'Especialidad médica', type: 'text', placeholder: 'Ej: Cardiología, Audiología...' },
   sede:               { label: 'Sede', type: 'text', placeholder: 'Ej: Lindora, Cartago, San José...' },
   nombreMedico:       { label: 'Nombre del médico', type: 'text', placeholder: 'Ej: Dr. Jiménez' },
-  tipoDato:           { label: 'Qué información necesitas', type: 'select', options: ['precio', 'horario', 'sede', 'teléfono'] },
+  tipoDato:           { label: 'Qué información necesitas', type: 'select', options: ['precio', 'horario', 'teléfono'] },
   procedimientoRadio: { label: 'Procedimiento de radiología', type: 'text', placeholder: 'Ej: Doppler, Biopsia, US...' },
   tipoChequeo:        { label: 'Tipo de chequeo', type: 'select', options: ['Medismart', 'Particular', 'Oncosmart', 'BAC', 'Aseguradoras'] },
   producto:           { label: 'Producto o servicio', type: 'text', placeholder: 'Ej: Consulta de cardiología, Rayos X...' },
@@ -685,8 +685,12 @@ function buildPrompt(catId, action, system, values) {
   var sys = (system === 'General') ? '' : (' en ' + system);
   function v(key) { return values[key] || ('[' + (fieldDefs[key] ? fieldDefs[key].label : key) + ']'); }
 
+  var noSedeSystems = ['Magna', 'Santa Catalina', 'LHS'];
   if (catId === 'especialidades') {
-    if (action === 0) return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system + ' en ' + v('sede');
+    if (action === 0) {
+      if (noSedeSystems.indexOf(system) !== -1) return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system;
+      return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system + ' en ' + v('sede');
+    }
     if (action === 1) return 'En qué sede atiende el doctor ' + v('nombreMedico') + sys;
     if (action === 2) return 'Cuál es el ' + v('tipoDato') + ' del doctor ' + v('nombreMedico') + sys;
   }
@@ -818,13 +822,20 @@ function buildStep3(cat) {
   var container = document.getElementById('m-fields-container');
   container.innerHTML = '';
 
-  if (cat.actions.length > 1) {
+  // Para Magna/Santa Catalina/LHS en especialidades, solo mostrar primera acción
+  var noSedeSystems = ['Magna', 'Santa Catalina', 'LHS'];
+  var availableActions = cat.actions;
+  if (cat.id === 'especialidades' && noSedeSystems.indexOf(state.system) !== -1) {
+    availableActions = [cat.actions[0]];
+  }
+
+  if (availableActions.length > 1) {
     var f = document.createElement('div');
     f.className = 'm-field';
     f.innerHTML = '<label>¿Qué deseas hacer?</label>';
     var sel = document.createElement('select');
     sel.innerHTML = '<option value="">— Selecciona una acción —</option>';
-    cat.actions.forEach(function(a, i) {
+    availableActions.forEach(function(a, i) {
       var opt = document.createElement('option');
       opt.value = i;
       opt.textContent = a.label;
@@ -848,7 +859,13 @@ function buildStep3(cat) {
 function renderDynamicFields(cat, actionIdx) {
   document.querySelectorAll('#maia-gen .m-dynamic-field').forEach(function(el) { el.remove(); });
   var container = document.getElementById('m-fields-container');
-  var fields = (cat.actions[actionIdx] && cat.actions[actionIdx].fields) ? cat.actions[actionIdx].fields : [];
+  var fields = (cat.actions[actionIdx] && cat.actions[actionIdx].fields) ? cat.actions[actionIdx].fields.slice() : [];
+
+  // Para especialidades con Magna/Santa Catalina/LHS, quitar el campo 'sede'
+  var noSedeSystems = ['Magna', 'Santa Catalina', 'LHS'];
+  if (cat.id === 'especialidades' && actionIdx === 0 && noSedeSystems.indexOf(state.system) !== -1) {
+    fields = fields.filter(function(f) { return f !== 'sede'; });
+  }
 
   fields.forEach(function(fieldKey) {
     var def = fieldDefs[fieldKey];
