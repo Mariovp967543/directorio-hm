@@ -552,13 +552,13 @@ var categories = [
     actions: [
       { label: 'Ver doctores por especialidad', fields: ['especialidad', 'sede'] },
       { label: 'Sede donde atiende un doctor', fields: ['nombreMedico'] },
-      { label: 'Precio / horario / teléfono de un doctor', fields: ['tipoDato', 'nombreMedico'] }
+      { label: 'Precio / horario / sede / telefono de un doctor', fields: ['tipoDato', 'nombreMedico'] }
     ],
     note: 'Debes indicar siempre si es Red Médica 🏥 o Hospital Metropolitano (HM) 🏨'
   },
   {
     id: 'radiologia', icon: '🔬', name: 'Radiología',
-    systems: ['HM','Magna','Santa Catalina', 'Zennit','LHS'],
+    systems: ['HM','Magna','Santa Catalina'],
     actions: [
       { label: 'Radiólogos que realizan un procedimiento', fields: ['procedimientoRadio', 'sede'] }
     ],
@@ -610,7 +610,11 @@ var categories = [
   {
     id: 'informacion_general', icon: '📋', name: 'Información General',
     systems: ['MS','HM'],
-    actions: [{ label: 'Protocolo de atención', fields: [] }],
+    actions: [{ label: 'Formas de pago ', fields: [] },
+              { label: 'Cuentas bancarias', fields: [] },
+              { label: 'Protocolo de devoluciones de dinero', fields: [] },
+    
+    ],
     note: 'Debes incluir INFO HM o INFO MS para que MAIA devuelva el resultado correcto'
   },
   {
@@ -630,7 +634,7 @@ var categories = [
   },
   {
     id: 'promociones', icon: '🎯', name: 'Promociones',
-    systems: ['HM', 'MS', 'Medisport', 'Magna','Santa Catalina', 'Zennit','LHS'],
+    systems: ['HM', 'MS', 'Medisport', "Laboratorios Paez"],
     actions: [
       { label: 'Ver promociones', fields: [] },
       { label: 'Horarios frío', fields: [] }
@@ -640,9 +644,23 @@ var categories = [
     id: 'cirugias', icon: '🔧', name: 'Cirugías / Cotizaciones',
     systems: ['HM'],
     actions: [
-      { label: 'Escalamiento de casos - cotizaciones maternidad', fields: [] },
+      { label: 'Escalamiento de casos', fields: [] },
       { label: 'Cirugías que NO se realizan en HM', fields: [] },
-      { label: 'Jornada de cirugías vesícula', fields: [] }
+      { label: 'Precios de Jornadas', fields: [] },
+      { label: 'Fechas de Jornadas', fields: [] },
+      { label: 'Información de Jornadas', fields: [] },
+      { label: 'Protocolo de Cotizaciones', fields: [] },
+      { label: 'Contactos Cotizaciones Quirúrgicas', fields: [] }, 
+      { label: 'Contactos Sala de Operaciones', fields: [] },
+      { label: '¿Qué incluye la Cotización?', fields: [] },   
+      { label: 'Sedes con Hospitalización y Cantidad de Quirófanos', fields: [] },
+      { label: 'Protocolo Cirugías de Emergencia', fields: [] },
+      { label: 'Contactos Cotizaciones Maternidad', fields: [] },
+      { label: 'Protocolo Maternidad de Emergencia', fields: [] },
+      { label: 'Curso de preparación para parto', fields: [] },
+      { label: 'Gestor pacientes hospitalarios para cesáreas programadas', fields: [] },
+      { label: 'Cuál es el tour de Maternidad', fields: [] }
+
     ]
   }
 ];
@@ -651,7 +669,7 @@ var fieldDefs = {
   especialidad:       { label: 'Especialidad médica', type: 'text', placeholder: 'Ej: Cardiología, Audiología...' },
   sede:               { label: 'Sede', type: 'text', placeholder: 'Ej: Lindora, Cartago, San José...' },
   nombreMedico:       { label: 'Nombre del médico', type: 'text', placeholder: 'Ej: Dr. Jiménez' },
-  tipoDato:           { label: 'Qué información necesitas', type: 'select', options: ['precio', 'horario', 'teléfono'] },
+  tipoDato:           { label: 'Qué información necesitas', type: 'select', options: ['precio', 'horario', 'sede', 'teléfono'] },
   procedimientoRadio: { label: 'Procedimiento de radiología', type: 'text', placeholder: 'Ej: Doppler, Biopsia, US...' },
   tipoChequeo:        { label: 'Tipo de chequeo', type: 'select', options: ['Medismart', 'Particular', 'Oncosmart', 'BAC', 'Aseguradoras'] },
   producto:           { label: 'Producto o servicio', type: 'text', placeholder: 'Ej: Consulta de cardiología, Rayos X...' },
@@ -679,22 +697,153 @@ var fieldDefs = {
 };
 
 // =====================================================
+// SEDES DE UNA SOLA UBICACIÓN
+// (no requieren especificar sub-sede)
+// =====================================================
+var SEDES_SIN_SUBSEDE = ['Magna', 'Santa Catalina', 'Zennit', 'LHS'];
+function esSedeSinSubsede(system) {
+  return SEDES_SIN_SUBSEDE.indexOf(system) !== -1;
+}
+function esHM(system) {
+  return system === 'HM';
+}
+
+// =====================================================
+// MENÚS EN CASCADA (Campo 1 / Campo 2 / Campo 3)
+// Cada categoría devuelve, según la sede, una lista de acciones.
+// Cada acción tiene:
+//   - label:  texto en el desplegable de "¿Qué deseas hacer?"
+//   - levels: selects dependientes [{ label, options }], options puede
+//             ser un arreglo o una función(valoresPrevios) => arreglo
+//   - prompt: función(valores) => texto del Paso 4
+// Si la función devuelve null, la categoría usa el flujo normal.
+// =====================================================
+var CASCADES = {
+  // ---------- CHEQUEO MÉDICO ----------
+  chequeo: function(system) {
+    if (system === 'HM') {
+      var segmentos = {
+        'Medismart':   ['Adolescente', 'Hombre', 'Mujer' , 'Niños'],
+        'Particular':  ['Adolescente', 'Hombre', 'Mujer', 'Niños'],
+        'Aseguradora': ['Hombre', 'Mujer', 'Niños'],
+        'Oncosmart':   ['Hombre', 'Mujer'],
+        'BAC':         ['Hombre', 'Mujer']
+      };
+      var tipos = Object.keys(segmentos);
+      var cascadaTipoSegmento = [
+        { label: 'Tipo de chequeo', options: tipos },
+        { label: 'Segmento', options: function(v) { return segmentos[v[0]] || []; } }
+      ];
+      return [
+        { label: 'Ver qué incluye el Chequeo', levels: cascadaTipoSegmento,
+          prompt: function(v) { return 'Chequeos Médicos ' + system + ' ' + v[0] + ' para ' + v[1]; } },
+        { label: 'Precio del Chequeo', levels: cascadaTipoSegmento,
+          prompt: function(v) { return 'Chequeos Médicos ' + system + ' ' + v[0] + ' para ' + v[1] + ' Precio'; } },
+        { label: 'Protocolo de Agendamiento de Chequeos Médicos por Sede',
+          levels: [ { label: 'Sede', options: ['HM Lindora', 'HM Plaza Lincoln', 'HM Plaza del Sol', 'HM Quepos', 'HM Huacas', 'CMM Cariari', 'Santa Catalina', 'Aseguradora'] } ],
+          prompt: function(v) { return 'Protocolo de Agendamiento para Chequeos Médicos ' + v[0]; } }
+      ];
+    }
+    if (system === 'Santa Catalina') {
+      var seg = ['Adolescente', 'Hombre', 'Mujer', 'Niños'];
+      var casc = [
+        { label: 'Tipo de chequeo', options: ['Particular'] },
+        { label: 'Segmento', options: seg }
+      ];
+      return [
+        { label: 'Ver qué incluye el Chequeo', levels: casc,
+          prompt: function(v) { return 'Chequeos Médicos HM'  + ' ' + v[0] + ' para ' + v[1]; } },
+        { label: 'Precio del Chequeo', levels: casc,
+          prompt: function(v) { return 'Chequeos Médicos HM' + ' ' + v[0] + ' para ' + v[1] + ' Precio'; } }
+      ];
+    }
+    if (system === 'Zennit') {
+      var paquetes = ['Zenit MediSport Activo', 'Zenit MediSport Esencial', 'Zenit MediSport Performance'];
+      return [
+        { label: 'Ver qué incluye el Chequeo', levels: [ { label: 'Paquete', options: paquetes } ],
+          prompt: function(v) { return 'Chequeo Médico ' + v[0] + ' que incluye'; } },
+        { label: 'Precio del Chequeo', levels: [ { label: 'Paquete', options: paquetes } ],
+          prompt: function(v) { return 'Chequeo Médico ' + v[0] + ' precio'; } }
+      ];
+    }
+    return null; // Magna y LHS: flujo normal (paquete simple)
+  },
+
+  // ---------- PROMOCIONES ----------
+  promociones: function(system) {
+    if (system !== 'HM') return null; // MS / Medisport / Laboratorios Paez: flujo normal
+    return [
+      { label: 'Ver Promociones',
+        levels: [ { label: 'Categoría', options: ['SOP', 'Maternidad', 'TAC', 'Densitometría Ósea', 'Resonancia Magnética', 'Endoscopía'] } ],
+        prompt: function(v) { return 'Promociones de HM ' + v[0]; } },
+      { label: 'Horarios Frío',
+        levels: [ { label: 'Sede', options: ['Liberia', 'San José', 'Plaza Lincoln', 'Lindora', 'Plaza del Sol', 'San Carlos', 'Escazú', 'Quepos', 'Cariari C3'] } ],
+        prompt: function(v) { return 'Cuáles son los horarios frío de HM ' + v[0]; } }
+    ];
+  },
+
+  // ---------- CIRUGÍAS / COTIZACIONES (solo HM) ----------
+  cirugias: function(system) {
+    var cirugiasJornada = ['Cirugías Vesícula', 'Cirugías Hernia Inguinal', 'Cirugías Artroscopia de Rodilla', 'Cirugías Vasectomía'];
+    var sedesJornada = ['San José', 'Lindora', 'Santa Catalina', 'Plaza Lincoln', 'Liberia', 'San Carlos', 'Cariari C3', 'Escazú'];
+    var jornada = [
+      { label: 'Cirugía', options: cirugiasJornada },
+      { label: 'Sede', options: sedesJornada }
+    ];
+    return [
+      { label: 'Escalamiento de Casos en Salesforce',
+        levels: [ { label: 'Tipo de cotización', options: ['Cotización de Cirugía', 'Cotización de Hemodinamia', 'Cotización de Maternidad', 'Cotización de Manga Gástrica', 'Cotización de Bypass Gástrico'] } ],
+        prompt: function(v) { return 'Escalamiento de Casos en Salesforce ' + v[0]; } },
+      { label: 'Cuáles cirugías no se realizan en HM', levels: [],
+        prompt: function() { return 'Cuales CIRUGÍAS NO SE REALIZA EN HM'; } },
+      { label: 'Precios de Jornadas', levels: jornada,
+        prompt: function(v) { return 'Precio de la Jornada de ' + v[0] + ' en HM Sede ' + v[1]; } },
+      { label: 'Fechas de Jornadas', levels: jornada,
+        prompt: function(v) { return 'Fecha de la Jornada de ' + v[0] + ' en HM Sede ' + v[1]; } },
+      { label: 'Información de Jornadas', levels: jornada,
+        prompt: function(v) { return 'Información de la Jornada de ' + v[0] + ' en HM Sede ' + v[1]; } },
+      { label: 'Protocolo de Cotizaciones',
+        levels: [ { label: 'Tipo', options: ['Maternidad', 'Cirugías'] } ],
+        prompt: function(v) { return 'Protocolo de Cotizaciones de ' + v[0]; } },
+      { label: 'Otras Preguntas',
+        levels: [ { label: 'Pregunta', options: ['Contactos Cotizaciones Quirúrgicas', 'Contactos Sala de Operaciones', '¿Qué incluye la Cotización?', 'Sedes con Hospitalización y Cantidad de Quirófanos', 'Protocolo Cirugías de Emergencia', 'Contactos Cotizaciones Maternidad', 'Protocolo Maternidad de Emergencia', 'Curso de preparación para parto', 'Gestor pacientes hospitalarios para cesáreas programadas', 'Cuál es el tour de Maternidad'] } ],
+        prompt: function(v) { return v[0]; } }
+    ];
+  }
+};
+
+// =====================================================
 // PROMPT BUILDER
 // =====================================================
 function buildPrompt(catId, action, system, values) {
+  // Categorías con menús en cascada (Chequeo, Promociones HM, Cirugías)
+  if (state.cascadeActions) {
+    var cact = state.cascadeActions[action];
+    if (cact && cact.prompt) {
+      var cvals = cact.levels.map(function(lvl, i) {
+        var val = values['c' + i];
+        return (val === undefined || val === '') ? ('[' + lvl.label + ']') : val;
+      });
+      return cact.prompt(cvals);
+    }
+  }
+
   var sys = (system === 'General') ? '' : (' en ' + system);
   function v(key) { return values[key] || ('[' + (fieldDefs[key] ? fieldDefs[key].label : key) + ']'); }
 
-  var noSedeSystems = ['Magna', 'Santa Catalina', 'LHS'];
   if (catId === 'especialidades') {
     if (action === 0) {
-      if (noSedeSystems.indexOf(system) !== -1) return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system;
+      // Magna / Santa Catalina / Zennit / LHS: sin sub-sede en el prompt
+      if (esSedeSinSubsede(system)) return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system;
       return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system + ' en ' + v('sede');
     }
     if (action === 1) return 'En qué sede atiende el doctor ' + v('nombreMedico') + sys;
     if (action === 2) return 'Cuál es el ' + v('tipoDato') + ' del doctor ' + v('nombreMedico') + sys;
   }
-  if (catId === 'radiologia') return 'Cuáles son los RADIOLOGOS que realizan ' + v('procedimientoRadio') + ' en ' + system + ' ' + v('sede');
+  if (catId === 'radiologia') {
+    if (esHM(system)) return 'Cuáles son los RADIOLOGOS que realizan ' + v('procedimientoRadio') + ' en ' + system + ' ' + v('sede');
+    return 'Cuáles son los RADIOLOGOS que realizan ' + v('procedimientoRadio') + ' en ' + system;
+  }
   if (catId === 'chequeo') return 'Paquetes de Chequeo Médico ' + system + ' ' + v('tipoChequeo');
   if (catId === 'cotizador') {
     if (action === 0) return 'Precio de ' + v('producto') + sys;
@@ -713,8 +862,9 @@ function buildPrompt(catId, action, system, values) {
     return opts[action];
   }
   if (catId === 'informacion_general') {
-    var tag = (system === 'HM') ? 'Info HM' : 'Info MS';
-    return 'Protocolo de atención para ' + (system === 'HM' ? 'Hospital Metropolitano' : 'Medismart') + ' ' + tag;
+     if (action === 0 ) return '¿Cuales son las formas de pago de ' + system + '?';
+     if (action === 1 ) return '¿Cuáles son las cuentas bancarias de ' + system + '?';
+     if (action === 2 ) return '¿Protocolo de devoluciones de dinero en  ' + system + '?'
   }
   if (catId === 'autogestion_tema') {
     var tema = values['temaEspecial'] || '[Tema especial]';
@@ -725,10 +875,18 @@ function buildPrompt(catId, action, system, values) {
     return tema + ' — ' + libre;
   }
   if (catId === 'sedes') {
-    if (action === 0) return 'Cual son el horario de ' + v('tipoServicioSede') + ' de ' + system + ' ' + v('sede');
-    if (action === 1) return 'Medios de contacto de ' + system + ' ' + v('sede') + ' de ' + v('tipoServicioSede');
-    if (action === 2) return 'Cuál es la extensión de ' + system + ' ' + v('sede') + ' de ' + v('tipoServicioSede');
-    if (action === 3) return 'Cuál es la dirección de ' + system + ' ' + v('sede');
+    if (esHM(system)) {
+      if (action === 0) return 'Cual son el horario de ' + v('tipoServicioSede') + ' de ' + system + ' ' + v('sede');
+      if (action === 1) return 'Medios de contacto de ' + system + ' ' + v('sede') + ' de ' + v('tipoServicioSede');
+      if (action === 2) return 'Cuál es la extensión de ' + system + ' ' + v('sede') + ' de ' + v('tipoServicioSede');
+      if (action === 3) return 'Cuál es la dirección de ' + system + ' ' + v('sede');
+    } else {
+      // Sedes que no son HM: sin sub-sede en el prompt
+      if (action === 0) return 'Cual son el horario de ' + v('tipoServicioSede') + ' de ' + system;
+      if (action === 1) return 'Medios de contacto de ' + system + ' de ' + v('tipoServicioSede');
+      if (action === 2) return 'Cuál es la extensión de ' + system + ' de ' + v('tipoServicioSede');
+      if (action === 3) return 'Cuál es la dirección de ' + system;
+    }
   }
   if (catId === 'promociones') {
     if (action === 0) return 'Promociones de ' + system;
@@ -754,7 +912,7 @@ function temaToSubKey(tema) {
 // =====================================================
 // STATE
 // =====================================================
-var state = { catId: null, action: null, system: null, values: {} };
+var state = { catId: null, action: null, system: null, values: {}, cascadeActions: null };
 
 // =====================================================
 // INIT
@@ -775,7 +933,7 @@ function init() {
 }
 
 function selectCat(catId) {
-  state = { catId: catId, action: null, system: null, values: {} };
+  state = { catId: catId, action: null, system: null, values: {}, cascadeActions: null };
 
   document.querySelectorAll('#maia-gen .m-cat-btn').forEach(function(b) {
     b.classList.toggle('selected', b.dataset.catId === catId);
@@ -817,28 +975,58 @@ function selectCat(catId) {
   markSteps(2);
 }
 
+// Determina si una acción debe mostrarse según la sede seleccionada
+function isActionVisible(cat, i, system) {
+  // Especialidades: "Sede donde atiende un doctor" (1) se oculta en sedes de una sola ubicación
+  if (cat.id === 'especialidades' && i === 1 && esSedeSinSubsede(system)) return false;
+  // Cotizador: "Enviar cotización por correo" (1) solo disponible en HM
+  if (cat.id === 'cotizador' && i === 1 && !esHM(system)) return false;
+  // Promociones: "Horarios frío" (1) solo disponible en HM
+  if (cat.id === 'promociones' && i === 1 && !esHM(system)) return false;
+  return true;
+}
+
+// Devuelve la etiqueta de la acción, ajustada según la sede seleccionada
+function actionLabel(cat, i, system) {
+  // Sedes que no son HM: se quita la palabra "sede" de las etiquetas
+  if (cat.id === 'sedes' && !esHM(system)) {
+    var alt = ['Horario', 'Contacto', 'Extensión', 'Dirección'];
+    if (alt[i]) return alt[i];
+  }
+  return cat.actions[i].label;
+}
+
 function buildStep3(cat) {
   setStep(3);
   var container = document.getElementById('m-fields-container');
   container.innerHTML = '';
 
-  // Para Magna/Santa Catalina/LHS en especialidades, solo mostrar primera acción
-  var noSedeSystems = ['Magna', 'Santa Catalina', 'LHS'];
-  var availableActions = cat.actions;
-  if (cat.id === 'especialidades' && noSedeSystems.indexOf(state.system) !== -1) {
-    availableActions = [cat.actions[0]];
+  // ¿Categoría con menús en cascada para esta sede?
+  var cascadeActions = CASCADES[cat.id] ? CASCADES[cat.id](state.system) : null;
+  if (cascadeActions) {
+    state.cascadeActions = cascadeActions;
+    buildCascadeStep3(cat, cascadeActions, container);
+    markSteps(3);
+    return;
   }
+  state.cascadeActions = null; // flujo normal
 
-  if (availableActions.length > 1) {
+  // Acciones visibles según la sede seleccionada (conservando su índice original)
+  var visibleActions = [];
+  cat.actions.forEach(function(a, i) {
+    if (isActionVisible(cat, i, state.system)) visibleActions.push(i);
+  });
+
+  if (visibleActions.length > 1) {
     var f = document.createElement('div');
     f.className = 'm-field';
     f.innerHTML = '<label>¿Qué deseas hacer?</label>';
     var sel = document.createElement('select');
     sel.innerHTML = '<option value="">— Selecciona una acción —</option>';
-    availableActions.forEach(function(a, i) {
+    visibleActions.forEach(function(i) {
       var opt = document.createElement('option');
-      opt.value = i;
-      opt.textContent = a.label;
+      opt.value = i; // índice original — buildPrompt depende de él
+      opt.textContent = actionLabel(cat, i, state.system);
       sel.appendChild(opt);
     });
     sel.onchange = function() {
@@ -849,11 +1037,92 @@ function buildStep3(cat) {
     f.appendChild(sel);
     container.appendChild(f);
   } else {
-    state.action = 0;
-    renderDynamicFields(cat, 0);
+    state.action = visibleActions.length ? visibleActions[0] : 0;
+    renderDynamicFields(cat, state.action);
   }
 
   markSteps(3);
+}
+
+// =====================================================
+// RENDER EN CASCADA (Campo 1 / Campo 2 / Campo 3)
+// =====================================================
+function buildCascadeStep3(cat, actions, container) {
+  if (actions.length > 1) {
+    var f = document.createElement('div');
+    f.className = 'm-field';
+    f.innerHTML = '<label>¿Qué deseas hacer?</label>';
+    var sel = document.createElement('select');
+    sel.innerHTML = '<option value="">— Selecciona una acción —</option>';
+    actions.forEach(function(a, i) {
+      var opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = a.label;
+      sel.appendChild(opt);
+    });
+    sel.onchange = function() {
+      state.action = parseInt(sel.value);
+      renderCascadeLevels(container, actions[state.action]);
+    };
+    f.appendChild(sel);
+    container.appendChild(f);
+  } else {
+    state.action = 0;
+    renderCascadeLevels(container, actions[0]);
+  }
+}
+
+function renderCascadeLevels(container, action) {
+  document.querySelectorAll('#maia-gen .m-cascade-field').forEach(function(el) { el.remove(); });
+  state.values = {};
+  if (action.levels && action.levels.length > 0) {
+    renderCascadeLevel(container, action, 0);
+  }
+  generatePrompt();
+}
+
+function cascadeVals() {
+  var v = [];
+  for (var i = 0; i < 6; i++) {
+    if (state.values['c' + i] !== undefined) v[i] = state.values['c' + i];
+  }
+  return v;
+}
+
+function renderCascadeLevel(container, action, idx) {
+  var level = action.levels[idx];
+  if (!level) return;
+  var opts = (typeof level.options === 'function') ? level.options(cascadeVals()) : level.options;
+
+  var wrapper = document.createElement('div');
+  wrapper.className = 'm-field m-dynamic-field m-cascade-field';
+  wrapper.dataset.level = idx;
+  wrapper.innerHTML = '<label>' + level.label + '</label>';
+
+  var input = document.createElement('select');
+  input.innerHTML = '<option value="">— Selecciona —</option>';
+  opts.forEach(function(o) {
+    var op = document.createElement('option');
+    op.value = o; op.textContent = o;
+    input.appendChild(op);
+  });
+
+  input.onchange = function() {
+    state.values['c' + idx] = input.value;
+    // eliminar selects de niveles más profundos y sus valores
+    document.querySelectorAll('#maia-gen .m-cascade-field').forEach(function(el) {
+      if (parseInt(el.dataset.level) > idx) el.remove();
+    });
+    for (var k = idx + 1; k < 6; k++) { delete state.values['c' + k]; }
+    // mostrar el siguiente nivel si existe y se eligió un valor
+    if (input.value && action.levels[idx + 1]) {
+      renderCascadeLevel(container, action, idx + 1);
+    }
+    generatePrompt();
+  };
+
+  wrapper.appendChild(input);
+  container.appendChild(wrapper);
 }
 
 function renderDynamicFields(cat, actionIdx) {
@@ -861,9 +1130,19 @@ function renderDynamicFields(cat, actionIdx) {
   var container = document.getElementById('m-fields-container');
   var fields = (cat.actions[actionIdx] && cat.actions[actionIdx].fields) ? cat.actions[actionIdx].fields.slice() : [];
 
-  // Para especialidades con Magna/Santa Catalina/LHS, quitar el campo 'sede'
-  var noSedeSystems = ['Magna', 'Santa Catalina', 'LHS'];
-  if (cat.id === 'especialidades' && actionIdx === 0 && noSedeSystems.indexOf(state.system) !== -1) {
+  // Especialidades + sedes de una sola ubicación (Magna, Santa Catalina, Zennit, LHS):
+  // en "Ver doctores por especialidad" (acción 0) se quita el campo "Sede".
+  if (cat.id === 'especialidades' && actionIdx === 0 && esSedeSinSubsede(state.system)) {
+    fields = fields.filter(function(f) { return f !== 'sede'; });
+  }
+
+  // Radiología: el campo "Sede" solo aparece en HM.
+  if (cat.id === 'radiologia' && !esHM(state.system)) {
+    fields = fields.filter(function(f) { return f !== 'sede'; });
+  }
+
+  // Sedes / Horarios / Contacto: el campo "Sede" solo aparece en HM.
+  if (cat.id === 'sedes' && !esHM(state.system)) {
     fields = fields.filter(function(f) { return f !== 'sede'; });
   }
 
@@ -878,7 +1157,13 @@ function renderDynamicFields(cat, actionIdx) {
     if (def.type === 'select') {
       input = document.createElement('select');
       input.innerHTML = '<option value="">— Selecciona —</option>';
-      def.options.forEach(function(opt) {
+      var opts = def.options;
+      // Especialidades + sedes de una sola ubicación: en "Precio / horario / sede de un doctor"
+      // (acción 2) se quita la opción "sede" del campo "Qué información necesitas".
+      if (fieldKey === 'tipoDato' && cat.id === 'especialidades' && actionIdx === 2 && esSedeSinSubsede(state.system)) {
+        opts = opts.filter(function(o) { return o !== 'sede'; });
+      }
+      opts.forEach(function(opt) {
         var o = document.createElement('option');
         o.value = opt; o.textContent = opt;
         input.appendChild(o);
