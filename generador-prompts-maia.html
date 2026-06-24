@@ -1011,9 +1011,15 @@ function buildPrompt(catId, action, system, values) {
     }
   }
   if (catId === 'promociones') {
-    if (action === 0) return 'Promociones de ' + system;
+    if (action === 0) {
+        if (system === "Laboratorios Paez") {
+            return 'Promociones de Laboratorios Paez ' + month(today);
+        } else {
+            return 'Promociones de ' + system;
+        }
+    }
     if (action === 1) return 'Cuáles son los horarios frío de ' + system;
-  }
+}
   if (catId === 'cirugias') {
     var opts2 = ['Ver el paso paso de escalamiento de casos en Salesforce Cotizaciones De Maternidad','Cuales CIRUGÍAS NO SE REALIZA EN HM','Precio de la JORNADA DE CIRUGÍAS VESÍCULA en HM'];
     return opts2[action];
