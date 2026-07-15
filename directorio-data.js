@@ -9812,7 +9812,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "MED3215",
-      "Nombre Doctor": "Oscar Eduardo Duran Martinez",
+      "Nombre Doctor": "Oscar Eduardo Durán Martinez",
       "Especialidad": "Ginecología y Obstetricia",
       "Método De Ingreso": "Médico de Alquiler",
       "Sede": "H. Metropolitano Lindora",
