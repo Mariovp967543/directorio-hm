@@ -7401,14 +7401,14 @@ var DM_DATA = {
       "Precio Regular Tarjeta": "60000",
       "Iva": "2472",
       "Precio Regular Efectivo": "64472",
-      "Precio MS Tarjeta": "40000",
-      "Precio MS Efectivo": "41600",
+      "Precio MS Tarjeta": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
       "Forma De Pago": "EFECTIVO | TARJETA",
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Precio MS: 40 000 colones",
-      "Seguros_Todos": "Medismart"
+      "Comentario": "NO ACEPTA MS HASTA NUEVO AVISO",
+      "Seguros_Todos": ""
     },
     {
       "Id Medico": "MED13869",
