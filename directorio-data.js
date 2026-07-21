@@ -977,7 +977,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes de 1pm-4pm y Viernes 9am - 3:30pm. Agosto: \r\r\r\r\r\r\r\r\r\r\n 3 de agosto: 9:00 a. m. a 2:30 p. m.\r\r\r\r\r\r\r\r\r\r\n5 de agosto: 1:00 p. m. a 2:00 p. m.\r\r\r\r\r\r\r\r\r\r\n7 de agosto: 9:00 a. m. a 1:30 p. m.\r\r\r\r\r\r\r\r\r\r\n10 de agosto: 9:00 a. m. a 2:30 p. m.\r\r\r\r\r\r\r\r\r\r\n12 de agosto: 1:00 p. m. a 3:00 p. m.\r\r\r\r\r\r\r\r\r\r\n14 de agosto: 9:00 a. m. a 1:30 p. m.\r\r\r\r\r\r\r\r\r\r\n19 de agosto: 1:00 p. m. a 3:00 p. m.\r\r\r\r\r\r\r\r\r\r\n21 de agosto: 9:00 a. m. a 1:30 p. m.\r\r\r\r\r\r\r\r\r\r\n24 de agosto: 9:00 a. m. a 2:30 p. m.\r\r\r\r\r\r\r\r\r\r\n26 de agosto: 1:00 p. m. a 3:00 p. m.",
+      "Horario de Atención": "Lunes de 1pm-4pm y Viernes 9am - 3:30pm. Agosto: \r\r\r\r\r\r\r\r\r\r\r\n 3 de agosto: 9:00 a. m. a 2:30 p. m.\r\r\r\r\r\r\r\r\r\r\r\n5 de agosto: 1:00 p. m. a 2:00 p. m.\r\r\r\r\r\r\r\r\r\r\r\n7 de agosto: 9:00 a. m. a 1:30 p. m.\r\r\r\r\r\r\r\r\r\r\r\n10 de agosto: 9:00 a. m. a 2:30 p. m.\r\r\r\r\r\r\r\r\r\r\r\n12 de agosto: 1:00 p. m. a 3:00 p. m.\r\r\r\r\r\r\r\r\r\r\r\n14 de agosto: 9:00 a. m. a 1:30 p. m.\r\r\r\r\r\r\r\r\r\r\r\n19 de agosto: 1:00 p. m. a 3:00 p. m.\r\r\r\r\r\r\r\r\r\r\r\n21 de agosto: 9:00 a. m. a 1:30 p. m.\r\r\r\r\r\r\r\r\r\r\r\n24 de agosto: 9:00 a. m. a 2:30 p. m.\r\r\r\r\r\r\r\r\r\r\r\n26 de agosto: 1:00 p. m. a 3:00 p. m.",
       "Precio Regular Tarjeta": "88750",
       "Iva": "3550",
       "Precio Regular Efectivo": "92300",
@@ -3317,7 +3317,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes después de las 2 pm a 7 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles De 8 am a 7 pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves después de la 1 pm a 7 pm",
+      "Horario de Atención": "Martes después de las 2 pm a 7 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles De 8 am a 7 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves después de la 1 pm a 7 pm",
       "Precio Regular Tarjeta": "68497.88",
       "Iva": "2739.9152000000004",
       "Precio Regular Efectivo": "71237.79520000001",
@@ -5671,8 +5671,8 @@ var DM_DATA = {
       "Seguros_Todos": "Medismart Todos los seguros del H.M"
     },
     {
-      "Id Medico": "MED6837",
-      "Nombre Doctor": "Omar Alfaro Murillo",
+      "Id Medico": "MED4732",
+      "Nombre Doctor": "Omar Adolfo Alfaro Murillo",
       "Especialidad": "Endoscopía",
       "Método De Ingreso": "Servicios Profesionales",
       "Sede": "H. Metropolitano San Carlos",
@@ -5701,7 +5701,7 @@ var DM_DATA = {
       "Seguros_Todos": "Medismart Todos los seguros del H.M"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED8607",
       "Nombre Doctor": "Oscar Araúz Villarreal",
       "Especialidad": "Endoscopía",
       "Método De Ingreso": "Servicios Profesionales",
@@ -5877,7 +5877,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños | Adolescentes menores 15 años",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "10",
-      "Comentario": "Se agenda en ZH con la siguiente ruta:\r\r\r\r\r\r\r\r\r\r\r\nEspecialidad: Terapia de Lenguaje \r\r\r\r\r\r\r\r\r\r\r\nCategoría: Estimulación Temparana",
+      "Comentario": "Se agenda en ZH con la siguiente ruta:\r\r\r\r\r\r\r\r\r\r\r\r\nEspecialidad: Terapia de Lenguaje \r\r\r\r\r\r\r\r\r\r\r\r\nCategoría: Estimulación Temparana",
       "Seguros_Todos": "Medismart | Palig | INS | BMI | Adisa | Mapfre | Redbrige | ASSA | Mediprocesos | Bluecross"
     },
     {
@@ -6177,7 +6177,7 @@ var DM_DATA = {
       "Enfoque De Atención": "De 0 años en adelante",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento que se realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nUltrasonido fisiatría: uso de ultrasonido : ₡22,810\r\r\r\r\r\r\r\r\r\r\r\r\nElectromiografía:₡ 174,720 \r\r\r\r\r\r\r\r\r\r\r\r\nInfiltraciones: Kit para infiltraciones articulares en consultorio ( ₡ 29,094.98) + Honorarios médicos Infiltración (₡ 39,381.68)",
+      "Comentario": "Procedimiento que se realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nUltrasonido fisiatría: uso de ultrasonido : ₡22,810\r\r\r\r\r\r\r\r\r\r\r\r\r\nElectromiografía:₡ 174,720 \r\r\r\r\r\r\r\r\r\r\r\r\r\nInfiltraciones: Kit para infiltraciones articulares en consultorio ( ₡ 29,094.98) + Honorarios médicos Infiltración (₡ 39,381.68)",
       "Seguros_Todos": "Medismart | Acepta todos los seguros"
     },
     {
@@ -6207,7 +6207,7 @@ var DM_DATA = {
       "Enfoque De Atención": "De 0 años en adelante",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento que se realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nUltrasonido fisiatría: uso de ultrasonido\r\r\r\r\r\r\r\r\r\r\r\r\nElectromiografía\r\r\r\r\r\r\r\r\r\r\r\r\nInfiltraciones: Kit para infiltraciones articulares en consultorio  + Honorarios médicos Infiltración \r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nprecio se consulta con el médico",
+      "Comentario": "Procedimiento que se realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nUltrasonido fisiatría: uso de ultrasonido\r\r\r\r\r\r\r\r\r\r\r\r\r\nElectromiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\nInfiltraciones: Kit para infiltraciones articulares en consultorio  + Honorarios médicos Infiltración \r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nprecio se consulta con el médico",
       "Seguros_Todos": "Medismart | Acepta todos los seguros"
     },
     {
@@ -6327,7 +6327,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, deportistas, adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Enfoque: Masajes. MASAJITAS. NO acepta MEDISMART. Acepta MEDISPORT. atención para Especialidad Masaje Relajante Zenit:\r\r\r\r\r\r\r\r\r\r\r\r\nEn espacios de 1 hora, hora de inicio y hora de finalización de la última cita. Lunes 2:00 pm a 6:00 pm Martes 9:00 am a 1:00 pm Miércoles 3:00 pm a 7:00 pm Jueves 9:00 am a 1:00 pm Viernes 2:00 pm a 6:00 pm Sábado 8:00 am a 12:00 md",
+      "Comentario": "Enfoque: Masajes. MASAJITAS. NO acepta MEDISMART. Acepta MEDISPORT. atención para Especialidad Masaje Relajante Zenit:\r\r\r\r\r\r\r\r\r\r\r\r\r\nEn espacios de 1 hora, hora de inicio y hora de finalización de la última cita. Lunes 2:00 pm a 6:00 pm Martes 9:00 am a 1:00 pm Miércoles 3:00 pm a 7:00 pm Jueves 9:00 am a 1:00 pm Viernes 2:00 pm a 6:00 pm Sábado 8:00 am a 12:00 md",
       "Seguros_Todos": "MEDISPORT"
     },
     {
@@ -6677,7 +6677,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes a viernes: 7:00 a.m. a 5:00 p.m.\r\r\r\r\r\r\r\r\r\r\r\r\n Sábados: 7:00 a.m. a 1:00 p.m.",
+      "Horario de Atención": "Lunes a viernes: 7:00 a.m. a 5:00 p.m.\r\r\r\r\r\r\r\r\r\r\r\r\r\n Sábados: 7:00 a.m. a 1:00 p.m.",
       "Precio Regular Tarjeta": "38082",
       "Iva": "1523.28",
       "Precio Regular Efectivo": "39605.28",
@@ -7891,7 +7891,7 @@ var DM_DATA = {
       "Seguros_Todos": "INS (Copago)"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED4732",
       "Nombre Doctor": "Omar Adolfo Alfaro Murillo",
       "Especialidad": "Gastroenterología",
       "Método De Ingreso": "Servicios Profesionales",
@@ -8607,7 +8607,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". Reservar únicamente el espacio de 4:30 p. m. a 5:00 p. m. para pacientes MS.\r\r\r\nLa Dra. Lawson solicita atender un máximo de un paciente MS por día",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". Reservar únicamente el espacio de 4:30 p. m. a 5:00 p. m. para pacientes MS.\r\r\r\r\nLa Dra. Lawson solicita atender un máximo de un paciente MS por día",
       "Seguros_Todos": "Medismart"
     },
     {
@@ -14547,7 +14547,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH)\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nPsicodiagnóstico\r\r\r\r\r\r\r\r\r\r\r\r\nEstimulación cognitiva del adulto mayor\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Congnitivo Conductual (TCC)\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación Neuropsicológica\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno del espectro autista TEA\r\r\r\r\r\r\r\r\r\r\r\r\nRehabilitación cognitiva\r\r\r\r\r\r\r\r\r\r\r\r\nPruebas psicométricas . Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés",
+      "Comentario": "Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH)\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicodiagnóstico\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstimulación cognitiva del adulto mayor\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Congnitivo Conductual (TCC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación Neuropsicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno del espectro autista TEA\r\r\r\r\r\r\r\r\r\r\r\r\r\nRehabilitación cognitiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nPruebas psicométricas . Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -19607,7 +19607,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
+      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
       "Precio Regular Tarjeta": "69156",
       "Iva": "2766.24",
       "Precio Regular Efectivo": "71922.24",
@@ -20671,7 +20671,7 @@ var DM_DATA = {
       "Seguros_Todos": "No Acepta Seguros"
     },
     {
-      "Id Medico": "MED9124",
+      "Id Medico": "MED6837",
       "Nombre Doctor": "Juan Carlos Zúñiga Madrigal",
       "Especialidad": "Pediatría",
       "Método De Ingreso": "Servicios Profesionales",
@@ -21417,7 +21417,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que se realiza: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales. Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que se realiza: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales. Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21447,7 +21447,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja. TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos que se realiza: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales",
+      "Comentario": "Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja. TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos que se realiza: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21467,7 +21467,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 9am a 2pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 9am a 2pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 10am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
+      "Horario de Atención": "Lunes 9am a 2pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 9am a 2pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 10am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21477,7 +21477,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Acompañamiento en el duelo\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento al proceso de morir\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento familiar cuando un ser querido está en el proceso de morir o ya ha trascendido\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en el tema de la muerte\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento ante la muerte de la mascota\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en rituales de despedida\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en actos simbólicos de despedida\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo a cuidadores\r\r\r\r\r\r\r\r\r\r\r\r\nAtención a personas con cáncer\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nPsiconeuroinmunología en pacientes con cáncer",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Acompañamiento en el duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento al proceso de morir\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento familiar cuando un ser querido está en el proceso de morir o ya ha trascendido\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en el tema de la muerte\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento ante la muerte de la mascota\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en rituales de despedida\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en actos simbólicos de despedida\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo a cuidadores\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención a personas con cáncer\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsiconeuroinmunología en pacientes con cáncer",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21527,7 +21527,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 2pm a 6pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 3pm a 8pm (Cada 15)\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 2pm (cada 15)",
+      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 2pm a 6pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 3pm a 8pm (Cada 15)\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 2pm (cada 15)",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21537,7 +21537,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes | Adultos | Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Psicoterapia:\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\n- Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\n-Acompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta general\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\n-Apoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\n-Intervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\n-Fobias\r\r\r\r\r\r\r\r\r\r\r\r\n-Construcción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\n-Desarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas.",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Psicoterapia:\r\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\r\n- Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Acompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Apoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Intervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Fobias\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Construcción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Desarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21587,7 +21587,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8am 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nMartes de 8 a 2pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 6pm",
+      "Horario de Atención": "Lunes 8am 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de 8 a 2pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 6pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21597,7 +21597,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +5, Adolecentes y Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos: Ansiedad \r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en el duelo \r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nTranstornos de adaptación\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\nTrauma Psicológico\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia psicológica\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en proyecto de vida a pensionados y adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno del espectro autista\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia grupal\r\r\r\r\r\r\r\r\r\r\r\r\nElección de parejas saludables\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja",
+      "Comentario": "Procedimientos: Ansiedad \r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en el duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstornos de adaptación\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrauma Psicológico\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia psicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en proyecto de vida a pensionados y adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno del espectro autista\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia grupal\r\r\r\r\r\r\r\r\r\r\r\r\r\nElección de parejas saludables\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21627,7 +21627,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento: Enfoque: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nAdicciones al Consumo de Sustancias Psicoactivas\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1) TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento: Enfoque: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nAdicciones al Consumo de Sustancias Psicoactivas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1) TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21647,7 +21647,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
+      "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21657,7 +21657,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nAdicciones al Consumo de Sustancias Psicoactivas\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1). TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nAdicciones al Consumo de Sustancias Psicoactivas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1). TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21687,7 +21687,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nAdicciones al Consumo de Sustancias Psicoactivas\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general |TODOS LOS SEGUROS POR REEMBOLSOS|60 min de consulta individual. Y 90 Min  Pareja",
+      "Comentario": "Enfoque: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nAdicciones al Consumo de Sustancias Psicoactivas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general |TODOS LOS SEGUROS POR REEMBOLSOS|60 min de consulta individual. Y 90 Min  Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21717,7 +21717,7 @@ var DM_DATA = {
       "Enfoque De Atención": "(14 años en adelante) adolecentes| Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Cognitivo-Conductual. Idiomas: Español (Nativo) e inglés (avanzado/C1), Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica. Atiende mayores 14 años en adelante. NO atiende adultos mayores. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Enfoque: Cognitivo-Conductual. Idiomas: Español (Nativo) e inglés (avanzado/C1), Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica. Atiende mayores 14 años en adelante. NO atiende adultos mayores. TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21747,7 +21747,7 @@ var DM_DATA = {
       "Enfoque De Atención": "(15 años en adelante) adolecentes| Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Consulta individual | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1). TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende mayores  14 años en adelante. NO atiende adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica. cognitivo-conductual",
+      "Comentario": "Consulta individual | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1). TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende mayores  14 años en adelante. NO atiende adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica. cognitivo-conductual",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21767,7 +21767,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
+      "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21777,7 +21777,7 @@ var DM_DATA = {
       "Enfoque De Atención": "(15 años en adelante) adolecentes| Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "60 min de consulta individual. Y 90 Min Familia\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS. Idiomas: Español (Nativo) e inglés (avanzado/C1)\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende mayores  14 años en adelante. NO atiende adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica",
+      "Comentario": "60 min de consulta individual. Y 90 Min Familia\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS. Idiomas: Español (Nativo) e inglés (avanzado/C1)\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende mayores  14 años en adelante. NO atiende adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21807,7 +21807,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +5 años | Adolescentes| Adulto",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo. Idiomas: Español (Nativo) e inglés (avanzado/C1). 60 min de consulta individual. Y 90 Min Familia y Pareja. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento: Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo. Idiomas: Español (Nativo) e inglés (avanzado/C1). 60 min de consulta individual. Y 90 Min Familia y Pareja. TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21867,7 +21867,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia",
+      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21897,7 +21897,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Idiomas Inglés Español | TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia",
+      "Comentario": "Idiomas Inglés Español | TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia",
       "Seguros_Todos": "Medismart| MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21917,7 +21917,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 1pm a 10pm. Miercoles 8am a 3pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 3pm",
+      "Horario de Atención": "Lunes 1pm a 10pm. Miercoles 8am a 3pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 3pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21927,7 +21927,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia. Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia. Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21947,7 +21947,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 8am 7pm  \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 11am",
+      "Horario de Atención": "Martes 8am 7pm  \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 11am",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21957,7 +21957,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, Adultos mayores y adolescentes",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos que se realiza: Ataques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\nCoaching Relacional y Organizacional\r\r\r\r\r\r\r\r\r\r\r\r\nProgramación Neurolinguistica\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Holística\r\r\r\r\r\r\r\r\r\r\r\r\nMentoría en Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del Estrés, Estrés Postrauma\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima-Inseguridad\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y Manejo adecuado de relaciones sociales\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Metas\r\r\r\r\r\r\r\r\r\r\r\r\nHipnosis\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual.| 90 min de consulta Familiar y Pareja",
+      "Comentario": "Procedimientos que se realiza: Ataques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\r\nCoaching Relacional y Organizacional\r\r\r\r\r\r\r\r\r\r\r\r\r\nProgramación Neurolinguistica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Holística\r\r\r\r\r\r\r\r\r\r\r\r\r\nMentoría en Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del Estrés, Estrés Postrauma\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima-Inseguridad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y Manejo adecuado de relaciones sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Metas\r\r\r\r\r\r\r\r\r\r\r\r\r\nHipnosis\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual.| 90 min de consulta Familiar y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21987,7 +21987,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, Adultos mayores y adolescentes",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos que se realiza: Ataques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\nCoaching Relacional y Organizacional\r\r\r\r\r\r\r\r\r\r\r\r\nProgramación Neurolinguistica\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Holística\r\r\r\r\r\r\r\r\r\r\r\r\nMentoría en Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del Estrés, Estrés Postrauma\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima-Inseguridad\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y Manejo adecuado de relaciones sociales\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Metas\r\r\r\r\r\r\r\r\r\r\r\r\nHipnosis",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos que se realiza: Ataques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\r\nCoaching Relacional y Organizacional\r\r\r\r\r\r\r\r\r\r\r\r\r\nProgramación Neurolinguistica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Holística\r\r\r\r\r\r\r\r\r\r\r\r\r\nMentoría en Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del Estrés, Estrés Postrauma\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima-Inseguridad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Blandas\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y Manejo adecuado de relaciones sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Metas\r\r\r\r\r\r\r\r\r\r\r\r\r\nHipnosis",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22037,7 +22037,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "NO",
-      "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
+      "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22077,7 +22077,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Solo Niños | Adolescentes",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento: Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\n Proyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales. Idiomas: Español (Nativo) e inglés (avanzado/C1) \r\r\r\r\r\r\r\r\r\r\r\r\nEl enfoque de atención: solo atiende ninos y adolecentes( menores edad) TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento: Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n Proyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales. Idiomas: Español (Nativo) e inglés (avanzado/C1) \r\r\r\r\r\r\r\r\r\r\r\r\r\nEl enfoque de atención: solo atiende ninos y adolecentes( menores edad) TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22107,7 +22107,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños | Adolescentes",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "(SOLO NIÑO) Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\n Proyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1) \r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nEl enfoque de atención: solo atiende ninos y adolecentes( menores edad). TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "(SOLO NIÑO) Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n Proyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1) \r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nEl enfoque de atención: solo atiende ninos y adolecentes( menores edad). TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22137,7 +22137,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescente",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Psicología Infantil agendar en 1 hora\r\r\r\r\r\r\r\r\r\r\r\r\nMismo precio individual y familiar",
+      "Comentario": "Psicología Infantil agendar en 1 hora\r\r\r\r\r\r\r\r\r\r\r\r\r\nMismo precio individual y familiar",
       "Seguros_Todos": "Medismart | Palig | INS | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa | Redbrige"
     },
     {
@@ -22167,7 +22167,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños | Adolescentes | Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento: Terapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\r\r\r\r\r\r\r\r\r\r\r\n|Doctores Dent Centro medico Yoses\t\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento: Terapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\r\r\r\r\r\r\r\r\r\r\r\r\n|Doctores Dent Centro medico Yoses\t\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22197,7 +22197,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS |60 min de consulta individual. Y 90 Min Pareja |Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS |60 min de consulta individual. Y 90 Min Pareja |Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22227,7 +22227,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños + 3 años/ Adolescentes / Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22257,7 +22257,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños + 3 años/ Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento: Terapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento: Terapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22317,7 +22317,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos +18, - 45",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos: Aspectos que desean trabajar:\r\r\r\r\r\r\r\r\r\r\r\r\nVivís en modo supervivencia emocional, alerta permanente, hipervigilancia, ansiedad generalizada. \r\r\r\r\r\r\r\r\r\r\r\r\nSobrecarga mental y emocional\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo al fracaso. \r\r\r\r\r\r\r\r\r\r\r\r\nAutoexigencia y control crónicos\r\r\r\r\r\r\r\r\r\r\r\r\nDesconexión interna\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\nIntolerancia a la incertidumbre\r\r\r\r\r\r\r\r\r\r\r\r\nContextos de la vida cotidiana donde se pueden presentar:\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés laboral\r\r\r\r\r\r\r\r\r\r\r\r\nDificultad para tomar decisiones\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo a la exposición\r\r\r\r\r\r\r\r\r\r\r\r\nSensación de estancamiento personal\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis vitales o cambios importantes\r\r\r\r\r\r\r\r\r\r\r\r\nSintomas:\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad - depresión leve a moderada\r\r\r\r\r\r\r\r\r\r\r\r\nInseguridad y miedo\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés y burnout\r\r\r\r\r\r\r\r\r\r\r\r\nDesregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis personales o crisis de adapación\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. NOTA IMPORTANTE:\r\r\r\r\r\r\r\r\r\r\r\r\nSolo atiende poblacion Adulto Joven de 25 años a 45 años\r\r\r\r\r\r\r\r\r\r\r\r\ncon algunas excepciones de 18 a 25 años pero para ello mejor brindar el numero de la clincia de Herrera Amighetti  6203 4579",
+      "Comentario": "Procedimientos: Aspectos que desean trabajar:\r\r\r\r\r\r\r\r\r\r\r\r\r\nVivís en modo supervivencia emocional, alerta permanente, hipervigilancia, ansiedad generalizada. \r\r\r\r\r\r\r\r\r\r\r\r\r\nSobrecarga mental y emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo al fracaso. \r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoexigencia y control crónicos\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesconexión interna\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntolerancia a la incertidumbre\r\r\r\r\r\r\r\r\r\r\r\r\r\nContextos de la vida cotidiana donde se pueden presentar:\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés laboral\r\r\r\r\r\r\r\r\r\r\r\r\r\nDificultad para tomar decisiones\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo a la exposición\r\r\r\r\r\r\r\r\r\r\r\r\r\nSensación de estancamiento personal\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis vitales o cambios importantes\r\r\r\r\r\r\r\r\r\r\r\r\r\nSintomas:\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad - depresión leve a moderada\r\r\r\r\r\r\r\r\r\r\r\r\r\nInseguridad y miedo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés y burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis personales o crisis de adapación\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. NOTA IMPORTANTE:\r\r\r\r\r\r\r\r\r\r\r\r\r\nSolo atiende poblacion Adulto Joven de 25 años a 45 años\r\r\r\r\r\r\r\r\r\r\r\r\r\ncon algunas excepciones de 18 a 25 años pero para ello mejor brindar el numero de la clincia de Herrera Amighetti  6203 4579",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22347,7 +22347,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento: Psicología Perinatal (antes, durante y después de la gestación) \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia \r\r\r\r\r\r\r\r\r\r\r\r\nVínculos / relaciones saludables \r\r\r\r\r\r\r\r\r\r\r\r\nComunicación asertiva \r\r\r\r\r\r\r\r\r\r\r\r\nAutocuidado \r\r\r\r\r\r\r\r\r\r\r\r\nSanación del niño interior \r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nHipnoterapia sugestiva  \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Humanista \r\r\r\r\r\r\r\r\r\r\r\r\nHipnosis clínica. TODOS LOS SEGUROS POR REEMBOLSOS. 60 min de consulta individual. Y 90 Min Familia y Pareja",
+      "Comentario": "Procedimiento: Psicología Perinatal (antes, durante y después de la gestación) \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia \r\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos / relaciones saludables \r\r\r\r\r\r\r\r\r\r\r\r\r\nComunicación asertiva \r\r\r\r\r\r\r\r\r\r\r\r\r\nAutocuidado \r\r\r\r\r\r\r\r\r\r\r\r\r\nSanación del niño interior \r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nHipnoterapia sugestiva  \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Humanista \r\r\r\r\r\r\r\r\r\r\r\r\r\nHipnosis clínica. TODOS LOS SEGUROS POR REEMBOLSOS. 60 min de consulta individual. Y 90 Min Familia y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22377,7 +22377,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes / Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja. Psicología Perinatal (antes, durante y después de la gestación) \r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja \r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de familia \r\r\r\r\r\r\r\r\r\r\r\r\n• Vínculos / relaciones saludables \r\r\r\r\r\r\r\r\r\r\r\r\n• Comunicación asertiva \r\r\r\r\r\r\r\r\r\r\r\r\n• Autocuidado \r\r\r\r\r\r\r\r\r\r\r\r\n• Sanación del niño interior \r\r\r\r\r\r\r\r\r\r\r\r\n• Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\n• Hipnoterapia sugestiva  \r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia Humanista \r\r\r\r\r\r\r\r\r\r\r\r\n• Hipnosis clínica",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja. Psicología Perinatal (antes, durante y después de la gestación) \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de familia \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Vínculos / relaciones saludables \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Comunicación asertiva \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Autocuidado \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Sanación del niño interior \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Hipnoterapia sugestiva  \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia Humanista \r\r\r\r\r\r\r\r\r\r\r\r\r\n• Hipnosis clínica",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22407,7 +22407,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Infantil, Adolescente, Adulta y Adulta mayor.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de alimentación\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos inconsistentes / relaciones saludables\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de heridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal\r\r\r\r\r\r\r\r\r\r\r\r\nEspecialista en procesos de sanación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del estrés \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia focalizada en emociones \r\r\r\r\r\r\r\r\r\r\r\r\nCreencias Limitantes\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual niños y adolescentes\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés.",
+      "Comentario": "Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de alimentación\r\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos inconsistentes / relaciones saludables\r\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de heridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspecialista en procesos de sanación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del estrés \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia focalizada en emociones \r\r\r\r\r\r\r\r\r\r\r\r\r\nCreencias Limitantes\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual niños y adolescentes\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22437,7 +22437,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescentes | Adulto",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de alimentación\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos inconsistentes / relaciones saludables\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de heridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal\r\r\r\r\r\r\r\r\r\r\r\r\nEspecialista en procesos de sanación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del estrés \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia focalizada en emociones \r\r\r\r\r\r\r\r\r\r\r\r\nCreencias Limitantes\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual niños y adolescentes\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSO \r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés",
+      "Comentario": "Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de alimentación\r\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos inconsistentes / relaciones saludables\r\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de heridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspecialista en procesos de sanación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del estrés \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia focalizada en emociones \r\r\r\r\r\r\r\r\r\r\r\r\r\nCreencias Limitantes\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual niños y adolescentes\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSO \r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22467,7 +22467,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de separación\r\r\r\r\r\r\r\r\r\r\r\r\nAgorafobia\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de alimentación\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nProblemas de adicción\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos / relaciones saludables\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación de las emociones, estrés laboral/ burnout\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo",
+      "Comentario": "Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia familiar\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de separación\r\r\r\r\r\r\r\r\r\r\r\r\r\nAgorafobia\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de alimentación\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nProblemas de adicción\r\r\r\r\r\r\r\r\r\r\r\r\r\nVínculos / relaciones saludables\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación de las emociones, estrés laboral/ burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22487,7 +22487,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 10 am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nMartes 10 am a 6pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10 am 7pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 10am a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 10am a 7pm",
+      "Horario de Atención": "Lunes 10 am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 10 am a 6pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10 am 7pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 10am a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 10am a 7pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22497,7 +22497,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolecentes+13, Adultos, Adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos: Atención psicológica individual y grupal\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nEmergencia Psicológica \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nConductas Adictivas. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja",
+      "Comentario": "Procedimientos: Atención psicológica individual y grupal\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nEmergencia Psicológica \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nConductas Adictivas. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22527,7 +22527,7 @@ var DM_DATA = {
       "Enfoque De Atención": "(+15 años ) Adolescentes | Adultos | Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del estrés\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima e inteligencia emocional Atiende Adolescentes de 15 en adelante, NO niños.",
+      "Comentario": "Procedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo del estrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima e inteligencia emocional Atiende Adolescentes de 15 en adelante, NO niños.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22557,7 +22557,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos | Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Psicología Clínica\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\nMenopausia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nEmergencia Psicológica \r\r\r\r\r\r\r\r\r\r\r\r\nFarmacodependencia\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno de personalidad paranoica\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nAgorafobia\r\r\r\r\r\r\r\r\r\r\r\r\nJuego Compulsivo |TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Psicología Clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\r\nMenopausia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nEmergencia Psicológica \r\r\r\r\r\r\r\r\r\r\r\r\r\nFarmacodependencia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno de personalidad paranoica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nAgorafobia\r\r\r\r\r\r\r\r\r\r\r\r\r\nJuego Compulsivo |TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22587,7 +22587,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior \r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\n Autoestima\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura. Idiomas: Español (Nativo)\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja",
+      "Comentario": "Procedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior \r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\n Autoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura. Idiomas: Español (Nativo)\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22617,7 +22617,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Idiomas: Español (Nativo)\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior \r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\n Autoestima\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura",
+      "Comentario": "Idiomas: Español (Nativo)\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior \r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\n Autoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22647,7 +22647,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "15",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior \r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\n Autoestima\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior \r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\n Autoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22677,7 +22677,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos:\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de estrés crónico y Burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nSanidad del niño (a) Interior\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaque de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nAfrontamiento de Ruptura",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22707,7 +22707,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes, Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Coaching\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nTécnicas de Terapia Cognitivo Conductual\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\nEnfoque Integral mente-cuerpo\r\r\r\r\r\r\r\r\r\r\r\r\nMejora la relación con el cuerpo y la comida\r\r\r\r\r\r\r\r\r\r\r\r\nHeridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación de las emociones, estrés laboral/ burnout. \r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Coaching\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTécnicas de Terapia Cognitivo Conductual\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEnfoque Integral mente-cuerpo\r\r\r\r\r\r\r\r\r\r\r\r\r\nMejora la relación con el cuerpo y la comida\r\r\r\r\r\r\r\r\r\r\r\r\r\nHeridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación de las emociones, estrés laboral/ burnout. \r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22737,7 +22737,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes, Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Coaching\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nTécnicas de Terapia Cognitivo Conductual\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\nEnfoque Integral mente-cuerpo\r\r\r\r\r\r\r\r\r\r\r\r\nMejora la relación con el cuerpo y la comida\r\r\r\r\r\r\r\r\r\r\r\r\nHeridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación de las emociones, estrés laboral/ burnout",
+      "Comentario": "Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Coaching\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTécnicas de Terapia Cognitivo Conductual\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nMediación y Resolución de Conflictos\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad y depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo del Liderazgo\r\r\r\r\r\r\r\r\r\r\r\r\r\nEnfoque Integral mente-cuerpo\r\r\r\r\r\r\r\r\r\r\r\r\r\nMejora la relación con el cuerpo y la comida\r\r\r\r\r\r\r\r\r\r\r\r\r\nHeridas de la infancia\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación de las emociones, estrés laboral/ burnout",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22757,7 +22757,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 5pm\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
+      "Horario de Atención": "Lunes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 5pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22767,7 +22767,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes, Adultos, Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Psicoterapia individual\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica clínica\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis vitales\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\n Evaluación e intervención en psicooncología\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de rupturas vinculares\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en patrones relacionales disfuncionales",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Psicoterapia individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis vitales\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\n Evaluación e intervención en psicooncología\r\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de rupturas vinculares\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en patrones relacionales disfuncionales",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22787,7 +22787,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
+      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22797,7 +22797,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Mayores de 15 año Adolescentes|Adulto | Adulto mayor r",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales    Comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno de Ansiedad",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales    Comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno de Ansiedad",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22827,7 +22827,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescente",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Psicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\nMismo precio individual y familiar\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende Psicopedagofía mismo valor de la consulta",
+      "Comentario": "Psicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\r\nMismo precio individual y familiar\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende Psicopedagofía mismo valor de la consulta",
       "Seguros_Todos": "Medismart | Palig | INS | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa | Redbrige"
     },
     {
@@ -22857,7 +22857,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +4,adolecentes, Adultos, Adultos Mayore",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja, idiomas: Ingles y español. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\n Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta alimentaria \r\r\r\r\r\r\r\r\r\r\r\r\nDisciplina Positiva \r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de TOC\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para adolescentes",
+      "Comentario": "Consulta individual | Consulta parejas | Consulta familiar | 60 minutos de consulta. Y 90 Min Familia y Pareja, idiomas: Ingles y español. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta alimentaria \r\r\r\r\r\r\r\r\r\r\r\r\r\nDisciplina Positiva \r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de TOC\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para adolescentes",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22877,7 +22877,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
+      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22917,7 +22917,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "60 min de consulta individual. Y 90 Min Familia y Pareja Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\n Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta alimentaria \r\r\r\r\r\r\r\r\r\r\r\r\nDisciplina Positiva \r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de TOC\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para adolescentes.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1)",
+      "Comentario": "60 min de consulta individual. Y 90 Min Familia y Pareja Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta alimentaria \r\r\r\r\r\r\r\r\r\r\r\r\r\nDisciplina Positiva \r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdeación suicida\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTratamiento de TOC\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología Infantil\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para adolescentes.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1)",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22947,7 +22947,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTraumas\r\r\r\r\r\r\r\r\r\r\r\r\nHorario de Atención: \r\r\r\r\r\r\r\r\r\r\r\r\nSabados (cada 15) 1pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1). TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja",
+      "Comentario": "Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTraumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nHorario de Atención: \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados (cada 15) 1pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Español (Nativo) e inglés (avanzado/C1). TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22967,7 +22967,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
+      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22977,7 +22977,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adolescentes | Adulto y Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\nTraumas\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja Idiomas: Español (Nativo) e inglés (avanzado/C1)",
+      "Comentario": "Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nDependencia Emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nTraumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja Idiomas: Español (Nativo) e inglés (avanzado/C1)",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23027,7 +23027,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 2pm a 8pm",
+      "Horario de Atención": "Lunes 8am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 2pm a 8pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23037,7 +23037,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños| Adolescentes | Adultos | Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento que se realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual adulto \r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual",
+      "Comentario": "Procedimiento que se realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual adulto \r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23067,7 +23067,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescente, Adulta y Adulta mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\nInglés. Procedimiento. Acompañamiento psicooncológico\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en cuidados paliativos\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en crisis vitales (transición entre cole y universidad)",
+      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. Procedimiento. Acompañamiento psicooncológico\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en cuidados paliativos\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en crisis vitales (transición entre cole y universidad)",
       "Seguros_Todos": "TODOS los del HM"
     },
     {
@@ -23087,7 +23087,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
+      "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23097,7 +23097,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños| Adolescentes | Adultos | Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento:  Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual adulto\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual",
+      "Comentario": "Procedimiento:  Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual adulto\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica individual",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23127,7 +23127,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +5,adolecentes y Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimientos: Psicoterapia: Áreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\n- Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\n- Psicoterapia\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta psicológica\r\r\r\r\r\r\r\r\r\r\r\r\n-Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\n -Tratamiento para la depresión y la ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención a problemas de ansiedad o depresión \r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\n-Conflicto de parejas.\r\r\r\r\r\r\r\r\r\r\r\r\n   \r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nAtención a problemas de ansiedad o depresión.  TODOS LOS SEGUROS POR REEMBOLSOS |60 min de consulta individual. Y 90 Min Familia y Pareja",
+      "Comentario": "Procedimientos: Psicoterapia: Áreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\r\n- Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\n- Psicoterapia\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta psicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\r\n -Tratamiento para la depresión y la ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención a problemas de ansiedad o depresión \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Conflicto de parejas.\r\r\r\r\r\r\r\r\r\r\r\r\r\n   \r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención a problemas de ansiedad o depresión.  TODOS LOS SEGUROS POR REEMBOLSOS |60 min de consulta individual. Y 90 Min Familia y Pareja",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23147,7 +23147,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 9am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 3pm a 7pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7am a 12md        (cada 15)",
+      "Horario de Atención": "Lunes 9am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 3pm a 7pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7am a 12md        (cada 15)",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23157,7 +23157,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +5,adolecentes y Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos: Psicoterapia:\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\n- Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\n- Psicoterapia\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta psicológica\r\r\r\r\r\r\r\r\r\r\r\r\n-Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\n -Tratamiento para la depresión y la ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención a problemas de ansiedad o depresión \r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\n-Conflicto de parejas\r\r\r\r\r\r\r\r\r\r\r\r\n   \r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas. Atención a problemas de ansiedad o depresión",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos: Psicoterapia:\r\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\r\n- Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\n- Psicoterapia\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta psicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención psicológica individual\r\r\r\r\r\r\r\r\r\r\r\r\r\n -Tratamiento para la depresión y la ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Atención a problemas de ansiedad o depresión \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Conflicto de parejas\r\r\r\r\r\r\r\r\r\r\r\r\r\n   \r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas. Atención a problemas de ansiedad o depresión",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23187,7 +23187,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Infantiles | Adolecentes | Adulto | Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "Psicología: Enfoque terapéutico:\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención cognitivo-conductual y estrategias de neuropsicología clínica, adaptando el proceso según la etapa del desarrollo, historia de vida y necesidades individuales y del paciente.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\n• Ansiedad, ataques de pánico y estrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\n• Pensamientos intrusivos y autocrítica excesivo\r\r\r\r\r\r\r\r\r\r\r\r\n• Regulación emocional y manejo de impulso\r\r\r\r\r\r\r\r\r\r\r\r\n• Trastornos del estado de ánimo (depresión, distimia, bipolaridad)\r\r\r\r\r\r\r\r\r\r\r\r\n• Dificultades de autoestima, relaciones interpersonales y procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\n• Acompañamiento en etapas de transición vital y crisis existenciales\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas. TODOS LOS SEGUROS POR REEMBOLSOS. Pareja: Tiempo de consulta: 90 min\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta individual: 60 minutos de consulta.",
+      "Comentario": "Psicología: Enfoque terapéutico:\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención cognitivo-conductual y estrategias de neuropsicología clínica, adaptando el proceso según la etapa del desarrollo, historia de vida y necesidades individuales y del paciente.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Ansiedad, ataques de pánico y estrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Pensamientos intrusivos y autocrítica excesivo\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Regulación emocional y manejo de impulso\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Trastornos del estado de ánimo (depresión, distimia, bipolaridad)\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Dificultades de autoestima, relaciones interpersonales y procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Acompañamiento en etapas de transición vital y crisis existenciales\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas. TODOS LOS SEGUROS POR REEMBOLSOS. Pareja: Tiempo de consulta: 90 min\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta individual: 60 minutos de consulta.",
       "Seguros_Todos": "TODOS los del HM"
     },
     {
@@ -23217,7 +23217,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Psicología Deportiva",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "Procedimiento que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Psicología: Enfoque terapéutico:\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención cognitivo-conductual y estrategias de neuropsicología clínica, adaptando el proceso según la etapa del desarrollo, historia de vida y necesidades individuales y del paciente. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:AA1015\r\r\r\r\r\r\r\r\r\r\r\r\n• Ansiedad, ataques de pánico y estrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n• Pensamientos intrusivos y autocrítica excesiv\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n• Regulación emocional y manejo de impulso\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n• Trastornos del estado de ánimo (depresión, distimia, bipolaridad)\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n• Dificultades de autoestima, relaciones interpersonales y procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n• Acompañamiento en etapas de transición vital y crisis existenciales\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas.",
+      "Comentario": "Procedimiento que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Psicología: Enfoque terapéutico:\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención cognitivo-conductual y estrategias de neuropsicología clínica, adaptando el proceso según la etapa del desarrollo, historia de vida y necesidades individuales y del paciente. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:AA1015\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Ansiedad, ataques de pánico y estrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Pensamientos intrusivos y autocrítica excesiv\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Regulación emocional y manejo de impulso\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Trastornos del estado de ánimo (depresión, distimia, bipolaridad)\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Dificultades de autoestima, relaciones interpersonales y procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Acompañamiento en etapas de transición vital y crisis existenciales\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas.",
       "Seguros_Todos": "Medismart| MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23247,7 +23247,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Infantiles | Adolecentes | Adulto | Adulto Mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Psicología: Enfoque terapéutico:\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención cognitivo-conductual y estrategias de neuropsicología clínica, adaptando el proceso según la etapa del desarrollo, historia de vida y necesidades individuales y del paciente.\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\n• Ansiedad, ataques de pánico y estrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\n• Pensamientos intrusivos y autocrítica excesiv\r\r\r\r\r\r\r\r\r\r\r\r\n• Regulación emocional y manejo de impulso\r\r\r\r\r\r\r\r\r\r\r\r\n• Trastornos del estado de ánimo (depresión, distimia, bipolaridad)\r\r\r\r\r\r\r\r\r\r\r\r\n• Dificultades de autoestima, relaciones interpersonales y procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\n• Acompañamiento en etapas de transición vital y crisis existenciales\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Psicología: Enfoque terapéutico:\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención cognitivo-conductual y estrategias de neuropsicología clínica, adaptando el proceso según la etapa del desarrollo, historia de vida y necesidades individuales y del paciente.\r\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Ansiedad, ataques de pánico y estrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Pensamientos intrusivos y autocrítica excesiv\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Regulación emocional y manejo de impulso\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Trastornos del estado de ánimo (depresión, distimia, bipolaridad)\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Dificultades de autoestima, relaciones interpersonales y procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Acompañamiento en etapas de transición vital y crisis existenciales\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23277,7 +23277,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños, adolescentes, adulto",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nPsicodiagnóstico\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nResolución de conflictos\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación de habilidades cognitivas. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicodiagnóstico\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nResolución de conflictos\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación de habilidades cognitivas. TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23297,7 +23297,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes de 3 pm a 6 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes y Miércoles de 9am a 7pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada cada 15 de 8am a 1pm",
+      "Horario de Atención": "Lunes de 3 pm a 6 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes y Miércoles de 9am a 7pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada cada 15 de 8am a 1pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23307,7 +23307,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños, adolescentes, adulto",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nPsicodiagnóstico\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional \r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nResolución de conflictos\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación de habilidades cognitivas",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicodiagnóstico\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de habilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nResolución de conflictos\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación de habilidades cognitivas",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23367,7 +23367,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños y niñas, Adolescentes y adulto joven (6 años en  adelante)",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Depresión, Ansiedad, Terapia individual, Habilidades de afrontamiento y autorregulación emocional, \r\r\r\r\r\r\r\r\r\r\r\r\nProcesos diagnósticos de \r\r\r\r\r\r\r\r\r\r\r\r\npersonalidad, habilidades cognitivas y emocionales. Población: Infantil (6 años) , adolescente, adulta y adulta mayor",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Depresión, Ansiedad, Terapia individual, Habilidades de afrontamiento y autorregulación emocional, \r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos diagnósticos de \r\r\r\r\r\r\r\r\r\r\r\r\r\npersonalidad, habilidades cognitivas y emocionales. Población: Infantil (6 años) , adolescente, adulta y adulta mayor",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23397,7 +23397,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños y niñas, Adolescentes y adulto joven (6 años en adelante)",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Depresión, Ansiedad, Terapia individual, Habilidades de afrontamiento y autorregulación emocional, \r\r\r\r\r\r\r\r\r\r\r\r\nProcesos diagnósticos de \r\r\r\r\r\r\r\r\r\r\r\r\npersonalidad, habilidades cognitivas y emocionales\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nPoblación: Infantil (6 años) , adolescente, adulta y adulta mayor",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Depresión, Ansiedad, Terapia individual, Habilidades de afrontamiento y autorregulación emocional, \r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos diagnósticos de \r\r\r\r\r\r\r\r\r\r\r\r\r\npersonalidad, habilidades cognitivas y emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nPoblación: Infantil (6 años) , adolescente, adulta y adulta mayor",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23427,7 +23427,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños y niñas, Adolescentes y adulto joven (6 años en adelante)",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\n Depresión, Ansiedad, Terapia individual, Habilidades de afrontamiento y autorregulación emocional, \r\r\r\r\r\r\r\r\r\r\r\r\nProcesos diagnósticos de \r\r\r\r\r\r\r\r\r\r\r\r\npersonalidad, habilidades cognitivas y emocionales",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\n Depresión, Ansiedad, Terapia individual, Habilidades de afrontamiento y autorregulación emocional, \r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos diagnósticos de \r\r\r\r\r\r\r\r\r\r\r\r\r\npersonalidad, habilidades cognitivas y emocionales",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23487,7 +23487,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños + de 9 años | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. 60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23507,7 +23507,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "SI",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes, miércoles 6:30pm a 9:30pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves cada 15 días de 8 am a 12 md (último paciente 11:30 am) .\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 10am, a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12pm cada 15",
+      "Horario de Atención": "Martes, miércoles 6:30pm a 9:30pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves cada 15 días de 8 am a 12 md (último paciente 11:30 am) .\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 10am, a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12pm cada 15",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23517,7 +23517,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolecentes, Adultos, Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual | TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia Individual | TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23597,7 +23597,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 9am a 6pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 7am a 6pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 1pm a 6pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12md (cada 15)",
+      "Horario de Atención": "Lunes 9am a 6pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 7am a 6pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 1pm a 6pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12md (cada 15)",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23607,7 +23607,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +4,adolecentes, Adultos, Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento: Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general \r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno del espectro autista TEA\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\nTraumas\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento: Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general \r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno del espectro autista TEA\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\nTraumas\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutorregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades psicosociales",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23657,7 +23657,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
+      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23697,7 +23697,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolecentes +14 y Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de la autoestima\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nComunicación asertiva y efectiva\r\r\r\r\r\r\r\r\r\r\r\r\nInteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de separación\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de límites\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento para padres en la crianza. Idioma \r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de la autoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nComunicación asertiva y efectiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nInteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de separación\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de límites\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento para padres en la crianza. Idioma \r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23727,7 +23727,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolecentes +14 y Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de la autoestima\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nComunicación asertiva y efectiva\r\r\r\r\r\r\r\r\r\r\r\r\nInteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de separación\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de límites\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento para padres en la crianza. Idioma \r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia individual\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de la autoestima\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nComunicación asertiva y efectiva\r\r\r\r\r\r\r\r\r\r\r\r\r\nInteligencia emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de separación\r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de límites\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento para padres en la crianza. Idioma \r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23757,7 +23757,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos +18, Adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja. Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia de apoyo en patologías crónicas y terminales \r\r\r\r\r\r\r\r\r\r\r\r\nManejo de conflictos \r\r\r\r\r\r\r\r\r\r\r\r\nTécnicas de relajación \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\nGuía para el proyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja. Terapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia de apoyo en patologías crónicas y terminales \r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de conflictos \r\r\r\r\r\r\r\r\r\r\r\r\r\nTécnicas de relajación \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsejería para padres en la crianza de los hijos\r\r\r\r\r\r\r\r\r\r\r\r\r\nGuía para el proyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23777,7 +23777,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8pm a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 4pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 7pm a 2pm",
+      "Horario de Atención": "Lunes 8pm a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 4pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 7pm a 2pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -23787,7 +23787,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación del desarrollo infantil\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en procesos de duelo y rupturas afectivas (divorcio)\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nElaboración de planes de intervención psicológica y psicopedagógica\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoeducación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia individual para niños, adolescentes y adultos\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en habilidades sociales y regulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\nProblemas de aprendizaje\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para trastornos de ansiedad y estado de ánimo\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia con recursos expresivos (arteterapia y técnica de caja de arena)\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica clínica\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica para crisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención psicológica asistida con realidad virtual\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicopedagógica (dificultades de aprendizaje y rendimiento escolar)Orientación a padres y acompañamiento en crianza con disciplina positiva    \r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación para TDAH (Trastorno por Déficit de Atención e Hiperactividad)    \r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en dificultades de aprendizaje y bajo rendimiento escolar. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación del desarrollo infantil\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en procesos de duelo y rupturas afectivas (divorcio)\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nElaboración de planes de intervención psicológica y psicopedagógica\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoeducación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia individual para niños, adolescentes y adultos\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en habilidades sociales y regulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\nProblemas de aprendizaje\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para trastornos de ansiedad y estado de ánimo\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia con recursos expresivos (arteterapia y técnica de caja de arena)\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica para crisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención psicológica asistida con realidad virtual\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicopedagógica (dificultades de aprendizaje y rendimiento escolar)Orientación a padres y acompañamiento en crianza con disciplina positiva    \r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación para TDAH (Trastorno por Déficit de Atención e Hiperactividad)    \r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en dificultades de aprendizaje y bajo rendimiento escolar. TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23817,7 +23817,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos | Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento psicooncológico\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en cuidados paliativos\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en crisis vitales (transición entre cole y universidad)\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento: \r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento psicooncológico\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en cuidados paliativos\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia para adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en crisis vitales (transición entre cole y universidad)\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -24087,7 +24087,7 @@ var DM_DATA = {
       "Enfoque De Atención": "mayores de 18 años",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno de bipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\nNo atiende niños",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno de bipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\r\nNo atiende niños",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -24117,7 +24117,7 @@ var DM_DATA = {
       "Enfoque De Atención": "mayores de 18 años",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno de bipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\nNo atiende niños",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno de bipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\r\nNo atiende niños",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -24207,7 +24207,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños Varones de +7 años Niñas + 4 a 12 años y Adultos",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento: Diagnóstico y evolución del trastorno del espectro autista en adultos y adolescente (diagnostico tardío en mujeres y hombres)  \r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) diagnósticos y tratamiento en adolecentes y adultos \r\r\r\r\r\r\r\r\r\r\r\r\nManejo de demencias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta \r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad  \r\r\r\r\r\r\r\r\r\r\r\r\nFobia social \r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis  \r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad \r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad \r\r\r\r\r\r\r\r\r\r\r\r\nTOC \r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos alimenticios \r\r\r\r\r\r\r\r\r\r\r\r\nAutolesiones\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento: Diagnóstico y evolución del trastorno del espectro autista en adultos y adolescente (diagnostico tardío en mujeres y hombres)  \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) diagnósticos y tratamiento en adolecentes y adultos \r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de demencias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta \r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad  \r\r\r\r\r\r\r\r\r\r\r\r\r\nFobia social \r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis  \r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad \r\r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad \r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos alimenticios \r\r\r\r\r\r\r\r\r\r\r\r\r\nAutolesiones\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -24237,7 +24237,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "10",
-      "Comentario": "Idiomas: Inglés y Español. Procedimiento: Diagnóstico y evolución del trastorno del espectro autista en adultos y adolescente (diagnostico tardío en mujeres y hombres)\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) diagnósticos y tratamiento en adolecentes y adultos \r\r\r\r\r\r\r\r\r\r\r\r\nManejo de demencias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta \r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad  \r\r\r\r\r\r\r\r\r\r\r\r\nFobia social \r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis  \r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad \r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad \r\r\r\r\r\r\r\r\r\r\r\r\nTOC \r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos alimenticios \r\r\r\r\r\r\r\r\r\r\r\r\nAutolesiones\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Idiomas: Inglés y Español. Procedimiento: Diagnóstico y evolución del trastorno del espectro autista en adultos y adolescente (diagnostico tardío en mujeres y hombres)\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) diagnósticos y tratamiento en adolecentes y adultos \r\r\r\r\r\r\r\r\r\r\r\r\r\nManejo de demencias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta \r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad  \r\r\r\r\r\r\r\r\r\r\r\r\r\nFobia social \r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis  \r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad \r\r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad \r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos alimenticios \r\r\r\r\r\r\r\r\r\r\r\r\r\nAutolesiones\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -24297,7 +24297,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento:Manejo de demencias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH)\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno del espectro autista TEA\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento:Manejo de demencias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la conducta\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH)\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad\r\r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno del espectro autista TEA\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -24357,7 +24357,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños (4-5+) | Adolescentes | Adultos",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Atiende niños a partir de los 4-5 años (por temas de tratamientos disponibles). Adicional, los precios tanto para pacientes adultos como para niños y adolescentes es el mismo,\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende niños a partir de los 4-5 años (por temas de tratamientos disponibles). Adicional, los precios tanto para pacientes adultos como para niños y adolescentes es el mismo",
+      "Comentario": "Atiende niños a partir de los 4-5 años (por temas de tratamientos disponibles). Adicional, los precios tanto para pacientes adultos como para niños y adolescentes es el mismo,\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtiende niños a partir de los 4-5 años (por temas de tratamientos disponibles). Adicional, los precios tanto para pacientes adultos como para niños y adolescentes es el mismo",
       "Seguros_Todos": "Medismart | Palig | INS | ASSA | Mediprocesos | Bluecross | Adisa"
     },
     {
@@ -24417,7 +24417,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "50",
       "Tiempo De Espera": "14",
-      "Comentario": "Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nInsomnio\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno de personalidad paranoica\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nDuelo.\r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Inglés y Español. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\nNO ATIENDE NIÑOS \r\r\r\r\r\r\r\r\r\r\r\r\nsolo tiende virtual",
+      "Comentario": "Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\r\nBipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nInsomnio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno de personalidad paranoica\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nDuelo.\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas: Inglés y Español. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\nNO ATIENDE NIÑOS \r\r\r\r\r\r\r\r\r\r\r\r\r\nsolo tiende virtual",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -24447,7 +24447,7 @@ var DM_DATA = {
       "Enfoque De Atención": "mayores de 18 años",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento: Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno Déficit atención e hiperactividad\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos depresivos\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno afectivo bipolar\r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de estrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta Médica Especializada\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de conducta alimenta\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad. Idiomas: Español y Inglés\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento: Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno Déficit atención e hiperactividad\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos depresivos\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno afectivo bipolar\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicosis\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de estrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta Médica Especializada\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de conducta alimenta\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastornos de la personalidad. Idiomas: Español y Inglés\r\r\r\r\r\r\r\r\r\r\r\r\r\nTODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -25647,38 +25647,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño (15+)| Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Las vasectomias se agendan en 1 hora/ martes y viernes SOLO PROCEDIMIENTO |  Incluye Tacto Rectal. IMPORTANTE: Las consultas de Medismart agendar SÓLO MARTES en horario: 4pm a 6p.m.  Los otros espacios con las aseguradoras.Acepta mujeres. ***NOTA IMPORTANTE***Agendamiento: La agenda identificada en color verde es de uso exclusivo para clientes MediSmart.\r\r\r\r\r\r\r\r\r\r\r\r\nLa agenda en color rosado está destinada a aseguradoras y pacientes particulares, por lo que no debe utilizarse para agendar citas de clientes MediSmart. NOTA IMPORTANTE: SI EL PACIENTE REQUIERE UN ULTRASONIDO, EL DR. COBRA UN ADICIONAL DE 11.000 COLONES Solo agendar consultas MEDISMART los MARTES 4:00 p.m. a 6:00p.m. (solamente en las horas indicadas)",
+      "Comentario": "Las vasectomias se agendan en 1 hora/ martes y viernes SOLO PROCEDIMIENTO |  Incluye Tacto Rectal. IMPORTANTE: Las consultas de Medismart agendar SÓLO MARTES en horario: 4pm a 6p.m.  Los otros espacios con las aseguradoras.Acepta mujeres. ***NOTA IMPORTANTE***Agendamiento: La agenda identificada en color verde es de uso exclusivo para clientes MediSmart.\r\r\r\r\r\r\r\r\r\r\r\r\r\nLa agenda en color rosado está destinada a aseguradoras y pacientes particulares, por lo que no debe utilizarse para agendar citas de clientes MediSmart. NOTA IMPORTANTE: SI EL PACIENTE REQUIERE UN ULTRASONIDO, EL DR. COBRA UN ADICIONAL DE 11.000 COLONES Solo agendar consultas MEDISMART los MARTES 4:00 p.m. a 6:00p.m. (solamente en las horas indicadas)",
       "Seguros_Todos": "Medismart | Palig | BMI | Mediprocesos | Adisa | Mapfre | ASSA | Redbrige | Bluecross"
-    },
-    {
-      "Id Medico": "MED9124",
-      "Nombre Doctor": "Marcela Navarro Guzmán",
-      "Especialidad": "Urología",
-      "Método De Ingreso": "Servicios Profesionales",
-      "Sede": "H. Metropolitano San Carlos",
-      "Correo Electrónico": "",
-      "Piso": "4",
-      "Número Del Consultorio": "20",
-      "Extensión": "25219595",
-      "Secretarias": "Admisión y Cajas",
-      "Agenda": "ZH Blue",
-      "Modalidad Cita": "Presencial",
-      "Cobro Anticipado": "NO",
-      "Agenda Call Center": "SI",
-      "Medicina Mixta": "NO",
-      "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 1pm a 4pm",
-      "Precio Regular Tarjeta": "58616.25",
-      "Iva": "2344.65",
-      "Precio Regular Efectivo": "60960.9",
-      "Precio MS Tarjeta": "34104",
-      "Precio MS Efectivo": "35468.16",
-      "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Bebé | Niño | Adulto | Adulto Mayor",
-      "Tiempo de Consulta": "20",
-      "Tiempo De Espera": "10",
-      "Comentario": "VALORAR CON EL MEDICO EL PROCEDIMIENTOS REQUERIR.",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "MED7526",
@@ -26067,7 +26037,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos y adultos mayores",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimiento que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\nVenoso, Inyeccion de venas (escleroterapia), Inyeccion de espuma, Cirugia de varices, Valoracion de ulceras, Manejo de flebitis, tromboflebitis, trombosis venosa profunda, erisipela , Arterial, Valoracion de ulceras, Valoracion de pie diabetico, Valoracion de isquemia critica, lesiones en pie, dedos azules, negros, Manejo de aneurismas, Dolor de miembros inferiores, Frialdad de miembros inferiores, Angioplastias (stents), bypass, cirugias de arterias y de venas en general, Amputaciones, Consulta general, Control post cirugía, Ecoesclerosis con espuma (FOAM), Flebectomía, Inyección de Varices, Microflebectomía, Varicectomía, Amputación de extremidad superior e inferior, Esclerosis terapéuticas de varices por radiofrecuencia\r\r\r\r\r\r\r\r\r\r\r\r\nArteriografía diagnóstica y terapeútica (STENTS), Bypass arterial periférico, Cirugía arterial, Cirugía de de várices safena, Doppler venoso, Manejo de úlceras varicosas con bota de Unna, Terapia Endovascular",
+      "Comentario": "Procedimiento que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\nVenoso, Inyeccion de venas (escleroterapia), Inyeccion de espuma, Cirugia de varices, Valoracion de ulceras, Manejo de flebitis, tromboflebitis, trombosis venosa profunda, erisipela , Arterial, Valoracion de ulceras, Valoracion de pie diabetico, Valoracion de isquemia critica, lesiones en pie, dedos azules, negros, Manejo de aneurismas, Dolor de miembros inferiores, Frialdad de miembros inferiores, Angioplastias (stents), bypass, cirugias de arterias y de venas en general, Amputaciones, Consulta general, Control post cirugía, Ecoesclerosis con espuma (FOAM), Flebectomía, Inyección de Varices, Microflebectomía, Varicectomía, Amputación de extremidad superior e inferior, Esclerosis terapéuticas de varices por radiofrecuencia\r\r\r\r\r\r\r\r\r\r\r\r\r\nArteriografía diagnóstica y terapeútica (STENTS), Bypass arterial periférico, Cirugía arterial, Cirugía de de várices safena, Doppler venoso, Manejo de úlceras varicosas con bota de Unna, Terapia Endovascular",
       "Seguros_Todos": "Medismart | INS"
     },
     {
@@ -26327,7 +26297,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "NO",
-      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
+      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -26337,7 +26307,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Psicología Deportiva",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "",
-      "Comentario": "Procedimiento Psicología del deporte\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimiento Psicología del deporte\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart| MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -26357,7 +26327,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "SI",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Jueves cada 15  8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes cada 15 2pm a 7pm",
+      "Horario de Atención": "Jueves cada 15  8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes cada 15 2pm a 7pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -26367,7 +26337,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adolescentes | Adultos | Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos: Psicoterapia:\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\n- Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\n-Acompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta general\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\n-Apoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\n-Intervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\n-Fobias\r\r\r\r\r\r\r\r\r\r\r\r\n-Construcción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\n-Desarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología Infantil \r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas.",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimientos: Psicoterapia:\r\r\r\r\r\r\r\r\r\r\r\r\r\nÁreas de intervención clínica:\r\r\r\r\r\r\r\r\r\r\r\r\r\n- Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Acompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Consulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos de ansiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Apoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Intervención en crisis para víctimas de violencia\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Fobias\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Construcción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\n-Desarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Trastornos relacionados con traumas\r\r\r\r\r\r\r\r\r\r\r\r\r\n-Psicología Infantil \r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -26397,7 +26367,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +5, Adolecentes y Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. / Inglés Intermedio / Procedimientos: Ansiedad \r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en el duelo \r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) \r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general \r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\nTranstornos de adaptación\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\nTrauma Psicológico\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia psicológica\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en proyecto de vida a pensionados y adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno del espectro autista\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia grupal\r\r\r\r\r\r\r\r\r\r\r\r\nElección de parejas saludables\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. / Inglés Intermedio / Procedimientos: Ansiedad \r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en el duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno déficit de atención (TDAH) \r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general \r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de familia\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstornos de adaptación\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés postraumático\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrauma Psicológico\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en procesos de divorcio\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia psicológica\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en proyecto de vida a pensionados y adultos mayores\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno del espectro autista\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\nProyecto de vida\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\nTrastorno obsesivo compulsivo (TOC)\r\r\r\r\r\r\r\r\r\r\r\r\r\nHabilidades sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia grupal\r\r\r\r\r\r\r\r\r\r\r\r\r\nElección de parejas saludables\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrecimiento personal",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -26427,7 +26397,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "15",
-      "Comentario": "Consulta incluye Tacto Rectal + Ultrasonido  | NO acepta AMEX | Atienden mujeres por temas de vias urinarias. Consulta + Us\r\r\r\r\r\r\r\r\r\r\r\r\nVasectomias, Fulgoraciones. Precio de los procedimiento se consulta con el médico",
+      "Comentario": "Consulta incluye Tacto Rectal + Ultrasonido  | NO acepta AMEX | Atienden mujeres por temas de vias urinarias. Consulta + Us\r\r\r\r\r\r\r\r\r\r\r\r\r\nVasectomias, Fulgoraciones. Precio de los procedimiento se consulta con el médico",
       "Seguros_Todos": "PALIG"
     },
     {
@@ -26637,7 +26607,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Pacientes a partir de los dos años",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". Consulta incluye: Extracción de cuerpo extraño ótico, Extracción de cuerpo extraño nasal, Extracción de cuerpo extraño orofaringe. Otros procedimientos: \r\r\r\r\r\nCauterización de lesiones capilares ORL SER-02377\r\r\r\r\r\nCauterización nasal ORL SER-03566\r\r\r\r\r\nEndoscopia diagnóstica ORL SER-03562\r\r\r\r\r\nExtracción de cerumen ORL SER-03564\r\r\r\r\r\nManiobas de reposicionamiento de canalopatías SER-03568\r\r\r\r\r\n\r\r\r\r\r\nTambién hace este tipo de biopsias (cotizar): \r\r\r\r\r\nBiopsia mucosa nasal\r\r\r\r\r\nBiopsia de naso y orofaringe\r\r\r\r\r\nBiopsia de laringe\r\r\r\r\r\nBiopsia de lengua\r\r\r\r\r\nBiopsia de glándulas salivales\r\r\r\r\r\n\r\r\r\r\r\nProcedimientos en Sala: (cotizar)\r\r\r\r\r\nTurbinoplastia con radio frecuencia\r\r\r\r\r\nMiringotomía y colocación de tubo timpánico adulto con sedación local",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". Consulta incluye: Extracción de cuerpo extraño ótico, Extracción de cuerpo extraño nasal, Extracción de cuerpo extraño orofaringe. Otros procedimientos: \r\r\r\r\r\r\nCauterización de lesiones capilares ORL SER-02377\r\r\r\r\r\r\nCauterización nasal ORL SER-03566\r\r\r\r\r\r\nEndoscopia diagnóstica ORL SER-03562\r\r\r\r\r\r\nExtracción de cerumen ORL SER-03564\r\r\r\r\r\r\nManiobas de reposicionamiento de canalopatías SER-03568\r\r\r\r\r\r\n\r\r\r\r\r\r\nTambién hace este tipo de biopsias (cotizar): \r\r\r\r\r\r\nBiopsia mucosa nasal\r\r\r\r\r\r\nBiopsia de naso y orofaringe\r\r\r\r\r\r\nBiopsia de laringe\r\r\r\r\r\r\nBiopsia de lengua\r\r\r\r\r\r\nBiopsia de glándulas salivales\r\r\r\r\r\r\n\r\r\r\r\r\r\nProcedimientos en Sala: (cotizar)\r\r\r\r\r\r\nTurbinoplastia con radio frecuencia\r\r\r\r\r\r\nMiringotomía y colocación de tubo timpánico adulto con sedación local",
       "Seguros_Todos": "MediSmart |Todos los del Hospital"
     },
     {
@@ -34200,7 +34170,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10:30 am a 5pm y Jueves 10 am a 5pm . (almuerzo 12md a 1pm)",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Precio Brinda en el Cotizador | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED12204",
@@ -34260,7 +34230,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 5:30pm a 9pm, Martes 2pm a 7pm, Jueves 5:30pm a 8pm Viernes 9:30 am a 4:30pm y Sábado de por medio 9:30am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED5294",
@@ -34290,7 +34260,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Miércoles 8am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10213",
@@ -34335,7 +34305,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Miércoles de 1 pm a 8 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10700",
@@ -34380,7 +34350,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes de 9:00 am a 4:00 pm Martes de 10:00 am a 3:00 pm Miercoles 12:00 md a 7:00 pm Jueves de 9:00 am a 3:00pm Viernes de 9:00 am a 3:00pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10642",
@@ -34425,7 +34395,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Miercoles de 7am a 11am.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10700",
@@ -34680,7 +34650,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 8:30am a 12:10 md y Viernes 9am a 1pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10213",
@@ -34725,7 +34695,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 7:45am a 3pm, Miércoles 7:45am a 2:15 pm, Jueves 7:45am a 3pm, ,Viernes 7:45am a 2:15 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED15121",
@@ -34770,7 +34740,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Miércoles 10am a 7pm. Viernes 1 pm a 7pm , Sábado 8am a 12md+",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED12204",
@@ -34815,7 +34785,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes ,Martes, Jueves 8:30 ama a 4:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED13215",
@@ -34875,7 +34845,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes a Jueves 8:30am a 4:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED7835",
@@ -34905,7 +34875,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes a Jueves 8:30am a 4:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED7835",
@@ -35385,7 +35355,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes: 4:30-8:00pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED12160",
@@ -35460,7 +35430,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Miercoles 4:30pm -7:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED9461",
@@ -35535,7 +35505,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes de 1pm-4pm y Viernes 9am - 3:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10736",
@@ -35610,7 +35580,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 10am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10285",
@@ -35685,7 +35655,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Miércoles de 4:30 pm a 6:00pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED13715",
@@ -35835,7 +35805,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Viernes de 9 am a 2pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10736",
@@ -35910,7 +35880,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes, Miércoles y Jueves 9am a 1pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED10285",
@@ -51235,9 +51205,9 @@ var DM_DATA = {
       "Precio Regular Tarjeta": "71241.25",
       "Iva": "2849.65",
       "Precio Regular Efectivo": "74090.9",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Tarjeta": "29841",
+      "Iva2": "1193.64",
+      "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
@@ -51640,9 +51610,9 @@ var DM_DATA = {
       "Precio Regular Tarjeta": "71241.25",
       "Iva": "2849.65",
       "Precio Regular Efectivo": "74090.9",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Tarjeta": "29841",
+      "Iva2": "1193.64",
+      "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Revisar disponibilidad en la agenda UNA VEZ POR MES ( JORNADA)",
       "Tiempo de Consulta": "30",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
@@ -52060,9 +52030,9 @@ var DM_DATA = {
       "Precio Regular Tarjeta": "71241.25",
       "Iva": "2849.65",
       "Precio Regular Efectivo": "74090.9",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Tarjeta": "29841",
+      "Iva2": "1193.64",
+      "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "30",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
@@ -52465,9 +52435,9 @@ var DM_DATA = {
       "Precio Regular Tarjeta": "71241.25",
       "Iva": "2849.65",
       "Precio Regular Efectivo": "74090.9",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Tarjeta": "29841",
+      "Iva2": "1193.64",
+      "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "30",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
@@ -52790,7 +52760,22 @@ var DM_DATA = {
     {
       "Id Medico": "MED10873",
       "Especialidad": "Ginecología y Obstetricia",
-      "Procedimiento": "Consultar al doc el tipo de citologia (Endometrio curetaje o biopsia// Pólipo cervical y endometrial)",
+      "Procedimiento": "Consultar al doc el tipo de citologia solo 1 (Endometrio curetaje o biopsia)",
+      "Sede": "Centro Metropolitano Plaza Práktico Alajuela",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "1938.4616",
+      "Precio Regular Efectivo": "50400.0016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "1744.6156",
+      "Precio MS Efectivo": "45360.0056",
+      "Horario de Atención": "Martes de 8 am a 12 30 pm",
+      "Tiempo de Consulta": "CITA  PRENATAL 60 , CITAS REGULARES 40",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED10873",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consultar al doc el tipo de citologia Solo 1(Pólipo cervical y endometrial)",
       "Sede": "Centro Metropolitano Plaza Práktico Alajuela",
       "Precio Regular Tarjeta": "48461.54",
       "Iva": "1938.4616",
@@ -53225,7 +53210,22 @@ var DM_DATA = {
     {
       "Id Medico": "MED14600",
       "Especialidad": "Ginecología y Obstetricia",
-      "Procedimiento": "Consultar al doc el tipo de citologia (Endometrio curetaje o biopsia// Pólipo cervical y endometrial)",
+      "Procedimiento": "Consultar al doc el tipo de citologia solo 1 (Endometrio curetaje o biopsia)",
+      "Sede": "Centro Metropolitano Plaza Práktico Alajuela",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "1938.4616",
+      "Precio Regular Efectivo": "50400.0016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "1744.6156",
+      "Precio MS Efectivo": "45360.0056",
+      "Horario de Atención": "Último Sábado del mes de 8 am a 11am",
+      "Tiempo de Consulta": "30",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED14600",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consultar al doc el tipo de citologia solo 1 (Pólipo cervical y endometrial)",
       "Sede": "Centro Metropolitano Plaza Práktico Alajuela",
       "Precio Regular Tarjeta": "48461.54",
       "Iva": "1938.4616",
@@ -53527,10 +53527,10 @@ var DM_DATA = {
       "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Mapeo de endometriosis",
       "Sede": "Centro Metropolitano Plaza Real Alajuela",
-      "Precio Regular Tarjeta": "",
-      "Iva": "89000",
-      "Precio Regular Efectivo": "3560",
-      "Precio MS Tarjeta": "92560",
+      "Precio Regular Tarjeta": "89000",
+      "Iva": "3560",
+      "Precio Regular Efectivo": "92560",
+      "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
@@ -53675,7 +53675,22 @@ var DM_DATA = {
     {
       "Id Medico": "MED13945",
       "Especialidad": "Ginecología y Obstetricia",
-      "Procedimiento": "Consultar al doc el tipo de citologia (Endometrio curetaje o biopsia// Pólipo cervical y endometrial)",
+      "Procedimiento": "Consultar al doc el tipo de citologia solo 1 (Endometrio curetaje o biopsia)",
+      "Sede": "Centro Metropolitano Plaza Real Alajuela",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "1938.4616",
+      "Precio Regular Efectivo": "50400.0016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "1744.6156",
+      "Precio MS Efectivo": "45360.0056",
+      "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
+      "Tiempo de Consulta": "30",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consultar al doc el tipo de citologia solo 1 (Pólipo cervical y endometrial)",
       "Sede": "Centro Metropolitano Plaza Real Alajuela",
       "Precio Regular Tarjeta": "48461.54",
       "Iva": "1938.4616",
@@ -54175,9 +54190,9 @@ var DM_DATA = {
       "Precio Regular Tarjeta": "71241.25",
       "Iva": "2849.65",
       "Precio Regular Efectivo": "74090.9",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio MS Tarjeta": "29841",
+      "Iva2": "1193.64",
+      "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
@@ -58623,7 +58638,7 @@ var DM_DATA = {
       "Comentarios": "Se deben agendar procedimientos primero y luego consultas, NO intercalados. Realiza: Gastroscopía, Colonoscopia, Consulta. NOTA:  los pacientes deben programarse cada 30 minutos, independientemente del tipo de procedimiento. Finalmente, les recordamos la importancia de agendar a los pacientes de forma consecutiva, procurando evitar espacios vacíos entre las citas. Esto nos permite optimizar el tiempo de nuestros especialistas y mantener un mejor orden en las agendas"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED4732",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Gastroscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58638,7 +58653,7 @@ var DM_DATA = {
       "Comentarios": "Gastroscopias cada 30 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora. Precio en el cotizador"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED4732",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Colonoscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58653,7 +58668,7 @@ var DM_DATA = {
       "Comentarios": "Gastroscopias cada 30 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora. Precio en el cotizador"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED4732",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Gastro-Colonoscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58668,7 +58683,7 @@ var DM_DATA = {
       "Comentarios": "Gastroscopias cada 30 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora. Precio en el cotizador"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED4732",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Rectoscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58743,7 +58758,7 @@ var DM_DATA = {
       "Comentarios": "Miércoles de 4:30 a 6 pm. Gastroscopias cada 30 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora."
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED8607",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Gastroscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58758,7 +58773,7 @@ var DM_DATA = {
       "Comentarios": "Martes de 7 a 11:30 am. Gastroscopias cada 45 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora. Precio en el cotizador"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED8607",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Colonoscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58773,7 +58788,7 @@ var DM_DATA = {
       "Comentarios": "Martes de 7 a 11:30 am. Gastroscopias cada 45 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora. Precio en el cotizador"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED8607",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Gastro-Colonoscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -58788,7 +58803,7 @@ var DM_DATA = {
       "Comentarios": "Martes de 7 a 11:30 am. Gastroscopias cada 45 min. Colonoscopias 1 hora. Gastro-Colonoscopia 1 hora. Precio en el cotizador"
     },
     {
-      "Id Medico": "MED6837",
+      "Id Medico": "MED8607",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Rectoscopía",
       "Sede": "H. Metropolitano San Carlos",
@@ -61903,7 +61918,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
+      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -61918,7 +61933,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
+      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -61933,7 +61948,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
+      "Horario de Atención": "Lunes de 1 Pm a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -61993,7 +62008,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
+      "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62008,7 +62023,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
+      "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62023,7 +62038,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
+      "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62038,7 +62053,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
+      "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62053,7 +62068,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
+      "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62128,7 +62143,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
+      "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62143,7 +62158,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
+      "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62158,7 +62173,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
+      "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62323,7 +62338,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes 8am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabado 2pm a 8pm",
+      "Horario de Atención": "Lunes 8am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 2pm a 8pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62338,7 +62353,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
+      "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -62353,7 +62368,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
+      "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63133,7 +63148,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 5pm\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
+      "Horario de Atención": "Lunes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 5pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63178,7 +63193,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
+      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63193,7 +63208,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
+      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63208,7 +63223,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
+      "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63403,7 +63418,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
+      "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63418,7 +63433,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
+      "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63628,7 +63643,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
+      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63643,7 +63658,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
+      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63658,7 +63673,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
+      "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63748,7 +63763,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
+      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63763,7 +63778,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
+      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63778,7 +63793,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "34779.69",
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
-      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
+      "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
       "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -63868,7 +63883,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
+      "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
       "Tiempo de Consulta": "60",
       "Comentarios": ""
     },
@@ -63883,7 +63898,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "33744",
       "Iva2": "1349.76",
       "Precio MS Efectivo": "35093.76",
-      "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
+      "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
       "Tiempo de Consulta": "60",
       "Comentarios": ""
     },
@@ -68343,36 +68358,6 @@ var DM_DATA = {
       "Comentarios": "Requiere valoración previa para cotización."
     },
     {
-      "Id Medico": "MED9124",
-      "Especialidad": "Urología",
-      "Procedimiento": "Consulta",
-      "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "58616.25",
-      "Iva": "2344.65",
-      "Precio Regular Efectivo": "60960.9",
-      "Precio MS Tarjeta": "34104",
-      "Iva2": "1364.16",
-      "Precio MS Efectivo": "35468.16",
-      "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 1pm a 4pm",
-      "Tiempo de Consulta": "20",
-      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA."
-    },
-    {
-      "Id Medico": "MED9124",
-      "Especialidad": "Urología",
-      "Procedimiento": "Cauterización de Verrugas y/o Condilomas (Consultorio)",
-      "Sede": "H. Metropolitano San Carlos",
-      "Precio Regular Tarjeta": "180367.92",
-      "Iva": "7214.72",
-      "Precio Regular Efectivo": "187582.64",
-      "Precio MS Tarjeta": "180367.92",
-      "Iva2": "7214.72",
-      "Precio MS Efectivo": "187582.64",
-      "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 1pm a 4pm",
-      "Tiempo de Consulta": "20",
-      "Comentarios": "Precios indicados en tarjeta, si el cliente cancela en efectivo se deberá sumar el 4% del IVA."
-    },
-    {
       "Id Medico": "MED14083",
       "Especialidad": "Urología",
       "Procedimiento": "Vasectomía Local",
@@ -69885,7 +69870,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes de 3:00 pm a 8 pm. Martes y Miercoles 2:30pm a 8pm Jueves 2:30 a 7pm Viernes 2pm a 5:30pm",
       "Tiempo de Consulta": "40",
-      "Comentarios": "Precio Brinda en el Cotizador | \r\r\r\r\r\r\r\r\r\r\r\r\nNOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía | (Actualmente solo hay un equipo en cada sede del HM ) | El resultado lo da el médico de forma inmediata"
+      "Comentarios": "Precio Brinda en el Cotizador | \r\r\r\r\r\r\r\r\r\r\r\r\r\nNOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía | (Actualmente solo hay un equipo en cada sede del HM ) | El resultado lo da el médico de forma inmediata"
     },
     {
       "Id Medico": "MED4683",
@@ -69900,7 +69885,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "",
       "Tiempo de Consulta": "40",
-      "Comentarios": "Precio Brinda en el Cotizador | Puede ser en caminadora o  bicicleta -> Solo Lindora | Según disponibilidad. (Actualmente solo hay un equipo en cada sede del HM )\r\r\r\r\r\r\r\r\r\r\r\r\nPermite detectar problemas cardíacos que se presentan durante el ejercicio con un electrocardiograma en una cinta o bicicleta fija. El resultado lo da el médico de forma inmediata || Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador | Puede ser en caminadora o  bicicleta -> Solo Lindora | Según disponibilidad. (Actualmente solo hay un equipo en cada sede del HM )\r\r\r\r\r\r\r\r\r\r\r\r\r\nPermite detectar problemas cardíacos que se presentan durante el ejercicio con un electrocardiograma en una cinta o bicicleta fija. El resultado lo da el médico de forma inmediata || Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED4683",
@@ -70080,7 +70065,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes 4 pm a 7 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED12481",
@@ -70260,7 +70245,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Jueves de 8:00 a.m. a 11:00 a.m.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED13033",
@@ -70290,7 +70275,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes, Martes y Jueves a 4pm a 6pm",
       "Tiempo de Consulta": "30",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
+      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
     {
       "Id Medico": "MED18595",
@@ -70305,7 +70290,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes a Jueves 8am a 4pm, Viernes 8am a 3pm y Sábados 8am a 12pm (último paciente 11) con la hora de almuerzo a la 1pm",
       "Tiempo de Consulta": "60",
-      "Comentarios": "Beneficios: Las sesiones de rehabilitación cardíaca se realizan para ayudar a las personas que han tenido problemas del corazón a recuperar su condición física y mejorar su salud cardiovascular. A través de ejercicio supervisado, educación y control, se busca fortalecer el corazón, mejorar la capacidad funcional y reducir el riesgo de futuros eventos cardíacos. \r\r\r\r\r\r\r\r\r\r\r\r\nAgendamiento: Evaluación inicial con la Dra. Adriana Sáenz. \r\r\r\r\r\r\r\r\r\r\r\r\nSe debe agendar una sesión de 1 hora e indicar en comentarios que corresponde a evaluación para rehabilitación cardiaca. \r\r\r\r\r\r\r\r\r\r\r\r\nEl precio de la consulta se detalla más adelante. \r\r\r\r\r\r\r\r\r\r\r\r\nSesiones de rehabilitación cardiaca \r\r\r\r\r\r\r\r\r\r\r\r\nLa profesional a quien se debe agendar este servicio es únicamente la fisioterapeuta Carolina Mora Hudson. \r\r\r\r\r\r\r\r\r\r\r\r\nLas sesiones tienen una duración de 1 hora igual que fisioterapia, sólo que ésta se enfoca en rehabilitar la función cardiaca. Nota: Si el paciente adquiere el paquete de 30 o el de 10 sesiones se le exonera el monto de la consulta inicial de evaluación con la Dra. Sáenz. \r\r\r\r\r\r\r\r\r\r\r\r\nSeguros: Se ofrece servicio de rehabilitación cardiaca para pacientes de ASSA, ADISA, BMI, EBS, INS, MAPFRE, MAWDY, MEDIPROCESOS, MNK, PALIG, REDBRIDGE. Siempre se requiere pre-autorización. \r\r\r\r\r\r\r\r\r\r\r\r\nIgual deben realizar previamente la consulta de evaluación con la Dra. Sáenz. \r\r\r\r\r\r\r\r\r\r\r\r\nSe les debe facturar por sesión (no aplican paquetes) con el siguiente SKU y precio a la aseguradora. Adjunto documento que contiene todos los detalles del PROGRAMA DE REHABILITACIÓN CARDIACA que se le deben informar a los pacientes. PROGRAMA DE REHABILITACIÓN CARDIACA\r\r\r\r\r\r\r\r\r\r\r\r\nPara iniciar con el programa, es indispensable que el paciente cumpla con los siguientes requisitos:\r\r\r\r\r\r\r\r\r\r\r\r\nConstancia, referencia médica, epicrisis o visto bueno por escrito del cardiólogo tratante, en la cual se certifique que el paciente está apto para iniciar el Programa de Rehabilitación Cardíaca.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nErgoespirometría vigente.\r\r\r\r\r\r\r\r\r\r\r\r\n• En caso de que el paciente no cuente con este estudio, puede agendarlo directamente con nosotros antes de iniciar el programa.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación inicial con la Dra. Adriana Sáenz, médico coordinadora del programa.\r\r\r\r\r\r\r\r\r\r\r\r\n• Esta consulta tiene una duración aproximada de una hora.\r\r\r\r\r\r\r\r\r\r\r\r\n• Durante esta valoración se realiza un examen general, se explica detalladamente en qué consiste el programa, se elabora un plan individualizado, se determina el nivel de riesgo y se establecen los lineamientos iniciales.\r\r\r\r\r\r\r\r\r\r\r\r\n• Posteriormente, esta información se traslada a la fisioterapeuta encargada del programa Lida. Carolina Mora, quien realizará una segunda cita de evaluación para explicar la fase correspondiente a fisioterapia y así completar el proceso previo al inicio de las sesiones.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nEl programa completo consta de 30 sesiones.\r\r\r\r\r\r\r\r\r\r\r\r\n• No obstante, según las condiciones del seguro médico y las posibilidades económicas del paciente, puede elaborarse un plan individualizado con un número menor de sesiones, de acuerdo con la estratificación de riesgo realizada por el equipo médico.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nUna vez finalizado el programa, el paciente contará con la opción de continuar en un esquema de ejercicio supervisado, con el objetivo de fortalecer la adherencia al estilo de vida saludable y mantener los beneficios obtenidos durante la rehabilitación.\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\nSe mantendrá comunicación directa con el cardiólogo tratante o el médico que refirió al paciente, con el propósito de garantizar un seguimiento integral y mantenerlo informado sobre la evolución del paciente a lo largo del programa."
+      "Comentarios": "Beneficios: Las sesiones de rehabilitación cardíaca se realizan para ayudar a las personas que han tenido problemas del corazón a recuperar su condición física y mejorar su salud cardiovascular. A través de ejercicio supervisado, educación y control, se busca fortalecer el corazón, mejorar la capacidad funcional y reducir el riesgo de futuros eventos cardíacos. \r\r\r\r\r\r\r\r\r\r\r\r\r\nAgendamiento: Evaluación inicial con la Dra. Adriana Sáenz. \r\r\r\r\r\r\r\r\r\r\r\r\r\nSe debe agendar una sesión de 1 hora e indicar en comentarios que corresponde a evaluación para rehabilitación cardiaca. \r\r\r\r\r\r\r\r\r\r\r\r\r\nEl precio de la consulta se detalla más adelante. \r\r\r\r\r\r\r\r\r\r\r\r\r\nSesiones de rehabilitación cardiaca \r\r\r\r\r\r\r\r\r\r\r\r\r\nLa profesional a quien se debe agendar este servicio es únicamente la fisioterapeuta Carolina Mora Hudson. \r\r\r\r\r\r\r\r\r\r\r\r\r\nLas sesiones tienen una duración de 1 hora igual que fisioterapia, sólo que ésta se enfoca en rehabilitar la función cardiaca. Nota: Si el paciente adquiere el paquete de 30 o el de 10 sesiones se le exonera el monto de la consulta inicial de evaluación con la Dra. Sáenz. \r\r\r\r\r\r\r\r\r\r\r\r\r\nSeguros: Se ofrece servicio de rehabilitación cardiaca para pacientes de ASSA, ADISA, BMI, EBS, INS, MAPFRE, MAWDY, MEDIPROCESOS, MNK, PALIG, REDBRIDGE. Siempre se requiere pre-autorización. \r\r\r\r\r\r\r\r\r\r\r\r\r\nIgual deben realizar previamente la consulta de evaluación con la Dra. Sáenz. \r\r\r\r\r\r\r\r\r\r\r\r\r\nSe les debe facturar por sesión (no aplican paquetes) con el siguiente SKU y precio a la aseguradora. Adjunto documento que contiene todos los detalles del PROGRAMA DE REHABILITACIÓN CARDIACA que se le deben informar a los pacientes. PROGRAMA DE REHABILITACIÓN CARDIACA\r\r\r\r\r\r\r\r\r\r\r\r\r\nPara iniciar con el programa, es indispensable que el paciente cumpla con los siguientes requisitos:\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstancia, referencia médica, epicrisis o visto bueno por escrito del cardiólogo tratante, en la cual se certifique que el paciente está apto para iniciar el Programa de Rehabilitación Cardíaca.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nErgoespirometría vigente.\r\r\r\r\r\r\r\r\r\r\r\r\r\n• En caso de que el paciente no cuente con este estudio, puede agendarlo directamente con nosotros antes de iniciar el programa.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación inicial con la Dra. Adriana Sáenz, médico coordinadora del programa.\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Esta consulta tiene una duración aproximada de una hora.\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Durante esta valoración se realiza un examen general, se explica detalladamente en qué consiste el programa, se elabora un plan individualizado, se determina el nivel de riesgo y se establecen los lineamientos iniciales.\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Posteriormente, esta información se traslada a la fisioterapeuta encargada del programa Lida. Carolina Mora, quien realizará una segunda cita de evaluación para explicar la fase correspondiente a fisioterapia y así completar el proceso previo al inicio de las sesiones.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nEl programa completo consta de 30 sesiones.\r\r\r\r\r\r\r\r\r\r\r\r\r\n• No obstante, según las condiciones del seguro médico y las posibilidades económicas del paciente, puede elaborarse un plan individualizado con un número menor de sesiones, de acuerdo con la estratificación de riesgo realizada por el equipo médico.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nUna vez finalizado el programa, el paciente contará con la opción de continuar en un esquema de ejercicio supervisado, con el objetivo de fortalecer la adherencia al estilo de vida saludable y mantener los beneficios obtenidos durante la rehabilitación.\r\r\r\r\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\r\r\r\r\nSe mantendrá comunicación directa con el cardiólogo tratante o el médico que refirió al paciente, con el propósito de garantizar un seguimiento integral y mantenerlo informado sobre la evolución del paciente a lo largo del programa."
     },
     {
       "Id Medico": "MED7142",
@@ -73438,7 +73423,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
+      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73453,7 +73438,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
+      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
       "Tiempo de Consulta": "30",
       "Comentarios": "El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73468,7 +73453,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
+      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73483,7 +73468,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
+      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73498,7 +73483,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "50961",
       "Iva2": "2038.44",
       "Precio MS Efectivo": "52999.44",
-      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
+      "Horario de Atención": "Lunes 1:30pm a 7:30pm (último paciente 7 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes de por medio: 9:30 am a 1:30 pm (último paciente 1:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves: 9:30 am a 2:30pm (último paciente 2:00 pm)\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 7:00 am a 9:00 am (último paciente 8:30 am)\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados de por medio 9 am a 11 am (último paciente 10:30 am)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73513,7 +73498,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
+      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73528,7 +73513,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
+      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
       "Tiempo de Consulta": "30",
       "Comentarios": "El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73543,7 +73528,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
+      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73558,7 +73543,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
+      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73573,7 +73558,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "50961",
       "Iva2": "2038.44",
       "Precio MS Efectivo": "52999.44",
-      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
+      "Horario de Atención": "Martes y Viernes de 2pm a 7:30pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 8:30 am a 12:00 md. (tiempo de alimentación de 12 md a 1 pm)",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73588,7 +73573,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
+      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73603,7 +73588,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
+      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73618,7 +73603,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
+      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73633,7 +73618,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
+      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73648,7 +73633,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "50961",
       "Iva2": "2038.44",
       "Precio MS Efectivo": "52999.44",
-      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
+      "Horario de Atención": "Lunes de 9:00am a 1:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 9:00am a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves de 4:00pm a 7:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de 11:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Los procedimientos NO tienen beneficio con MediSmart  | El paciente debe pagar la consulta + el procedimiento."
     },
@@ -73738,7 +73723,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "Precio Brinda el Profesional en Consulta",
       "Iva2": "Precio Brinda el Profesional en Consulta",
       "Precio MS Efectivo": "Precio Brinda el Profesional en Consulta",
-      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
+      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Precio de procedimientos se ven directamente con el medico"
     },
@@ -73753,7 +73738,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "Precio Brinda el Profesional en Consulta",
       "Iva2": "Precio Brinda el Profesional en Consulta",
       "Precio MS Efectivo": "Precio Brinda el Profesional en Consulta",
-      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
+      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Precio de procedimientos se ven directamente con el medico"
     },
@@ -73768,7 +73753,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "Precio Brinda el Profesional en Consulta",
       "Iva2": "Precio Brinda el Profesional en Consulta",
       "Precio MS Efectivo": "Precio Brinda el Profesional en Consulta",
-      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
+      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Precio de procedimientos se ven directamente con el medico"
     },
@@ -73783,7 +73768,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "Precio Brinda el Profesional en Consulta",
       "Iva2": "Precio Brinda el Profesional en Consulta",
       "Precio MS Efectivo": "Precio Brinda el Profesional en Consulta",
-      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
+      "Horario de Atención": "Viernes de 4:00pm a 8:00pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábados de 9:00am a 1:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Precio de procedimientos se ven directamente con el medico"
     },
@@ -73798,7 +73783,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
+      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
       "Tiempo de Consulta": "60",
       "Comentarios": ""
     },
@@ -73813,7 +73798,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "33744",
       "Iva2": "1349.76",
       "Precio MS Efectivo": "35093.76",
-      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
+      "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
       "Tiempo de Consulta": "60",
       "Comentarios": ""
     },
@@ -73828,7 +73813,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Jueves cada 15  8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\nViernes cada 15 2pm a 7pm",
+      "Horario de Atención": "Jueves cada 15  8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes cada 15 2pm a 7pm",
       "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
@@ -83461,6 +83446,36 @@ var DM_DATA = {
       "Horario de Atención": "Martes 4-7pm,  miercoles y viernes de 7am a 1pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Seguimiento 30 min. Horario: Martes 4-7pm,  miercoles y viernes de 7am a 1pm"
+    },
+    {
+      "Id Medico": "MED13205",
+      "Especialidad": "Medicina Interna",
+      "Procedimiento": "Valoración pre operatoria",
+      "Sede": "H. Metropolitano Lindora",
+      "Precio Regular Tarjeta": "",
+      "Iva": "",
+      "Precio Regular Efectivo": "",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Miércoles 4:30pm a 7pm",
+      "Tiempo de Consulta": "30",
+      "Comentarios": "Bajo el mismo precio de la consulta de medicina interna. Para pacientes nuevos se atenderán en citas de 1 hora y para seguimientos 30 minutos."
+    },
+    {
+      "Id Medico": "MED13205",
+      "Especialidad": "Medicina Interna",
+      "Procedimiento": "Seguimiento de patologías crónicas",
+      "Sede": "H. Metropolitano Lindora",
+      "Precio Regular Tarjeta": "",
+      "Iva": "",
+      "Precio Regular Efectivo": "",
+      "Precio MS Tarjeta": "",
+      "Iva2": "",
+      "Precio MS Efectivo": "",
+      "Horario de Atención": "Miércoles 4:30pm a 7pm",
+      "Tiempo de Consulta": "30",
+      "Comentarios": "Bajo el mismo precio de la consulta de medicina interna. Para pacientes nuevos se atenderán en citas de 1 hora y para seguimientos 30 minutos."
     }
   ]
 };
