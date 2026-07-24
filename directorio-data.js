@@ -83218,7 +83218,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "29841",
       "Iva2": "1193.64",
       "Precio MS Efectivo": "31034.64",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83233,7 +83233,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "53400",
       "Iva2": "2136",
       "Precio MS Efectivo": "55536",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83248,7 +83248,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83263,7 +83263,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83278,7 +83278,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83293,7 +83293,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "12113.89",
       "Iva2": "484.55559999999997",
       "Precio MS Efectivo": "12598.44",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83308,7 +83308,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "40498.50",
       "Iva2": "1619.94",
       "Precio MS Efectivo": "43738.38",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83323,7 +83323,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83338,7 +83338,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "43615.39",
       "Iva2": "1744.6156",
       "Precio MS Efectivo": "45360.01",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83353,7 +83353,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "43615.39",
       "Iva2": "1744.6156",
       "Precio MS Efectivo": "45360.01",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83368,7 +83368,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83383,7 +83383,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83398,7 +83398,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83413,7 +83413,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "43615.39",
       "Iva2": "1744.6156",
       "Precio MS Efectivo": "45360.01",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83428,7 +83428,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83443,7 +83443,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83458,7 +83458,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83473,7 +83473,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83488,7 +83488,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83503,7 +83503,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "29841",
       "Iva2": "1193.64",
       "Precio MS Efectivo": "31034.64",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83518,7 +83518,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83533,7 +83533,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83548,7 +83548,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "57199.04",
       "Iva2": "2287.9616",
       "Precio MS Efectivo": "59487",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83563,7 +83563,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83578,7 +83578,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83593,7 +83593,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83608,7 +83608,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -83623,7 +83623,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
+      "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "20",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     }
