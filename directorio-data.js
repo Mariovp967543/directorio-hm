@@ -8607,7 +8607,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". Reservar únicamente el espacio de 4:30 p. m. a 5:00 p. m. para pacientes MS.\r\r\r\r\r\r\r\r\r\r\nLa Dra. Lawson solicita atender un máximo de un paciente MS por día",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". \r\n\r\n\r\n\r\n\r\n\r\n\r\nLa Dra. Lawson solicita atender un máximo de un paciente MS por día",
       "Seguros_Todos": "Medismart"
     },
     {
@@ -8851,7 +8851,7 @@ var DM_DATA = {
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
-      "Id Medico": "MED13945",
+      "Id Medico": "m",
       "Nombre Doctor": "Gilbert Alfredo Chaverri Guillén",
       "Especialidad": "Ginecología y Obstetricia",
       "Método De Ingreso": "Servicios Profesionales",
@@ -22056,13 +22056,13 @@ var DM_DATA = {
       "Especialidad": "Psicología",
       "Método De Ingreso": "Servicios Profesionales",
       "Sede": "H. Metropolitano 25 de Julio (Liberia) | Clinica Herrera Amiguetti",
-      "Correo Electrónico": "",
-      "Piso": "2",
-      "Número Del Consultorio": "Herrera Amighetti",
+      "Correo Electrónico": "lissieperezj@gmail.com",
+      "Piso": "1",
+      "Número Del Consultorio": "2-Herrera Amighetti",
       "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
       "Secretarias": "Secretaria de la clinica Herrera Amighetti",
       "Agenda": "ZH Blue",
-      "Modalidad Cita": "Presencial | Virtual",
+      "Modalidad Cita": "Virtual",
       "Cobro Anticipado": "SI",
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
@@ -22295,7 +22295,7 @@ var DM_DATA = {
       "Nombre Doctor": "María Paula Zumbado Sáenz",
       "Especialidad": "Psicología",
       "Método De Ingreso": "Servicios Profesionales",
-      "Sede": "H. Metropolitano Lindora",
+      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
       "Correo Electrónico": "",
       "Piso": "4",
       "Número Del Consultorio": "Herrera Amighetti",
@@ -22307,7 +22307,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 5pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
+      "Horario de Atención": "Lunes 8am a 5pm, Viernes 1pm a 5pm, S 8am a 4pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -30599,6 +30599,96 @@ var DM_DATA = {
       "Tiempo De Espera": "15",
       "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". solamente realiza procedimientos NO BRINDA CONSULTA",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "13122",
+      "Nombre Doctor": "María Fernanda Rodríguez Porter",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "Centro Metropolitano Plaza Real Alajuela | Clinica Herrera Amiguetti",
+      "Correo Electrónico": "fernandaropo439@gmail.com",
+      "Piso": "1",
+      "Número Del Consultorio": "4-Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti | Doctores Dent Centro medico Plaza Real",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Jueves 7am a 11am y Sábado 1pm a 7pm",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, Adolescentes, Adultos y Adultos Mayores",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS | Procedimiento que realiza: Terapia individual, Regulación emocional, Estrés, Ansiedad, Síntomas depresivos, Fortalecimiento de la autoestima, Procesos de cambio, Comunicación asertiva, Desarrollo de habilidades sociales, Caja de Arena, Arte Terapia, Psicooncología, Apoyo al cuidador principal, Preparación para el retorno a la vida cotidiana, Recaídas, Acompañamiento emocional desde el diagnóstico, Identificación y expresión de emciones en niños, Adaptación a enfermedades en niños, Duelo, Ansiedad escolar, Psicoeducación familiar, Estimulación cognitiva en adultos mayores, Prevención del aislamiento social, Duelo anticipado, Duelo por pérdida de capacidades, Calidad de vida",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "13122",
+      "Nombre Doctor": "María Fernanda Rodríguez Porter",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Correo Electrónico": "fernandaropo439@gmail.com",
+      "Piso": "4",
+      "Número Del Consultorio": "30-Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti | Doctores Dent Centro medico Plaza Real",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Lunes 8am a 1pm, Martes 8am a 12md, Viernes 8am a 1pm",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, Adolescentes, Adultos y Adultos Mayores",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS | Procedimiento que realiza: Terapia individual, Regulación emocional, Estrés, Ansiedad, Síntomas depresivos, Fortalecimiento de la autoestima, Procesos de cambio, Comunicación asertiva, Desarrollo de habilidades sociales, Caja de Arena, Arte Terapia, Psicooncología, Apoyo al cuidador principal, Preparación para el retorno a la vida cotidiana, Recaídas, Acompañamiento emocional desde el diagnóstico, Identificación y expresión de emciones en niños, Adaptación a enfermedades en niños, Duelo, Ansiedad escolar, Psicoeducación familiar, Estimulación cognitiva en adultos mayores, Prevención del aislamiento social, Duelo anticipado, Duelo por pérdida de capacidades, Calidad de vida",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "13945",
+      "Nombre Doctor": "María Paula Zumbado Sáenz",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "Centro Metropolitano Plaza Vizcaya | Clínica Herrera Amiguetti",
+      "Correo Electrónico": "",
+      "Piso": "4",
+      "Número Del Consultorio": "Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial | Virtual",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "L 4pm a 7pm, J 8am a 4pm (cada 15)",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Adolescentes, Adultos, Adultos Mayores",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "15",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimientos que realiza: \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n Psicoterapia individual\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en crisis vitales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en procesos de duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia de pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n Evaluación e intervención en psicooncología\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAbordaje de rupturas vinculares\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en patrones relacionales disfuncionales",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     }
   ],
   "procedures": [
@@ -62114,7 +62204,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miercoles 2 pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62129,7 +62219,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Miercoles 2 pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62144,7 +62234,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Miercoles 2 pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62159,7 +62249,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miercoles cada 15 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62174,7 +62264,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Miercoles cada 15 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62189,7 +62279,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Miercoles cada 15 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62204,7 +62294,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes, martes, jueves De 8am a 4 pm, Sábados 1 y 3 (cada15) de 8 am a 2pm | Tiempo de agendamiento 60 min",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62219,7 +62309,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes, martes, jueves De 8am a 4 pm, Sábados 1 y 3 (cada15) de 8 am a 2pm | Tiempo de agendamiento 60 min",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62234,7 +62324,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes, martes, jueves De 8am a 4 pm, Sábados 1 y 3 (cada15) de 8 am a 2pm | Tiempo de agendamiento 60 min",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62249,7 +62339,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Viernes de 8 a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62264,7 +62354,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Viernes 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62279,7 +62369,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Viernes 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62294,7 +62384,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Viernes 2pm a 8pm y Sábado 9am a 1pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62309,7 +62399,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes de 3 pm a 8 pm, Martes 8am a 8pm, Jueves 8am a 2pm, Viernes  8am a 12md  y  Sábado  8am a 12md cada 15\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62324,7 +62414,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes de 3 pm a 8 pm, Martes 8am a 8pm, Jueves 8am a 2pm, Viernes  8am a 12md  y  Sábado  8am a 12md cada 15\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62339,7 +62429,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes de 3 pm a 8 pm, Martes 8am a 8pm, Jueves 8am a 2pm, Viernes  8am a 12md  y  Sábado  8am a 12md cada 15\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nMartes 8am a 8 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nMiércoles 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nJueves de 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nViernes 8 am a 2 pm\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nSábado cada 15 de 8 am a 12pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62354,7 +62444,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves de 2 pm a 8 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62369,7 +62459,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves de 2 pm a 8 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62384,7 +62474,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves de 2 pm a 8 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62399,7 +62489,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62414,7 +62504,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 3pm a 7:30pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes de cada 15 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62429,7 +62519,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62444,7 +62534,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62459,7 +62549,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 7am a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 3pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 7am a 3pm (cada 15 min)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62474,7 +62564,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 8am a 1 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62489,7 +62579,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 10am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62504,7 +62594,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 10am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62519,7 +62609,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 10am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62534,7 +62624,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62549,7 +62639,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62564,7 +62654,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiercoles 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 12 (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62579,7 +62669,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 3pm a 8pm y Jueves 8 am a 12md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62594,7 +62684,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 3pm a 8pm y Jueves 8 am a 12md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62609,7 +62699,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 3pm a 8pm y Jueves 8 am a 12md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62624,7 +62714,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Viernes 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62639,7 +62729,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Viernes 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62654,7 +62744,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Viernes 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62669,7 +62759,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes de 3 pm a 6 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62684,7 +62774,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 7 am a 12 md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62699,7 +62789,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 10:00 am a 4:00pm (Cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62714,7 +62804,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 12md a 3pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62729,7 +62819,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 8am a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62744,7 +62834,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62759,7 +62849,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 1am 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 8am a 4pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados 8am a 1pm  cada 15",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62774,7 +62864,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes de 1 pm a 6 pm.",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62789,7 +62879,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 2pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62804,7 +62894,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 2pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62819,7 +62909,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes cada 15 de 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62834,7 +62924,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes cada 15 de 1pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62849,7 +62939,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 1pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62864,7 +62954,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 1pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62879,7 +62969,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 2pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62894,7 +62984,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 2pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62909,7 +62999,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 2pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62924,7 +63014,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 4pm a 7pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62939,7 +63029,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 4pm a 7pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62954,7 +63044,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 4pm a 7pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62969,7 +63059,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves cada 15 8 am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62984,7 +63074,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Viernes cada 15 2pm a 9pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -62999,7 +63089,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 8am 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63014,7 +63104,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 8am 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63029,7 +63119,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 8am 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63044,7 +63134,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 10 am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63059,7 +63149,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 10 am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63074,7 +63164,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 10 am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63089,7 +63179,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 8am 4pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63104,7 +63194,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 8am 4pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63119,7 +63209,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 8am 4pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63179,7 +63269,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes y Miercoles 8am a 8pm y Jueves 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63194,7 +63284,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 9am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63209,7 +63299,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 9am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63224,7 +63314,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 9am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63239,7 +63329,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63254,7 +63344,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63299,7 +63389,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Sabados (1y3) 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63314,7 +63404,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Sabados (1y3) 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63329,7 +63419,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Sabados (1y3) 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63344,7 +63434,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 5pm a 7:30pm, Miércoles 12md a 4pm y Viernes 8am  a 12md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63359,7 +63449,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes de 4:00 pm a 7:00 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63374,7 +63464,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves de 5 30 a 8 30 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63389,7 +63479,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves de 5 30 a 8 30 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63404,7 +63494,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Sábado 8 am a 4 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63419,7 +63509,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 12md a 8pm, Jueves 12md a 4pm y Sábado 8am a 4pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63434,7 +63524,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 12md a 8pm, Jueves 12md a 4pm y Sábado 8am a 4pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63449,7 +63539,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63464,7 +63554,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Viernes 1pm a 8pm. Sabado 8am 4pm (cada 15min)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63479,7 +63569,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Viernes 1pm a 8pm. Sabado 8am 4pm (cada 15min)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63494,7 +63584,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Viernes 1pm a 8pm. Sabado 8am 4pm (cada 15min)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63509,7 +63599,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "revisar agenda",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63524,7 +63614,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 10 am a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63538,8 +63628,8 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
-      "Horario de Atención": "Lunes 8am a 1pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 8am a 5pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabado 8am a 4pm",
-      "Tiempo de Consulta": "45",
+      "Horario de Atención": "Lunes 8am a 5pm, Viernes 1pm a 5pm, S 8am a 4pm",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63554,7 +63644,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes: 2 pm a 8 pm | martes y jueves de 10 am a 6 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63569,7 +63659,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes: 2 pm a 8 pm | martes y jueves de 10 am a 6 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63584,7 +63674,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63599,7 +63689,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63614,7 +63704,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 7am a 10am\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 10am \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSabados cada 15 8am 6pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63644,7 +63734,7 @@ var DM_DATA = {
       "Iva2": "1324.9224",
       "Precio MS Efectivo": "34447.9824",
       "Horario de Atención": "lunes, martes y miercoles y viernes horario rotativo (revisar agenda)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "",
       "Comentarios": "Terapia de Pareja | No atenderá niños hasta nuevo aviso."
     },
     {
@@ -63719,7 +63809,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miercoles 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63734,7 +63824,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miércoles de 2pm a 9pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63749,7 +63839,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes, miércoles 6pm a 10pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63764,7 +63854,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes, miércoles 6pm a 10pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63779,7 +63869,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes, miércoles 6pm a 10pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63794,7 +63884,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes a Viernes 8am a 1pm 60 min de consulta individual. Y 90 Min Familia y Pareja",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63809,7 +63899,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63824,7 +63914,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 10am a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n Viernes 1pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63839,7 +63929,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes de 8:00 am a 1:00 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63854,7 +63944,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miércoles 7 am a 12 md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63869,7 +63959,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes de 3pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63884,7 +63974,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes de 3pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63899,7 +63989,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes de 3pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63914,7 +64004,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "sábados, de 8am a 1pm.",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63929,7 +64019,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 9am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63944,7 +64034,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 9am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63959,7 +64049,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 9am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -63974,7 +64064,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64004,7 +64094,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes y Martes de 9 am a 6 pm / Miercoles 9am a 7pm /Jueves 2pm a 6pm /Viernes de 8 am a 12md /Sábados c/ 15 días de 9 am -12 y de 1 a 5 pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64019,7 +64109,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64034,7 +64124,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64049,7 +64139,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 8am a 9pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 7am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 12md a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\ncada 15",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64094,7 +64184,7 @@ var DM_DATA = {
       "Iva2": "1300",
       "Precio MS Efectivo": "33800",
       "Horario de Atención": "Lunes y Viernes 3 a 8 PM, Sábado 9 AM A 4 PM.",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "",
       "Comentarios": ""
     },
     {
@@ -64124,7 +64214,7 @@ var DM_DATA = {
       "Iva2": "1500",
       "Precio MS Efectivo": "39000",
       "Horario de Atención": "Miercoles 2:30 pm a 7 pm, Viernes 3pm a 6:30 pm, S 9am - 12 md.",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "",
       "Comentarios": ""
     },
     {
@@ -64139,7 +64229,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64154,7 +64244,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64169,7 +64259,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 8am a 12md\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 1pm a 5pm (cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64184,7 +64274,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 1pm a 8pm, Jueves 1pm a 8pm, Sabado cada 15 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64214,7 +64304,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes y Martes  3:00 pm A 9:00pm, jueves de 7:00 am a 4 pm y viernes de 9:00 am a 9:00 pm, Sabados 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64229,7 +64319,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 7am a 11am  y Miércoles 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64244,7 +64334,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 7am a 11am  y Miércoles 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64259,7 +64349,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64274,7 +64364,7 @@ var DM_DATA = {
       "Iva2": "1349.76",
       "Precio MS Efectivo": "35093.76",
       "Horario de Atención": "Miércoles 2pm a 5pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 1pm a 7pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 8am a 12md (Cada 15)",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64289,7 +64379,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 8am a 3pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64304,7 +64394,7 @@ var DM_DATA = {
       "Iva2": "1349.77",
       "Precio MS Efectivo": "35094.15",
       "Horario de Atención": "Jueves 8am a 3pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-04468. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64334,7 +64424,7 @@ var DM_DATA = {
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Viernes de 9 am a 2 pm.",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "",
       "Comentarios": "Ver detalle en comentarios del doctor."
     },
     {
@@ -64364,7 +64454,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Martes 12md a 4pm cada 15, Miercoles 3pm a 8pm,  Jueves 5pm a 10pm y Viernes 1pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64379,7 +64469,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Martes 12md a 4pm cada 15, Miercoles 3pm a 8pm,  Jueves 5pm a 10pm y Viernes 1pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64394,7 +64484,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64409,7 +64499,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64424,7 +64514,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 9am a 6pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64439,7 +64529,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 9am a 6pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64454,7 +64544,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 9am a 6pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64469,7 +64559,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 9am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64484,7 +64574,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 9am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64499,7 +64589,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 9am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -64514,7 +64604,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 1pm a 10pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -74309,7 +74399,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -74324,7 +74414,7 @@ var DM_DATA = {
       "Iva2": "1349.77",
       "Precio MS Efectivo": "35094.15",
       "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-04468. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -74339,7 +74429,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves cada 15  8am a 1pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes cada 15 2pm a 7pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -74354,7 +74444,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -74369,7 +74459,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -74384,7 +74474,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Jueves 8am a 2pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -75764,7 +75854,7 @@ var DM_DATA = {
       "Iva2": "1349.77",
       "Precio MS Efectivo": "35094.15",
       "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-04468. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -75779,7 +75869,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -75794,7 +75884,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -75809,7 +75899,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "Lunes 5pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiércoles 6pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nJueves 5pm a 8pm \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nViernes 6pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -76079,7 +76169,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Jueves 8am a 12md",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -76514,7 +76604,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "L 8am a 12md, Miercoles 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -76529,7 +76619,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "L 8am a 12md, Miercoles 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -76544,7 +76634,7 @@ var DM_DATA = {
       "Iva2": "1391.19",
       "Precio MS Efectivo": "36170.88",
       "Horario de Atención": "L 8am a 12md, Miercoles 8am a 1pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "90",
       "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -76889,7 +76979,7 @@ var DM_DATA = {
       "Iva2": "955.28",
       "Precio MS Efectivo": "24837.33",
       "Horario de Atención": "Miercoles 8am a 1pm y Jueves 2pm a 8pm",
-      "Tiempo de Consulta": "45",
+      "Tiempo de Consulta": "60",
       "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     },
     {
@@ -90691,6 +90781,111 @@ var DM_DATA = {
       "Horario de Atención": "",
       "Tiempo de Consulta": "75",
       "Comentarios": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\". solamente realiza procedimientos NO BRINDA CONSULTA"
+    },
+    {
+      "Id Medico": "13122",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Individual",
+      "Sede": "Centro Metropolitano Plaza Real Alajuela | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Iva2": "955.28",
+      "Precio MS Efectivo": "24837.33",
+      "Horario de Atención": "Jueves 7am a 11am y Sábado 1pm a 7pm",
+      "Tiempo de Consulta": "60",
+      "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "13122",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Pareja",
+      "Sede": "Centro Metropolitano Plaza Real Alajuela | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "86949.22",
+      "Iva": "3477.97",
+      "Precio Regular Efectivo": "90427.19",
+      "Precio MS Tarjeta": "34779.69",
+      "Iva2": "1391.19",
+      "Precio MS Efectivo": "36170.88",
+      "Horario de Atención": "Jueves 7am a 11am y Sábado 1pm a 7pm",
+      "Tiempo de Consulta": "90",
+      "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "13122",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Familiar",
+      "Sede": "Centro Metropolitano Plaza Real Alajuela | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "86949.22",
+      "Iva": "3477.97",
+      "Precio Regular Efectivo": "90427.19",
+      "Precio MS Tarjeta": "34779.69",
+      "Iva2": "1391.19",
+      "Precio MS Efectivo": "36170.88",
+      "Horario de Atención": "Jueves 7am a 11am y Sábado 1pm a 7pm",
+      "Tiempo de Consulta": "90",
+      "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "13122",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Individual",
+      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Iva2": "955.28",
+      "Precio MS Efectivo": "24837.33",
+      "Horario de Atención": "Lunes 8am a 1pm, Martes 8am a 12md, Viernes 8am a 1pm",
+      "Tiempo de Consulta": "60",
+      "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "13122",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Pareja",
+      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "86949.22",
+      "Iva": "3477.97",
+      "Precio Regular Efectivo": "90427.19",
+      "Precio MS Tarjeta": "34779.69",
+      "Iva2": "1391.19",
+      "Precio MS Efectivo": "36170.88",
+      "Horario de Atención": "Lunes 8am a 1pm, Martes 8am a 12md, Viernes 8am a 1pm",
+      "Tiempo de Consulta": "90",
+      "Comentarios": "90 minutos de consulta. Código SER-01735. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "13122",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Familiar",
+      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "86949.22",
+      "Iva": "3477.97",
+      "Precio Regular Efectivo": "90427.19",
+      "Precio MS Tarjeta": "34779.69",
+      "Iva2": "1391.19",
+      "Precio MS Efectivo": "36170.88",
+      "Horario de Atención": "Lunes 8am a 1pm, Martes 8am a 12md, Viernes 8am a 1pm",
+      "Tiempo de Consulta": "90",
+      "Comentarios": "90 minutos de consulta. Código SER-01736. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "13945",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Individual",
+      "Sede": "Centro Metropolitano Plaza Vizcaya | Clínica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Iva2": "955.28",
+      "Precio MS Efectivo": "24837.33",
+      "Horario de Atención": "L 4pm a 7pm, J 8am a 4pm (cada 15)",
+      "Tiempo de Consulta": "60",
+      "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
     }
   ]
 };
