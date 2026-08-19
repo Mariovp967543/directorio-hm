@@ -10331,7 +10331,7 @@ var DM_DATA = {
       "Número Del Consultorio": "10",
       "Extensión": "25219595",
       "Secretarias": "Admisión y Cajas",
-      "Agenda": "SIKU",
+      "Agenda": "HULI",
       "Modalidad Cita": "Presencial",
       "Cobro Anticipado": "NO",
       "Agenda Call Center": "NO",
