@@ -1217,7 +1217,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 5:30pm a 9pm, Martes 2pm a 7pm, Jueves 5:30pm a 8pm Viernes 9:30 am a 4:30pm y Sábado de por medio 9:30am a 12:30pm",
+      "Horario de Atención": "Miércoles de 1pm a 6pm (Octubre: miércoles 21; noviembre: miércoles 18; diciembre: 16, 23 y 30; enero: miércoles 6 y miércoles 13; febrero: miércoles 3 y 17; marzo: miércoles 3 y miércoles 17.) y Viernes 9:30 am a 4:30pm (23 de octubre , 20 de noviembre, 9 y 26 de diciembre, 8 y 15 de enero 2027, 5 y 19 de febrero 2027, 5 y 19 de marzo 2027)",
       "Precio Regular Tarjeta": "88750.86",
       "Iva": "3550.03",
       "Precio Regular Efectivo": "92300.89",
@@ -5356,7 +5356,7 @@ var DM_DATA = {
       "Cobro Anticipado": "NO",
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
-      "Acepta Medismart": "NO",
+      "Acepta Medismart": "SI",
       "Horario de Atención": "Jueves de 8:00 am a 12:00 pm.",
       "Precio Regular Tarjeta": "Ver Comentario",
       "Iva": "Ver Comentario",
@@ -7869,7 +7869,7 @@ var DM_DATA = {
       "Correo Electrónico": "",
       "Piso": "",
       "Número Del Consultorio": "",
-      "Extensión": "",
+      "Extensión": "4001-2300 opc 1",
       "Secretarias": "Admisión y Cajas",
       "Agenda": "",
       "Modalidad Cita": "Presencial",
@@ -8597,7 +8597,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Precio Regular Tarjeta": "69156.52",
       "Iva": "2766.26",
       "Precio Regular Efectivo": "71922.78",
@@ -16177,8 +16177,8 @@ var DM_DATA = {
       "Método De Ingreso": "Servicios Profesionales",
       "Sede": "H. Metropolitano Lindora",
       "Correo Electrónico": "arubinstein@mac.com",
-      "Piso": "2",
-      "Número Del Consultorio": "26",
+      "Piso": "2-Plaza Pozos",
+      "Número Del Consultorio": "2",
       "Extensión": "25219595",
       "Secretarias": "Admisión y Cajas",
       "Agenda": "ZH Blue",
@@ -16237,8 +16237,8 @@ var DM_DATA = {
       "Método De Ingreso": "Servicios Profesionales",
       "Sede": "H. Metropolitano Lindora",
       "Correo Electrónico": "",
-      "Piso": "2",
-      "Número Del Consultorio": "26",
+      "Piso": "2-Plaza Pozos",
+      "Número Del Consultorio": "2",
       "Extensión": "25219595",
       "Secretarias": "Gloriana solis, Andres arauz",
       "Agenda": "ZH Blue",
@@ -16357,8 +16357,8 @@ var DM_DATA = {
       "Método De Ingreso": "Servicios Profesionales",
       "Sede": "H. Metropolitano Lindora",
       "Correo Electrónico": "jorgechawan@gmail.com",
-      "Piso": "2",
-      "Número Del Consultorio": "Dr. Max 1",
+      "Piso": "2-Plaza Pozos",
+      "Número Del Consultorio": "3",
       "Extensión": "25219595",
       "Secretarias": "Admisión y Cajas",
       "Agenda": "ZH Blue",
@@ -16537,8 +16537,8 @@ var DM_DATA = {
       "Método De Ingreso": "Médico de Planta",
       "Sede": "H. Metropolitano Lindora",
       "Correo Electrónico": "luisobler@gmail.com",
-      "Piso": "4",
-      "Número Del Consultorio": "Dr Max 1",
+      "Piso": "2-Plaza Pozos",
+      "Número Del Consultorio": "3",
       "Extensión": "25219595",
       "Secretarias": "Admisión y Cajas",
       "Agenda": "ZH Blue",
@@ -20461,7 +20461,7 @@ var DM_DATA = {
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
-      "Id Medico": "MED7213 | Tiempo de agendamiento 30 min. | ₡67.200,00 | ₡69.888,00 | ₡30.214,00 | ₡31.422,56 | Medismart | Todos los seguros del HM | Piso #1 | 0 a 14 años | MED12419",
+      "Id Medico": "MED7213",
       "Nombre Doctor": "Ramsés Badilla Porras",
       "Especialidad": "Pediatría",
       "Método De Ingreso": "Servicios Profesionales",
@@ -20469,7 +20469,7 @@ var DM_DATA = {
       "Correo Electrónico": "",
       "Piso": "",
       "Número Del Consultorio": "",
-      "Extensión": "",
+      "Extensión": "4001-2300 opc 1",
       "Secretarias": "Admisión y Cajas",
       "Agenda": "",
       "Modalidad Cita": "Presencial",
@@ -21347,17 +21347,17 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Viernes 2pm a 8pm",
+      "Horario de Atención": "Miercoles 9am a 1pm y Viernes 2pm a 8pm cada 15",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños | Adolescentes | Adultos",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento: Terapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n|Doctores Dent Centro medico Yoses\t\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nTerapia en pareja\r\nAnsiedad\r\nAcompañamiento emocional\r\nConsulta general\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nFobias\r\nConstrucción de Autoestima e Inteligencia emocional\r\nDepresión\r\nEstrés\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas\r\n Todos los seguros por reembolsos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnsiedad\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAcompañamiento emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsulta general\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDepresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFobias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConstrucción de Autoestima e Inteligencia emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo de Habilidades Sociales\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsumo  de sustancias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo y manejo de la comunicación asertiva\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApoyo en duelo\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n|Doctores Dent Centro medico Yoses\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21377,17 +21377,17 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 1pm a 8pm y Miercoles 9am a 1pm",
+      "Horario de Atención": "Martes 1pm a 8pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS |60 min de consulta individual. Y 90 Min Pareja |Procedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nTerapia en pareja\r\nAnsiedad\r\nAcompañamiento emocional\r\nConsulta general\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nFobias\r\nConstrucción de Autoestima e Inteligencia emocional\r\nDepresión\r\nEstrés\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas\r\n Todos los seguros por reembolsos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnsiedad\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAcompañamiento emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsulta general\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDepresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFobias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConstrucción de Autoestima e Inteligencia emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo de Habilidades Sociales\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsumo  de sustancias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo y manejo de la comunicación asertiva\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApoyo en duelo\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n|Doctores Dent Centro medico Yoses\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21407,17 +21407,17 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Jueves 9am a 1pm",
+      "Horario de Atención": "Jueves 9am a 1pm cada 15",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños + 3 años/ Adolescentes / Adultos",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nTerapia en pareja\r\nAnsiedad\r\nAcompañamiento emocional\r\nConsulta general\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nFobias\r\nConstrucción de Autoestima e Inteligencia emocional\r\nDepresión\r\nEstrés\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas\r\n Todos los seguros por reembolsos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnsiedad\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAcompañamiento emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsulta general\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDepresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFobias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConstrucción de Autoestima e Inteligencia emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo de Habilidades Sociales\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsumo  de sustancias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo y manejo de la comunicación asertiva\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApoyo en duelo\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n|Doctores Dent Centro medico Yoses\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21444,10 +21444,10 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños + 3 años/ Adolescentes / Adultos.",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento: Terapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia en pareja\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsulta general\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nFobias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConstrucción de Autoestima e Inteligencia emocional \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo de Habilidades Sociales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nConsumo  de sustancias\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesarrollo y manejo de la comunicación asertiva\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nApoyo en duelo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nTerapia en pareja\r\nAnsiedad\r\nAcompañamiento emocional\r\nConsulta general\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nFobias\r\nConstrucción de Autoestima e Inteligencia emocional\r\nDepresión\r\nEstrés\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas\r\n Todos los seguros por reembolsos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnsiedad\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAcompañamiento emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsulta general\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDepresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFobias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConstrucción de Autoestima e Inteligencia emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo de Habilidades Sociales\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsumo  de sustancias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo y manejo de la comunicación asertiva\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApoyo en duelo\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n|Doctores Dent Centro medico Yoses\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -21497,7 +21497,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "SI",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 5pm a 7:30pm, Miércoles 12md a 4pm y Viernes 8am  a 12md",
+      "Horario de Atención": "Lunes 5pm a 8pm, Miércoles 12md a 4pm cada 15 y Viernes 8am  a 12md",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -21507,7 +21507,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos +18, - 45",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos: Aspectos que desean trabajar:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nVivís en modo supervivencia emocional, alerta permanente, hipervigilancia, ansiedad generalizada. \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSobrecarga mental y emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo al fracaso. \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoexigencia y control crónicos\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesconexión interna\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntolerancia a la incertidumbre\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nContextos de la vida cotidiana donde se pueden presentar:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés laboral\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDificultad para tomar decisiones\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo a la exposición\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSensación de estancamiento personal\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis vitales o cambios importantes\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSintomas:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad - depresión leve a moderada\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nInseguridad y miedo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés y burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis personales o crisis de adapación\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. NOTA IMPORTANTE:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSolo atiende poblacion Adulto Joven de 25 años a 45 años\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\ncon algunas excepciones de 18 a 25 años pero para ello mejor brindar el numero de la clincia de Herrera Amighetti  6203 4579",
+      "Comentario": "Procedimientos: Psicología: Abordaje de estados de supervivencia emocional caracterizados por alerta permanente, hipervigilancia, ansiedad generalizada, sobrecarga mental y emocional, miedo al fracaso, autoexigencia y necesidad de control crónicas, desconexión interna, estrés crónico e intolerancia a la incertidumbre. Estas manifestaciones pueden presentarse en distintos contextos de la vida cotidiana, como estrés laboral, dificultad para tomar decisiones, miedo a la exposición, sensación de estancamiento personal, crisis vitales o cambios importantes. Las áreas de intervención clínica incluyen ansiedad, depresión leve a moderada, inseguridad y miedo, estrés, burnout, desregulación emocional y crisis personales o de adaptación. Asimismo, se realizan procesos de evaluación y psicodiagnóstico mediante la aplicación e interpretación de pruebas clínicas y neuropsicológicas.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -22907,7 +22907,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Lunes 8pm a 10pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMartes 4pm a 8pm\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSábado 7pm a 2pm",
+      "Horario de Atención": "Lunes 8pm a 10pm, Martes 4pm a 1pm cada 1er, 2do, 4to del mes, Sábado 7pm a 2pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -22917,7 +22917,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos realizados:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación del desarrollo infantil\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en procesos de duelo y rupturas afectivas (divorcio)\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtaques de pánico\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nElaboración de planes de intervención psicológica y psicopedagógica\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoeducación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia individual para niños, adolescentes y adultos\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en habilidades sociales y regulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nProblemas de aprendizaje\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nPsicoterapia para trastornos de ansiedad y estado de ánimo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTerapia con recursos expresivos (arteterapia y técnica de caja de arena)\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicológica clínica\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAtención psicológica para crisis emocionales\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención psicológica asistida con realidad virtual\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación psicopedagógica (dificultades de aprendizaje y rendimiento escolar)Orientación a padres y acompañamiento en crianza con disciplina positiva    \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEvaluación para TDAH (Trastorno por Déficit de Atención e Hiperactividad)    \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntervención en dificultades de aprendizaje y bajo rendimiento escolar. TODOS LOS SEGUROS POR REEMBOLSOS",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nAnsiedad\r\nAtaques de pánico\r\nDepresión\r\nProblemas de aprendizaje\r\nEvaluación psicológica clínica\r\nEvaluación psicopedagógica (dificultades de aprendizaje y rendimiento escolar)\r\nEvaluación para TDAH (Trastorno por Déficit de Atención e Hiperactividad)\r\nEvaluación del desarrollo infantil\r\nElaboración de planes de intervención psicológica y psicopedagógica\r\nPsicoterapia individual para niños, adolescentes y adultos\r\nPsicoterapia para trastornos de ansiedad y estado de ánimo\r\nAtención psicológica para crisis emocionales\r\nOrientación a padres y acompañamiento en crianza con disciplina positiva\r\nIntervención en dificultades de aprendizaje y bajo rendimiento escolar\r\nAcompañamiento en procesos de duelo y rupturas afectivas (divorcio)\r\nPsicoeducación emocional\r\nIntervención en habilidades sociales y regulación emocional\r\nTerapia con recursos expresivos (arteterapia y técnica de caja de arena)\r\nIntervención psicológica asistida con realidad virtual\r\n\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -23521,7 +23521,7 @@ var DM_DATA = {
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
-      "Id Medico": "MED13050",
+      "Id Medico": "13050",
       "Nombre Doctor": "Ximena Castro Ulloa",
       "Especialidad": "Psiquiatría",
       "Método De Ingreso": "Servicios Profesionales",
@@ -24647,7 +24647,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Martes 9am a 4pm, Jueves de 3pm a 9 pm",
+      "Horario de Atención": "Martes 7am a 4pm",
       "Precio Regular Tarjeta": "61800",
       "Iva": "2472",
       "Precio Regular Efectivo": "64272",
@@ -25508,7 +25508,7 @@ var DM_DATA = {
       "Sede": "Clínica Santa Catalina",
       "Correo Electrónico": "ramador@santacatalinacr.com",
       "Piso": "1",
-      "Número Del Consultorio": "",
+      "Número Del Consultorio": "1 o 2 de urgencias",
       "Extensión": "40525250",
       "Secretarias": "Personal Administrativo",
       "Agenda": "ZH Blue",
@@ -25517,17 +25517,17 @@ var DM_DATA = {
       "Agenda Call Center": "NO",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Rotativo",
+      "Horario de Atención": "Lunes a sábado de 7am a 4pm o Lunes a sábado de 9am a 6pm (debido a que va a ser rotativo)",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
       "Precio MS Tarjeta": "",
       "Precio MS Efectivo": "",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños y adultos (atención en urgencias)",
+      "Enfoque De Atención": "Adultos Mayores, Adultos, Adolescentes, Niños, Bebes  de todas las edades",
       "Tiempo de Consulta": "20",
-      "Tiempo De Espera": "",
-      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\"",
+      "Tiempo De Espera": "5",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\" Consulta externa y Urgencias",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -25538,7 +25538,7 @@ var DM_DATA = {
       "Sede": "Clínica Santa Catalina",
       "Correo Electrónico": "vsolano@santacatalinacr.com",
       "Piso": "1",
-      "Número Del Consultorio": "",
+      "Número Del Consultorio": "1 o 2 de urgencias",
       "Extensión": "40525250",
       "Secretarias": "Personal Administrativo",
       "Agenda": "ZH Blue",
@@ -25547,7 +25547,7 @@ var DM_DATA = {
       "Agenda Call Center": "NO",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Rotativo",
+      "Horario de Atención": "Lunes a sábado de 7am a 4pm o Lunes a sábado de 9am a 6pm (debido a que va a ser rotativo)",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
@@ -25557,7 +25557,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños y adultos (atención en urgencias)",
       "Tiempo de Consulta": "20",
       "Tiempo De Espera": "",
-      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\"",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\" Consulta externa y Urgencias",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -25598,7 +25598,7 @@ var DM_DATA = {
       "Sede": "Clínica Santa Catalina",
       "Correo Electrónico": "lugalde@santacatalinacr.com",
       "Piso": "1",
-      "Número Del Consultorio": "",
+      "Número Del Consultorio": "1 o 2 de urgencias",
       "Extensión": "40525250",
       "Secretarias": "Personal Administrativo",
       "Agenda": "ZH Blue",
@@ -25607,7 +25607,7 @@ var DM_DATA = {
       "Agenda Call Center": "NO",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Rotativo",
+      "Horario de Atención": "Lunes a Sábado de 7am a 4pm.",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
@@ -25616,8 +25616,8 @@ var DM_DATA = {
       "Forma De Pago": "EFECTIVO | TARJETA",
       "Enfoque De Atención": "Niños y adultos (atención en urgencias)",
       "Tiempo de Consulta": "20",
-      "Tiempo De Espera": "",
-      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\" y Atención Médica Primaria (AMP)",
+      "Tiempo De Espera": "5",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\" y Atención Médica Primaria (AMP), Consulta externa y Urgencias",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -26447,7 +26447,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "SI",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "Jueves 8am a 12md",
+      "Horario de Atención": "Jueves 3pm a 8pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -26457,7 +26457,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos +18, - 45",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos: Aspectos que desean trabajar:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nVivís en modo supervivencia emocional, alerta permanente, hipervigilancia, ansiedad generalizada. \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSobrecarga mental y emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo al fracaso. \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAutoexigencia y control crónicos\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesconexión interna\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés crónico\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIntolerancia a la incertidumbre\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nContextos de la vida cotidiana donde se pueden presentar:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés laboral\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDificultad para tomar decisiones\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMiedo a la exposición\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSensación de estancamiento personal\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis vitales o cambios importantes\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSintomas:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad - depresión leve a moderada\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nInseguridad y miedo\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEstrés y burnout\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDesregulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nCrisis personales o crisis de adapación\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nIdiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés. NOTA IMPORTANTE:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nSolo atiende poblacion Adulto Joven de 25 años a 45 años\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\ncon algunas excepciones de 18 a 25 años pero para ello mejor brindar el numero de la clincia de Herrera Amighetti  6203 4579",
+      "Comentario": "Procedimientos: Psicología: Abordaje de estados de supervivencia emocional caracterizados por alerta permanente, hipervigilancia, ansiedad generalizada, sobrecarga mental y emocional, miedo al fracaso, autoexigencia y necesidad de control crónicas, desconexión interna, estrés crónico e intolerancia a la incertidumbre. Estas manifestaciones pueden presentarse en distintos contextos de la vida cotidiana, como estrés laboral, dificultad para tomar decisiones, miedo a la exposición, sensación de estancamiento personal, crisis vitales o cambios importantes. Las áreas de intervención clínica incluyen ansiedad, depresión leve a moderada, inseguridad y miedo, estrés, burnout, desregulación emocional y crisis personales o de adaptación. Asimismo, se realizan procesos de evaluación y psicodiagnóstico mediante la aplicación e interpretación de pruebas clínicas y neuropsicológicas.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -26739,7 +26739,7 @@ var DM_DATA = {
       "Correo Electrónico": "No tiene",
       "Piso": "Planta Baja",
       "Número Del Consultorio": "31A",
-      "Extensión": "6748-9410",
+      "Extensión": "6590-9231",
       "Secretarias": "Vilma Acosta",
       "Agenda": "no usa",
       "Modalidad Cita": "Presencial",
@@ -31284,7 +31284,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "26000",
       "Precio MS Efectivo": "27040",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Adulto y Adulto Mayor",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
       "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS|Procedimientos realizados: Depresión\r\r\r\r\r\nAnsiedad\r\r\r\r\r\nDependencias\r\r\r\r\r\nDemencias\r\r\r\r\r\nRehabilitación cognitiva\r\r\r\r\r\nTerapia Grupal\r\r\r\r\r\nTerapia individual enfocada en la persona\r\r\r\r\r\nTerapia focalizada en las emociones\r\r\r\r\r\nTerapia racional  emotiva conductual\r\r\r\r\r\nHipnosis\r\r\r\r\r\nLogoterapia",
@@ -31314,7 +31314,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "26000",
       "Precio MS Efectivo": "27040",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Adulto y Adulto Mayor",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
       "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS|Procedimientos realizados: Depresión\r\r\r\r\r\nAnsiedad\r\r\r\r\r\nDependencias\r\r\r\r\r\nDemencias\r\r\r\r\r\nRehabilitación cognitiva\r\r\r\r\r\nTerapia Grupal\r\r\r\r\r\nTerapia individual enfocada en la persona\r\r\r\r\r\nTerapia focalizada en las emociones\r\r\r\r\r\nTerapia racional  emotiva conductual\r\r\r\r\r\nHipnosis\r\r\r\r\r\nLogoterapia",
@@ -31618,6 +31618,336 @@ var DM_DATA = {
       "Tiempo de Consulta": "Cita primera vez 45 min | Seguimientos 30 min |",
       "Tiempo De Espera": "10",
       "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.)",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "MED10225",
+      "Nombre Doctor": "Jesús Rafael Porras Colón",
+      "Especialidad": "Vascular Periférico",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "H. Metropolitano Lindora",
+      "Correo Electrónico": "dr.porrascolon@gmail.com",
+      "Piso": "2",
+      "Número Del Consultorio": "Cardiología 5",
+      "Extensión": "25219595",
+      "Secretarias": "Admisión y Cajas",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "NO",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Sábado 8am-3pm",
+      "Precio Regular Tarjeta": "71231.21",
+      "Iva": "2849.24",
+      "Precio Regular Efectivo": "74080.46",
+      "Precio MS Tarjeta": "35615.61",
+      "Precio MS Efectivo": "37040.23",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "12 AÑOS+ | Adultos Mayores, Adultos, Adolescentes",
+      "Tiempo de Consulta": "30",
+      "Tiempo De Espera": "5",
+      "Comentario": "",
+      "Seguros_Todos": "Medismart, Todos los del Hospital"
+    },
+    {
+      "Id Medico": "12825",
+      "Nombre Doctor": "Sofía Andrea Jop Volio",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Correo Electrónico": "sofijop@gmail.com",
+      "Piso": "4",
+      "Número Del Consultorio": "30-Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "J 8am a 1pm, V 8am a 12md, Cada 15",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, Adolescentes, Adultos ( Rango de edad* 7-65)",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS | Procedimiento que realiza: Psicoterapia  \r\nTerapia de juego  \r\nAsesorias de crianza  \r\nAnsiedad  \r\nDepresión  \r\nProblemas conductuales  \r\nTranstornos de neurodesarrollo  \r\nHabilidades sociales  \r\nRegulación emocional  \r\nAcompañamiento en procesos de duelo",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "12825",
+      "Nombre Doctor": "Sofía Andrea Jop Volio",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "Centro Metropolitano Escazú | Clinica Herrera Amiguetti",
+      "Correo Electrónico": "sofijop@gmail.com",
+      "Piso": "2",
+      "Número Del Consultorio": "12-Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "L 5pm a 10pm",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, Adolescentes, Adultos ( Rango de edad* 7-65)",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS | Procedimiento que realiza: Psicoterapia  \r\nTerapia de juego  \r\nAsesorias de crianza  \r\nAnsiedad  \r\nDepresión  \r\nProblemas conductuales  \r\nTranstornos de neurodesarrollo  \r\nHabilidades sociales  \r\nRegulación emocional  \r\nAcompañamiento en procesos de duelo",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "11506",
+      "Nombre Doctor": "Jennifer Mora Muñoz",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Médico de Planta",
+      "Sede": "Centro Metropolitano Los Yoses | Clinica Herrera Amiguetti",
+      "Correo Electrónico": "",
+      "Piso": "1",
+      "Número Del Consultorio": "Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial | Virtual",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "miércoles de 8am a 12md, cada 15",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Adolescentes / Adultos.",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n60 min de consulta individual. Y 90 Min Familia y Pareja. Psicología Perinatal (antes, durante y después de la gestación) \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de pareja \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia de familia \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Vínculos / relaciones saludables \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Comunicación asertiva \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Autocuidado \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Sanación del niño interior \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Apoyo en duelo \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Hipnoterapia sugestiva  \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Terapia Humanista \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n• Hipnosis clínica",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "MED20057",
+      "Nombre Doctor": "Tamara Campos Carmona",
+      "Especialidad": "Medicina General",
+      "Método De Ingreso": "Médico de Planta",
+      "Sede": "Clínica Santa Catalina",
+      "Correo Electrónico": "vsolano@santacatalinacr.com",
+      "Piso": "1",
+      "Número Del Consultorio": "1 o 2 de urgencias",
+      "Extensión": "40525250",
+      "Secretarias": "Personal Administrativo",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "NO",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Lunes a sábado de 7am a 4pm o Lunes a sábado de 9am a 6pm (debido a que va a ser rotativo)",
+      "Precio Regular Tarjeta": "",
+      "Iva": "",
+      "Precio Regular Efectivo": "",
+      "Precio MS Tarjeta": "",
+      "Precio MS Efectivo": "",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños y adultos de todas las edades",
+      "Tiempo de Consulta": "20",
+      "Tiempo De Espera": "5",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\" Consulta externa y Urgencias",
+      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "MED19947",
+      "Nombre Doctor": "Josette Nathalia Leyva Irigoyen",
+      "Especialidad": "Medicina General",
+      "Método De Ingreso": "Médico de Planta",
+      "Sede": "Clínica Santa Catalina",
+      "Correo Electrónico": "jleyva@santacatalinacr.com",
+      "Piso": "1",
+      "Número Del Consultorio": "1 o 2 de urgencias",
+      "Extensión": "40525250",
+      "Secretarias": "Personal Administrativo",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "NO",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Lunes a sábado de 7am a 4pm o Lunes a sábado de 9am a 6pm (debido a que va a ser rotativo)",
+      "Precio Regular Tarjeta": "",
+      "Iva": "",
+      "Precio Regular Efectivo": "",
+      "Precio MS Tarjeta": "",
+      "Precio MS Efectivo": "",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Adultos Mayores, Adultos, Adolescentes, Niños, Bebes  de todas las edades",
+      "Tiempo de Consulta": "20",
+      "Tiempo De Espera": "5",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\" Consulta externa y Urgencias",
+      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "MED13919",
+      "Nombre Doctor": "Carlos Norberto Cordero Herrera",
+      "Especialidad": "Otorrinolaringología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "Clínica Santa Catalina",
+      "Correo Electrónico": "",
+      "Piso": "2",
+      "Número Del Consultorio": "12",
+      "Extensión": "40525250",
+      "Secretarias": "Admisión y Cajas",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "NO",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Martes: 4:30 pm a 7:00 pm -Miércoles: 5:30 pm a 7:00 pm -Jueves: 4:30 pm a 7:00 pm -Viernes: 4:30 pm a 7:00 pm -Sábado: 1:00 pm a 4:00 pm",
+      "Precio Regular Tarjeta": "Ver Anexo (no estandarizado)",
+      "Iva": "No Aplica",
+      "Precio Regular Efectivo": "Ver Anexo (no estandarizado)",
+      "Precio MS Tarjeta": "",
+      "Precio MS Efectivo": "",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Adultos Mayores, Adultos, Adolescentes, Niños | apartir de los 2 años",
+      "Tiempo de Consulta": "30",
+      "Tiempo De Espera": "10",
+      "Comentario": "***Nota: Los precios de Santa Catalina verlos en el siguiente enlace \"MAIA-https://automation.grupomontecristo.com/webhook/1a99ac45-e623-432f-8253-ec47f2a02b9e/chat\".Atiende niños de cualquier edad y adultos. No tiene criterio de restricción.\r\n\r\nRealiza: limpieza de oídos, endoscopia, cauterización por sangrado nasal, maniobras de reposicionamiento en vértigo periférico, fracturas nasales (reducción), cirugías en ORL \r\n\r\nDetalles a considerar para consultas o procedimientos: siempre venir con acompañante preferiblemente y ropa cómoda.\r\nLa consulta incluye: historia clínica, examen físico, y en caso de requerir endoscopia se incluye.\r\nBrinda consulta de revaloración si es post a un procedimiento o para valorar un estudio que dejó el Dr. También aplica en caso de dejar un tratamiento y que requiera volver a valorarse el paciente\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCauterización de lesiones capilares ORL SER-02377\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCauterización nasal ORL SER-03566\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEndoscopia diagnóstica ORL SER-03562\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nExtracción de cerumen ORL SER-03564\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nManiobas de reposicionamiento de canalopatías SER-03568\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTambién hace este tipo de biopsias (cotizar): \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBiopsia mucosa nasal\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBiopsia de naso y orofaringe\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBiopsia de laringe\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBiopsia de lengua\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBiopsia de glándulas salivales\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcedimientos en Sala: (cotizar)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTurbinoplastia con radio frecuencia\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMiringotomía y colocación de tubo timpánico adulto con sedación local",
+      "Seguros_Todos": "MediSmart |Todos los del Hospital"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Nombre Doctor": "Gilbert Alfredo Chaverri Guillén",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Correo Electrónico": "",
+      "Piso": "4",
+      "Número Del Consultorio": "",
+      "Extensión": "40704007|25219595",
+      "Secretarias": "Admisión y Cajas",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "NO",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Precio Regular Tarjeta": "69156.52",
+      "Iva": "2766.26",
+      "Precio Regular Efectivo": "71922.78",
+      "Precio MS Tarjeta": "13831.3",
+      "Precio MS Efectivo": "14384.55",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Mayor a 14 años",
+      "Tiempo de Consulta": "30",
+      "Tiempo De Espera": "10",
+      "Comentario": "",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "2310",
+      "Nombre Doctor": "Marianela Rosales Elizondo",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Médico de Planta",
+      "Sede": "Centro Metropolitano Escazú | Clinica Herrera Amiguetti",
+      "Correo Electrónico": "recepcion@laclinica.cr",
+      "Piso": "1",
+      "Número Del Consultorio": "Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial | Virtual",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Viernes 9am a 1pm",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nAnsiedad\r\nAtaques de pánico\r\nDepresión\r\nProblemas de aprendizaje\r\nEvaluación psicológica clínica\r\nEvaluación psicopedagógica (dificultades de aprendizaje y rendimiento escolar)\r\nEvaluación para TDAH (Trastorno por Déficit de Atención e Hiperactividad)\r\nEvaluación del desarrollo infantil\r\nElaboración de planes de intervención psicológica y psicopedagógica\r\nPsicoterapia individual para niños, adolescentes y adultos\r\nPsicoterapia para trastornos de ansiedad y estado de ánimo\r\nAtención psicológica para crisis emocionales\r\nOrientación a padres y acompañamiento en crianza con disciplina positiva\r\nIntervención en dificultades de aprendizaje y bajo rendimiento escolar\r\nAcompañamiento en procesos de duelo y rupturas afectivas (divorcio)\r\nPsicoeducación emocional\r\nIntervención en habilidades sociales y regulación emocional\r\nTerapia con recursos expresivos (arteterapia y técnica de caja de arena)\r\nIntervención psicológica asistida con realidad virtual\r\n\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "2310",
+      "Nombre Doctor": "Marianela Rosales Elizondo",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Médico de Planta",
+      "Sede": "H. Metropolitano Lindora| Clinica Herrera Amiguetti",
+      "Correo Electrónico": "recepcion@laclinica.cr",
+      "Piso": "1",
+      "Número Del Consultorio": "Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial | Virtual",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Jueves 9am a 1pm",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "10",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nAnsiedad\r\nAtaques de pánico\r\nDepresión\r\nProblemas de aprendizaje\r\nEvaluación psicológica clínica\r\nEvaluación psicopedagógica (dificultades de aprendizaje y rendimiento escolar)\r\nEvaluación para TDAH (Trastorno por Déficit de Atención e Hiperactividad)\r\nEvaluación del desarrollo infantil\r\nElaboración de planes de intervención psicológica y psicopedagógica\r\nPsicoterapia individual para niños, adolescentes y adultos\r\nPsicoterapia para trastornos de ansiedad y estado de ánimo\r\nAtención psicológica para crisis emocionales\r\nOrientación a padres y acompañamiento en crianza con disciplina positiva\r\nIntervención en dificultades de aprendizaje y bajo rendimiento escolar\r\nAcompañamiento en procesos de duelo y rupturas afectivas (divorcio)\r\nPsicoeducación emocional\r\nIntervención en habilidades sociales y regulación emocional\r\nTerapia con recursos expresivos (arteterapia y técnica de caja de arena)\r\nIntervención psicológica asistida con realidad virtual\r\n\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas",
+      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+    },
+    {
+      "Id Medico": "13352",
+      "Nombre Doctor": "Georgina Echandi Ramírez",
+      "Especialidad": "Psicología",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "Centro Metropolitano Cartago Boulevard | Clínica Herrera Amiguetti",
+      "Correo Electrónico": "",
+      "Piso": "1",
+      "Número Del Consultorio": "Herrera Amighetti",
+      "Extensión": "Whatsapp 6203-4579 Tel sede:4070-0890",
+      "Secretarias": "Secretaria de la clinica Herrera Amighetti",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial | Virtual",
+      "Cobro Anticipado": "SI",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Viernes 9am a 12md   Cada 15",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Precio MS Efectivo": "24837.33",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "Niños, adolescentes, adultos y adultos mayores",
+      "Tiempo de Consulta": "60",
+      "Tiempo De Espera": "15",
+      "Comentario": "Procedimientos: Psicología:\r\n\r\nTerapia en pareja\r\nAnsiedad\r\nAcompañamiento emocional\r\nConsulta general\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nDesarrollo de Habilidades Sociales\r\nConsumo de sustancias\r\nDesarrollo y manejo de la comunicación asertiva\r\nApoyo en duelo\r\nFobias\r\nConstrucción de Autoestima e Inteligencia emocional\r\nDepresión\r\nEstrés\r\n\r\nEvaluación y Psicodiagnóstico: Aplicación e interpretación de pruebas clínicas y neuropsicológicas\r\n Todos los seguros por reembolsos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAnsiedad\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAcompañamiento emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsulta general\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDepresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFobias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConstrucción de Autoestima e Inteligencia emocional \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo de Habilidades Sociales\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nConsumo  de sustancias\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDesarrollo y manejo de la comunicación asertiva\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApoyo en duelo\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEstrés. Idiomas: Español (Nativo) e inglés (avanzado/C1) .  Herrera Amighetti \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n|Doctores Dent Centro medico Yoses\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n60 min de consulta individual. Y 90 Min Pareja TODOS LOS SEGUROS POR REEMBOLSOS",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     }
   ],
@@ -32015,7 +32345,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0156",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometrías clínicas",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "H. Metropolitano San Carlos",
       "Precio Regular Tarjeta": "51867.39",
       "Iva": "2074.6956",
@@ -32024,7 +32354,7 @@ var DM_DATA = {
       "Iva2": "829.87",
       "Precio MS Efectivo": "21576.8384",
       "Horario de Atención": "De lunes a viernes de 8 am a 5 pm",
-      "Tiempo de Consulta": "",
+      "Tiempo de Consulta": "60",
       "Comentarios": ""
     },
     {
@@ -32045,7 +32375,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-2368",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría Clínica",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "H. Metropolitano San José Torre Médica A",
       "Precio Regular Tarjeta": "51867.39",
       "Iva": "2074.6956",
@@ -32054,13 +32384,13 @@ var DM_DATA = {
       "Iva2": "829.8783999999999",
       "Precio MS Efectivo": "21576.8384",
       "Horario de Atención": "Lunes a Viernes 7:10 am a 3:40 pm, Sábado 7:30 am a 1:40 pm.",
-      "Tiempo de Consulta": "",
+      "Tiempo de Consulta": "60",
       "Comentarios": ""
     },
     {
       "Id Medico": "CTCR-AU-2368",
       "Especialidad": "Audiología",
-      "Procedimiento": "Impedanciometría/Timpanografía",
+      "Procedimiento": "Impedanciometría /Timpanografía",
       "Sede": "H. Metropolitano San José Torre Médica A",
       "Precio Regular Tarjeta": "35961",
       "Iva": "1438.44",
@@ -32090,7 +32420,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-2368",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría de Rastreo",
+      "Procedimiento": "Audiometrías de rastreo",
       "Sede": "H. Metropolitano San José Torre Médica A",
       "Precio Regular Tarjeta": "11190.38",
       "Iva": "447.61",
@@ -32135,7 +32465,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-2368",
       "Especialidad": "Audiología",
-      "Procedimiento": "Emisiones Otoacústicas",
+      "Procedimiento": "Emisiones otacústicas",
       "Sede": "H. Metropolitano San José Torre Médica A",
       "Precio Regular Tarjeta": "44689.92",
       "Iva": "1787.5968",
@@ -32165,7 +32495,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0143",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría Clínica",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "H. Metropolitano Lincoln Plaza",
       "Precio Regular Tarjeta": "51867.39",
       "Iva": "2074.6956",
@@ -32174,13 +32504,13 @@ var DM_DATA = {
       "Iva2": "829.8783999999999",
       "Precio MS Efectivo": "21576.8384",
       "Horario de Atención": "Lunes  a Viernes 8am a 5pm, Sabados  8am a 12md",
-      "Tiempo de Consulta": "30",
+      "Tiempo de Consulta": "60",
       "Comentarios": "Audiometría clínica únicamente pacientes de 7 años cumplidos en adelante."
     },
     {
       "Id Medico": "CTCR-AU-0143",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometria de rastreo",
+      "Procedimiento": "Audiometrías de rastreo",
       "Sede": "H. Metropolitano Lincoln Plaza",
       "Precio Regular Tarjeta": "11190.38",
       "Iva": "447.61",
@@ -32195,7 +32525,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0143",
       "Especialidad": "Audiología",
-      "Procedimiento": "Emisiones Otoacusticas",
+      "Procedimiento": "Emisiones otacústicas",
       "Sede": "H. Metropolitano Lincoln Plaza",
       "Precio Regular Tarjeta": "44689.92",
       "Iva": "1787.5968",
@@ -32225,7 +32555,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0143",
       "Especialidad": "Audiología",
-      "Procedimiento": "Impedanciometria/Timpanografía",
+      "Procedimiento": "Impedanciometría /Timpanografía",
       "Sede": "H. Metropolitano Lincoln Plaza",
       "Precio Regular Tarjeta": "35961",
       "Iva": "1438.44",
@@ -32240,7 +32570,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0272",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría Clínica",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "H. Metropolitano Lindora",
       "Precio Regular Tarjeta": "51867.39",
       "Iva": "2074.6956",
@@ -32255,7 +32585,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0272",
       "Especialidad": "Audiología",
-      "Procedimiento": "Impedanciometría/Timpanografía",
+      "Procedimiento": "Impedanciometría /Timpanografía",
       "Sede": "H. Metropolitano Lindora",
       "Precio Regular Tarjeta": "35961",
       "Iva": "1438.44",
@@ -32270,7 +32600,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0272",
       "Especialidad": "Audiología",
-      "Procedimiento": "Paquete auditivo (Audiometría + Impedanciometría/Timpanografía)",
+      "Procedimiento": "Paquete auditivo (Audiometría + Impedanciometría /Timpanografía)",
       "Sede": "H. Metropolitano Lindora",
       "Precio Regular Tarjeta": "87828.39",
       "Iva": "3513.1356",
@@ -32285,7 +32615,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0272",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría de Rastreo",
+      "Procedimiento": "Audiometrías de rastreo",
       "Sede": "H. Metropolitano Lindora",
       "Precio Regular Tarjeta": "11190.38",
       "Iva": "447.61",
@@ -32330,7 +32660,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0272",
       "Especialidad": "Audiología",
-      "Procedimiento": "Emisiones Otoacústicas",
+      "Procedimiento": "Emisiones otacústicas",
       "Sede": "H. Metropolitano Lindora",
       "Precio Regular Tarjeta": "44689.92",
       "Iva": "1787.5968",
@@ -32360,7 +32690,7 @@ var DM_DATA = {
     {
       "Id Medico": "T2633",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría Clínica",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "Centro Metropolitano Cariari C3",
       "Precio Regular Tarjeta": "51867.39",
       "Iva": "2074.6956",
@@ -32390,7 +32720,7 @@ var DM_DATA = {
     {
       "Id Medico": "T2633",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría de Rastreo",
+      "Procedimiento": "Audiometrías de rastreo",
       "Sede": "Centro Metropolitano Cariari C3",
       "Precio Regular Tarjeta": "11190.38",
       "Iva": "447.61519999999996",
@@ -32405,7 +32735,7 @@ var DM_DATA = {
     {
       "Id Medico": "T2633",
       "Especialidad": "Audiología",
-      "Procedimiento": "Emisiones Otoacústicas",
+      "Procedimiento": "Emisiones otacústicas",
       "Sede": "Centro Metropolitano Cariari C3",
       "Precio Regular Tarjeta": "44689.92",
       "Iva": "1787.5968",
@@ -35795,7 +36125,7 @@ var DM_DATA = {
     {
       "Id Medico": "T2633",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría Clínica",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "51867.39",
       "Iva": "2074.6956",
@@ -35825,7 +36155,7 @@ var DM_DATA = {
     {
       "Id Medico": "T2633",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audiometría de Rastreo",
+      "Procedimiento": "Audiometrías de rastreo",
       "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "11190.38",
       "Iva": "447.61",
@@ -35840,7 +36170,7 @@ var DM_DATA = {
     {
       "Id Medico": "T2633",
       "Especialidad": "Audiología",
-      "Procedimiento": "Emisiones Otoacústicas",
+      "Procedimiento": "Emisiones otacústicas",
       "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "44689.92",
       "Iva": "1787.5968",
@@ -37176,14 +37506,14 @@ var DM_DATA = {
       "Id Medico": "MED12160",
       "Especialidad": "Cardiología",
       "Procedimiento": "Ecocardiograma transtorácico",
-      "Sede": "Centro Metropolitano Cariari C3",
+      "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
       "Precio MS Tarjeta": "",
       "Iva2": "",
       "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes: 4:30-8:00pm",
+      "Horario de Atención": "Lunes de 4:00pm a 7:00pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
@@ -37191,14 +37521,14 @@ var DM_DATA = {
       "Id Medico": "MED12160",
       "Especialidad": "Cardiología",
       "Procedimiento": "Ecocardiograma con estrés",
-      "Sede": "Centro Metropolitano Cariari C3",
+      "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
       "Precio MS Tarjeta": "",
       "Iva2": "",
       "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes: 4:30-8:00pm",
+      "Horario de Atención": "Lunes de 4:00pm a 7:00pm",
       "Tiempo de Consulta": "90",
       "Comentarios": "Precio Brinda en el Cotizador | Permite detectar problemas cardíacos que se presentan durante el ejercicio con un ecocardiograma en una cinta. Denominado tambien Ecoesfuerzo. El resultado lo da el médico de forma inmediata || || Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
@@ -37206,14 +37536,14 @@ var DM_DATA = {
       "Id Medico": "MED12160",
       "Especialidad": "Cardiología",
       "Procedimiento": "Holter",
-      "Sede": "Centro Metropolitano Cariari C3",
+      "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
       "Precio MS Tarjeta": "",
       "Iva2": "",
       "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes: 4:30-8:00pm",
+      "Horario de Atención": "Lunes de 4:00pm a 7:00pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Precio Brinda en el Cotizador"
     },
@@ -37221,14 +37551,14 @@ var DM_DATA = {
       "Id Medico": "MED12160",
       "Especialidad": "Cardiología",
       "Procedimiento": "Prueba de esfuerzo",
-      "Sede": "Centro Metropolitano Cariari C3",
+      "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
       "Precio MS Tarjeta": "",
       "Iva2": "",
       "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes: 4:30-8:00pm",
+      "Horario de Atención": "Lunes de 4:00pm a 7:00pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "Precio Brinda en el Cotizador | Puede ser en caminadora o  bicicleta -> Solo Lindora. Según disponibilidad. (Actualmente solo hay un equipo en cada sede del HM ) Permite detectar problemas cardíacos que se presentan durante el ejercicio con un electrocardiograma en una cinta o bicicleta fija. El resultado lo da el médico de forma inmediata || Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
     },
@@ -37236,14 +37566,14 @@ var DM_DATA = {
       "Id Medico": "MED12160",
       "Especialidad": "Cardiología",
       "Procedimiento": "Electrocardiograma (con interpretación)",
-      "Sede": "Centro Metropolitano Cariari C3",
+      "Sede": "Centro Metropolitano Escazú",
       "Precio Regular Tarjeta": "",
       "Iva": "",
       "Precio Regular Efectivo": "",
       "Precio MS Tarjeta": "",
       "Iva2": "",
       "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes: 4:30-8:00pm",
+      "Horario de Atención": "Lunes de 4:00pm a 7:00pm",
       "Tiempo de Consulta": "",
       "Comentarios": "Precio Brinda en el Cotizador"
     },
@@ -37394,81 +37724,6 @@ var DM_DATA = {
       "Iva2": "",
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes de 1pm-4pm y Viernes 9am - 3:30pm",
-      "Tiempo de Consulta": "",
-      "Comentarios": "Precio Brinda en el Cotizador"
-    },
-    {
-      "Id Medico": "MED10285",
-      "Especialidad": "Cardiología",
-      "Procedimiento": "Ecocardiograma transtorácico",
-      "Sede": "Centro Metropolitano Cariari C3",
-      "Precio Regular Tarjeta": "",
-      "Iva": "",
-      "Precio Regular Efectivo": "",
-      "Precio MS Tarjeta": "",
-      "Iva2": "",
-      "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes 10am a 12md",
-      "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador  | NOMBRE: Ecocardiograma Transtorácico | Ultrasonido de corazón | Eco Doppler | Ecocardiografía\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\n(Actualmente solo hay un equipo en cada sede del HM ) El resultado lo da el médico de forma inmediata|| Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
-    },
-    {
-      "Id Medico": "MED10285",
-      "Especialidad": "Cardiología",
-      "Procedimiento": "Ecocardiograma con estrés",
-      "Sede": "Centro Metropolitano Cariari C3",
-      "Precio Regular Tarjeta": "",
-      "Iva": "",
-      "Precio Regular Efectivo": "",
-      "Precio MS Tarjeta": "",
-      "Iva2": "",
-      "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes 10am a 12md",
-      "Tiempo de Consulta": "90",
-      "Comentarios": "Precio Brinda en el Cotizador | Permite detectar problemas cardíacos que se presentan durante el ejercicio con un ecocardiograma en una cinta. Denominado tambien Ecoesfuerzo. El resultado lo da el médico de forma inmediata || || Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
-    },
-    {
-      "Id Medico": "MED10285",
-      "Especialidad": "Cardiología",
-      "Procedimiento": "Holter",
-      "Sede": "Centro Metropolitano Cariari C3",
-      "Precio Regular Tarjeta": "",
-      "Iva": "",
-      "Precio Regular Efectivo": "",
-      "Precio MS Tarjeta": "",
-      "Iva2": "",
-      "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes 10am a 12md",
-      "Tiempo de Consulta": "30",
-      "Comentarios": "Precio Brinda en el Cotizador"
-    },
-    {
-      "Id Medico": "MED10285",
-      "Especialidad": "Cardiología",
-      "Procedimiento": "Prueba de esfuerzo",
-      "Sede": "Centro Metropolitano Cariari C3",
-      "Precio Regular Tarjeta": "",
-      "Iva": "",
-      "Precio Regular Efectivo": "",
-      "Precio MS Tarjeta": "",
-      "Iva2": "",
-      "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes 10am a 12md",
-      "Tiempo de Consulta": "45",
-      "Comentarios": "Precio Brinda en el Cotizador | Puede ser en caminadora o  bicicleta -> Solo Lindora. Según disponibilidad. (Actualmente solo hay un equipo en cada sede del HM ) Permite detectar problemas cardíacos que se presentan durante el ejercicio con un electrocardiograma en una cinta o bicicleta fija. El resultado lo da el médico de forma inmediata || Nota: No debe coincidir un mismo procedimiento (Ecocardiograma, Ecocardiograma Transesofágico, Pruebas de esfuerzo, Ecoesfuerzo ni Ecocardiograma con Dobutamina) a la misma hora, aunque estén varios especialistas disponibles, ya que solo contamos con un equipo. Deben verificar al mismo tiempo las agendas de todos los especialistas de la sede para poder agendar cualquiera de lo procedimientos."
-    },
-    {
-      "Id Medico": "MED10285",
-      "Especialidad": "Cardiología",
-      "Procedimiento": "Electrocardiograma (con interpretación)",
-      "Sede": "Centro Metropolitano Cariari C3",
-      "Precio Regular Tarjeta": "",
-      "Iva": "",
-      "Precio Regular Efectivo": "",
-      "Precio MS Tarjeta": "",
-      "Iva2": "",
-      "Precio MS Efectivo": "",
-      "Horario de Atención": "Lunes 10am a 12md",
       "Tiempo de Consulta": "",
       "Comentarios": "Precio Brinda en el Cotizador"
     },
@@ -38220,7 +38475,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 2 pm a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7013",
@@ -38250,7 +38505,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13520",
       "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 2 pm a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7013",
@@ -38265,7 +38520,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 2 pm a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED7013",
@@ -38280,7 +38535,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 2 pm a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7013",
@@ -38295,7 +38550,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "Lunes, Miercoles, Jueves y Viernes 2 pm a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED7013",
@@ -38775,7 +39030,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes, Miércoles, Viernes 4pm a 6:30 pm, S 8 am a 4:30 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED995",
@@ -38805,7 +39060,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13520",
       "Horario de Atención": "Martes, Miércoles, Viernes 4pm a 6:30 pm, S 8 am a 4:30 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED995",
@@ -38820,7 +39075,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes, Miércoles, Viernes 4pm a 6:30 pm, S 8 am a 4:30 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED995",
@@ -38835,7 +39090,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes, Miércoles, Viernes 4pm a 6:30 pm, S 8 am a 4:30 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED995",
@@ -38850,7 +39105,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "Martes, Miércoles, Viernes 4pm a 6:30 pm, S 8 am a 4:30 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED995",
@@ -39330,7 +39585,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes, Miercoles, Viernes 4pm a 6:30 pm, Sabado 8 am a 4:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED5297",
@@ -39360,7 +39615,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13520",
       "Horario de Atención": "Martes, Miercoles, Viernes 4pm a 6:30 pm, Sabado 8 am a 4:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED5297",
@@ -39375,7 +39630,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes, Miercoles, Viernes 4pm a 6:30 pm, Sabado 8 am a 4:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED5297",
@@ -39390,7 +39645,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes, Miercoles, Viernes 4pm a 6:30 pm, Sabado 8 am a 4:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED5297",
@@ -39405,7 +39660,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "Martes, Miercoles, Viernes 4pm a 6:30 pm, Sabado 8 am a 4:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED5297",
@@ -39885,7 +40140,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "L a V 8 am a 12:30 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED1264",
@@ -39915,7 +40170,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13520",
       "Horario de Atención": "L a V 8 am a 12:30 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED1264",
@@ -39930,7 +40185,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "L a V 8 am a 12:30 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED1264",
@@ -39945,7 +40200,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "L a V 8 am a 12:30 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED1264",
@@ -39960,7 +40215,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "L a V 8 am a 12:30 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma,, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma,, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED1264",
@@ -40485,7 +40740,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8:00 am a 3:00 pm, Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente. El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color.Los precios de los procedimientos son indicados por el medico"
+      "Comentarios": ". El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color.Los precios de los procedimientos son indicados por el medico"
     },
     {
       "Id Medico": "MED7975",
@@ -40710,7 +40965,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes y Jueves 8:00 am a 3:00 pm, Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente. El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
+      "Comentarios": ". El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
     },
     {
       "Id Medico": "MED7975",
@@ -40725,7 +40980,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes y Jueves 8:00 am a 3:00 pm, Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente. El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
+      "Comentarios": ". El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
     },
     {
       "Id Medico": "MED7975",
@@ -40740,7 +40995,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Martes y Jueves 8:00 am a 3:00 pm, Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente. El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
+      "Comentarios": ". El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
     },
     {
       "Id Medico": "MED7975",
@@ -40755,7 +41010,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Martes y Jueves 8:00 am a 3:00 pm, Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente. El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
+      "Comentarios": ". El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
     },
     {
       "Id Medico": "MED7975",
@@ -40770,7 +41025,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Martes y Jueves 8:00 am a 3:00 pm, Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente . El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente . El Dr. Cabezas realiza unicamente ultrasonido vaginal o de Embarazo// Ultrasonido Obligatorio El Dr. Cabezas no realiza ultrasonidos de Mamás ni mamografias Ultrasonido de embarazo 4D incluye video y fotos a color"
     },
     {
       "Id Medico": "MED13852",
@@ -40785,7 +41040,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "12854.4",
       "Horario de Atención": "Viernes de 3:30 pm a 8:00 pm. Y sábados 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED13852",
@@ -40800,7 +41055,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Viernes de 3:30 pm a 8:00 pm. Y sábados 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED13852",
@@ -40815,7 +41070,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Viernes de 3:30 pm a 8:00 pm. Y sábados 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED13852",
@@ -40830,7 +41085,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "36400",
       "Horario de Atención": "Viernes de 3:30 pm a 8:00 pm. Y sábados 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED13852",
@@ -41145,7 +41400,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "12854.4",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41160,7 +41415,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41175,7 +41430,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41190,7 +41445,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "36400",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41205,7 +41460,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41235,7 +41490,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41265,7 +41520,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41295,7 +41550,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41415,7 +41670,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED14462",
@@ -41430,7 +41685,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 5 PM A 7.30 PM.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED8198",
@@ -41625,7 +41880,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Martes ,Miércoles ,Jueves 3 a 5 pm. S algunos",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED8198",
@@ -41640,7 +41895,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes ,Miércoles ,Jueves 3 a 5 pm. S algunos",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED8198",
@@ -41655,7 +41910,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes ,Miércoles ,Jueves 3 a 5 pm. S algunos",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED8198",
@@ -41670,7 +41925,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "10400",
       "Horario de Atención": "Martes ,Miércoles ,Jueves 3 a 5 pm. S algunos",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9862",
@@ -41685,7 +41940,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "12854.4",
       "Horario de Atención": "Lunes y Jueves 10 am a 1pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9862",
@@ -41700,7 +41955,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes y Jueves 10 am a 1pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9862",
@@ -41715,7 +41970,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Jueves 10 am a 1pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9862",
@@ -41730,7 +41985,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Jueves 10 am a 1pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9862",
@@ -42465,7 +42720,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 9:30 am a 6:30pm Martes 3pm a 6:30pmMiercoles 9am a 7:30pmViernes 9:30 am a 4:00pmSabado 8am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9933",
@@ -43080,7 +43335,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "12854.4",
       "Horario de Atención": "Lunes y Sábado 7 am a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7970",
@@ -43095,7 +43350,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Sábado 7 am a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7970",
@@ -43110,7 +43365,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Sábado 7 am a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7970",
@@ -43125,7 +43380,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes y Sábado 7 am a 6 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7863",
@@ -43395,7 +43650,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "18720",
       "Horario de Atención": "Lunes a Viernes 9 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7863",
@@ -43410,7 +43665,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "42285.36",
       "Horario de Atención": "Lunes a Viernes 9 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7863",
@@ -43425,7 +43680,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "42285.36",
       "Horario de Atención": "Lunes a Viernes 9 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED7863",
@@ -43440,7 +43695,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes a Viernes 9 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12568",
@@ -44055,7 +44310,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "12854.4",
       "Horario de Atención": "Lunes a Viernes 8 a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9852",
@@ -44070,7 +44325,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes a Viernes 8 a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9852",
@@ -44085,7 +44340,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes a Viernes 8 a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED9852",
@@ -44100,7 +44355,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes a Viernes 8 a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED5272",
@@ -45390,7 +45645,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.92",
       "Horario de Atención": "Lunes y Jueves 1 pm a 6 pm, Martes y Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED10022",
@@ -45405,7 +45660,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Jueves 1 pm a 6 pm, Martes y Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED10022",
@@ -45420,7 +45675,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Jueves 1 pm a 6 pm, Martes y Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED10022",
@@ -45435,7 +45690,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes y Jueves 1 pm a 6 pm, Martes y Sábado 8 am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11022",
@@ -45525,7 +45780,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11022",
@@ -45735,7 +45990,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "78000",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11022",
@@ -45750,7 +46005,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "88400",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11022",
@@ -45765,7 +46020,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11022",
@@ -46350,7 +46605,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11431",
@@ -46365,7 +46620,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11431",
@@ -46395,7 +46650,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED11431",
@@ -47355,7 +47610,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED3215",
@@ -47370,7 +47625,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED3215",
@@ -47400,7 +47655,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Martes y Jueves 8am 12 md y de 3pm a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED3215",
@@ -48360,7 +48615,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes y Miercoles 10 am a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
     },
     {
       "Id Medico": "MED1360",
@@ -48405,7 +48660,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Martes y Miercoles 10 am a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
     },
     {
       "Id Medico": "MED1360",
@@ -48510,7 +48765,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes y Miercoles 10 am a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
     },
     {
       "Id Medico": "MED1360",
@@ -48645,7 +48900,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Martes y Miercoles 10 am a 7pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional NO REALIZA ULTRASONIDOS"
     },
     {
       "Id Medico": "MED1360",
@@ -48810,7 +49065,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED8048",
@@ -48825,7 +49080,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED8048",
@@ -48840,7 +49095,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "62400",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED8048",
@@ -49035,7 +49290,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes y jueves de 9am a 1:30pm / Viernes de por medio 9am a 1:30pm / Sábados de 8:30am a 11:30am para terminar 12pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -49080,7 +49335,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Martes y jueves de 9am a 1:30pm / Viernes de por medio 9am a 1:30pm / Sábados de 8:30am a 11:30am para terminar 12pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -49125,7 +49380,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Martes y jueves de 9am a 1:30pm / Viernes de por medio 9am a 1:30pm / Sábados de 8:30am a 11:30am para terminar 12pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -49230,7 +49485,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes y jueves de 9am a 1:30pm / Viernes de por medio 9am a 1:30pm / Sábados de 8:30am a 11:30am para terminar 12pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -49365,7 +49620,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Martes y jueves de 9am a 1:30pm / Viernes de por medio 9am a 1:30pm / Sábados de 8:30am a 11:30am para terminar 12pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -49500,7 +49755,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Jueves de 10 am a 3:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -49545,7 +49800,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Jueves de 10 am a 3:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -49590,7 +49845,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Jueves de 10 am a 3:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -49665,7 +49920,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Jueves de 10 am a 3:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -49800,7 +50055,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Jueves de 10 am a 3:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -49935,7 +50190,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Jueves 4 pm a 8:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -49980,7 +50235,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Jueves 4 pm a 8:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -50025,7 +50280,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Jueves 4 pm a 8:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -50100,7 +50355,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Jueves 4 pm a 8:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -50235,7 +50490,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Jueves 4 pm a 8:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -50340,7 +50595,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes 8am a 12:30pm Jueves 8 am a 3:30pm Viernes 8:30am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -50385,7 +50640,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Martes 8am a 12:30pm Jueves 8 am a 3:30pm Viernes 8:30am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -50430,7 +50685,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Martes 8am a 12:30pm Jueves 8 am a 3:30pm Viernes 8:30am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -50535,7 +50790,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes 8am a 12:30pm Jueves 8 am a 3:30pm Viernes 8:30am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -50670,7 +50925,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Martes 8am a 12:30pm Jueves 8 am a 3:30pm Viernes 8:30am a 12:30pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -50805,7 +51060,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes,miercoles 9am a 12:30 y Viernes de por medio 9am a 12:30",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -50850,7 +51105,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Lunes,miercoles 9am a 12:30 y Viernes de por medio 9am a 12:30",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -50895,7 +51150,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Lunes,miercoles 9am a 12:30 y Viernes de por medio 9am a 12:30",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -51000,7 +51255,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes,miercoles 9am a 12:30 y Viernes de por medio 9am a 12:30",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -51135,7 +51390,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Lunes,miercoles 9am a 12:30 y Viernes de por medio 9am a 12:30",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED12725",
@@ -51270,7 +51525,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Miércoles de 1:00 pm a 3:00 pm y viernes de 3:30 pm a 7:00 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED11431",
@@ -51315,7 +51570,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Miércoles de 1:00 pm a 3:00 pm y viernes de 3:30 pm a 7:00 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED11431",
@@ -51360,7 +51615,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Miércoles de 1:00 pm a 3:00 pm y viernes de 3:30 pm a 7:00 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED11431",
@@ -51435,7 +51690,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Miércoles de 1:00 pm a 3:00 pm y viernes de 3:30 pm a 7:00 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED11431",
@@ -51570,7 +51825,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Miércoles de 1:00 pm a 3:00 pm y viernes de 3:30 pm a 7:00 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED11431",
@@ -51750,7 +52005,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Lunes de 1pm a 5:30pmMartes 4pm a 8pmMiercoles de 4 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "**El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED10873",
@@ -51795,7 +52050,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Lunes de 1pm a 5:30pmMartes 4pm a 8pmMiercoles de 4 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Se le debe brindar el costo de la toma+biopsia **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED10873",
@@ -51870,7 +52125,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes de 1pm a 5:30pmMartes 4pm a 8pmMiercoles de 4 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Colposcopia ₡104 630,01+Toma Biopsia₡22 380,75+ Citología ₡ 49 700,48 **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED10873",
@@ -52138,9 +52393,9 @@ var DM_DATA = {
       "Precio MS Tarjeta": "13831.3",
       "Iva2": "553.252",
       "Precio MS Efectivo": "14384.552",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -52153,7 +52408,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52168,7 +52423,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52183,9 +52438,9 @@ var DM_DATA = {
       "Precio MS Tarjeta": "53400",
       "Iva2": "2136",
       "Precio MS Efectivo": "55536",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -52198,7 +52453,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": ""
     },
@@ -52213,7 +52468,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la citología, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52228,7 +52483,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "12113.89",
       "Iva2": "484.55559999999997",
       "Precio MS Efectivo": "12598.4456",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52243,9 +52498,9 @@ var DM_DATA = {
       "Precio MS Tarjeta": "36928.24",
       "Iva2": "1477.12",
       "Precio MS Efectivo": "38405.36",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -52258,7 +52513,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52273,7 +52528,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "43615.39",
       "Iva2": "1744.6156",
       "Precio MS Efectivo": "4536056",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52288,7 +52543,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "43615.39",
       "Iva2": "1744.6156",
       "Precio MS Efectivo": "4536056",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52303,7 +52558,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52318,9 +52573,9 @@ var DM_DATA = {
       "Precio MS Tarjeta": "13831.3",
       "Iva2": "553.252",
       "Precio MS Efectivo": "14384.552",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -52333,7 +52588,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52348,7 +52603,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "43615.39",
       "Iva2": "1744.6156",
       "Precio MS Efectivo": "4536056",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52363,7 +52618,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52378,7 +52633,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52393,7 +52648,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52408,7 +52663,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52423,7 +52678,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52438,7 +52693,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52453,9 +52708,9 @@ var DM_DATA = {
       "Precio MS Tarjeta": "13172.67",
       "Iva2": "526.9068",
       "Precio MS Efectivo": "13699.5768",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -52468,7 +52723,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52483,7 +52738,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "57199.04",
       "Iva2": "2287.9616",
       "Precio MS Efectivo": "5948716",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52498,7 +52753,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52513,7 +52768,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52528,7 +52783,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52543,7 +52798,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52558,7 +52813,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52573,7 +52828,7 @@ var DM_DATA = {
       "Precio MS Tarjeta": "No Aplica",
       "Iva2": "No Aplica",
       "Precio MS Efectivo": "No Aplica",
-      "Horario de Atención": "Martes: 8 pm a 10 pm (a partir del18 de marzo 2025 comienza a regir este horario).Sábados: primer y segundo sábado de cada mes de 3pm a 7 30pm.Domingos: primer y tercer domingo de cada mes de 8 am a 11 am y de 1 pm a 3 pm.",
+      "Horario de Atención": "Jueves de  5 pm a 9 pm",
       "Tiempo de Consulta": "45",
       "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
@@ -52755,7 +53010,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Revisar disponibilidad en la agenda UNA VEZ POR MES ( JORNADA)",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -52830,7 +53085,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43738.38",
       "Horario de Atención": "Revisar disponibilidad en la agenda UNA VEZ POR MES ( JORNADA)",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -52890,7 +53145,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Revisar disponibilidad en la agenda UNA VEZ POR MES ( JORNADA)",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -53025,7 +53280,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Revisar disponibilidad en la agenda UNA VEZ POR MES ( JORNADA)",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -53160,7 +53415,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -53250,7 +53505,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43738.38",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -53310,7 +53565,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -53445,7 +53700,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -53580,7 +53835,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -53655,7 +53910,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43738.38",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -53715,7 +53970,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -53850,7 +54105,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "REVISAR AGENDA",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13104",
@@ -53985,7 +54240,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes de 8 am a 12 30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -54030,7 +54285,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Martes de 8 am a 12 30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -54075,7 +54330,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Martes de 8 am a 12 30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -54150,7 +54405,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Martes de 8 am a 12 30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -54300,7 +54555,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Martes de 8 am a 12 30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED10873",
@@ -54435,7 +54690,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Último Sábado del mes de 8 am a 11am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -54480,7 +54735,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Último Sábado del mes de 8 am a 11am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -54525,7 +54780,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Último Sábado del mes de 8 am a 11am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -54600,7 +54855,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Último Sábado del mes de 8 am a 11am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -54750,7 +55005,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Último Sábado del mes de 8 am a 11am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14600",
@@ -54885,7 +55140,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -54930,7 +55185,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -54990,7 +55245,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -55065,7 +55320,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -55185,7 +55440,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "3er lunes del mes a 3er martes de mes de 2 pm a 8 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13945",
@@ -55320,7 +55575,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -55335,7 +55590,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -55410,7 +55665,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43738.38",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -55470,7 +55725,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -55605,7 +55860,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Sábados de 8:00 a.m. a 2:00 p.m",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED14344",
@@ -62782,60 +63037,60 @@ var DM_DATA = {
       "Especialidad": "Endoscopía",
       "Procedimiento": "Colonoscopía",
       "Sede": "H. Metropolitano Plaza del Sol",
-      "Precio Regular Tarjeta": "Ver Comentario",
-      "Iva": "Ver Comentario",
-      "Precio Regular Efectivo": "Ver Comentario",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "274985.68",
+      "Iva": "10999.42",
+      "Precio Regular Efectivo": "285985.11",
+      "Precio MS Tarjeta": "233737.83",
+      "Iva2": "9349.51",
+      "Precio MS Efectivo": "243087.34",
       "Horario de Atención": "Jueves de 8:00 am a 12:00 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡258760,64 + ₡45 000,00 Anestesiologo | [Iva]: ₡10 350,42 + ₡1 800,00 Anestesiologo | [Precio Regular Efectivo]: ₡269 111,06 Colonoscopía + ₡46 800,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
+      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡274 985,68 + ₡45 000,00 Anestesiologo | [Iva]: ₡10 999,43 + ₡1 800,00 Anestesiologo | [Precio Regular Efectivo]: ₡285 985,11 Colonoscopía + ₡46 800,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
     },
     {
       "Id Medico": "MED1434",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Gastroscopía",
       "Sede": "H. Metropolitano Plaza del Sol",
-      "Precio Regular Tarjeta": "Ver Comentario",
-      "Iva": "Ver Comentario",
-      "Precio Regular Efectivo": "Ver Comentario",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "131243.67",
+      "Iva": "5249.74",
+      "Precio Regular Efectivo": "136493.42",
+      "Precio MS Tarjeta": "111557.12",
+      "Iva2": "4462.28",
+      "Precio MS Efectivo": "116019.40",
       "Horario de Atención": "Jueves de 8:00 am a 12:00 pm.",
-      "Tiempo de Consulta": "45",
-      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡120 200,61 + ₡25 000,00 Anestesiologo | [Iva]: ₡4 808,03 + ₡1 000,00 Anestesiologo | [Precio Regular Efectivo]: ₡125 008,65 + ₡26 000,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
+      "Tiempo de Consulta": "30",
+      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡131 243,67 + ₡25 000,00 Anestesiologo | [Iva]: ₡5 249,75 + ₡1 000,00 Anestesiologo | [Precio Regular Efectivo]: ₡136 493,42+ ₡26 000,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
     },
     {
       "Id Medico": "MED1434",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Gastro-Colonoscopía",
       "Sede": "H. Metropolitano Plaza del Sol",
-      "Precio Regular Tarjeta": "Ver Comentario",
-      "Iva": "Ver Comentario",
-      "Precio Regular Efectivo": "Ver Comentario",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "356472.28",
+      "Iva": "14258.89",
+      "Precio Regular Efectivo": "370731.17",
+      "Precio MS Tarjeta": "303001.44",
+      "Iva2": "12120.05",
+      "Precio MS Efectivo": "315121.50",
       "Horario de Atención": "Jueves de 8:00 am a 12:00 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡384 395,00 + ₡50 000,00 Anestesiologo | [Iva]: ₡15 375,80 + ₡2 000,00 Anestesiologo | [Precio Regular Efectivo]: ₡399 770,80 ₡52 000,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
+      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡356 472,28 + ₡50 000,00 Anestesiologo | [Iva]: ₡14 258,89+ ₡2 000,00 Anestesiologo | [Precio Regular Efectivo]: ₡370 731,17 + ₡52 000,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
     },
     {
       "Id Medico": "MED1434",
       "Especialidad": "Endoscopía",
       "Procedimiento": "Rectoscopía",
       "Sede": "H. Metropolitano Plaza del Sol",
-      "Precio Regular Tarjeta": "Ver Comentario",
-      "Iva": "Ver Comentario",
-      "Precio Regular Efectivo": "Ver Comentario",
-      "Precio MS Tarjeta": "No Aplica",
-      "Iva2": "No Aplica",
-      "Precio MS Efectivo": "No Aplica",
+      "Precio Regular Tarjeta": "106040",
+      "Iva": "4241.60",
+      "Precio Regular Efectivo": "110281.61",
+      "Precio MS Tarjeta": "95436",
+      "Iva2": "3817.44",
+      "Precio MS Efectivo": "99253.45",
       "Horario de Atención": "Jueves de 8:00 am a 12:00 pm.",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡100 990,47 + ₡25 000,00 Anestesiologo | [Iva]: ₡4 039,62 + ₡1 000,00 Anestesiologo | [Precio Regular Efectivo]: ₡105 030,09 + ₡26 000,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
+      "Comentarios": "Detalle de precios: [Precio Regular Tarjeta]: ₡106 040 + ₡25 000,00 Anestesiologo | [Iva]: ₡4 241,60 + ₡1 000,00 Anestesiologo | [Precio Regular Efectivo]: ₡110 281,61 + ₡26 000,00 Anestesiologo. Endoscopias: Doc se acompaña de Anestesiologo. (Tiene precios especiales). No realiza consulta RESTRICCIONES: Trabaja con anestesia, los precios de los procedimientos"
     },
     {
       "Id Medico": "MED11452",
@@ -71400,7 +71655,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13520",
       "Horario de Atención": "Martes y Jueves 4 pm a 6:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria.  NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria."
     },
     {
       "Id Medico": "MED7142",
@@ -71415,7 +71670,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes y Jueves 4 pm a 6:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria.  NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente"
+      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria.  NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED7142",
@@ -71430,7 +71685,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Martes y Jueves 4 pm a 6:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria.  NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria."
     },
     {
       "Id Medico": "MED7142",
@@ -71445,7 +71700,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "46800",
       "Horario de Atención": "Martes y Jueves 4 pm a 6:30 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria.  NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente"
+      "Comentarios": "NO atiende pacientes nuevos. Solo se agenda con secretaria.  NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED6347",
@@ -71955,7 +72210,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "",
       "Horario de Atención": "Lunes y Viernes 8am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente. Los precios de los procedimientos son indicados por el medico"
+      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | . Los precios de los procedimientos son indicados por el medico"
     },
     {
       "Id Medico": "MED7955",
@@ -72180,7 +72435,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Viernes 8am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  |"
     },
     {
       "Id Medico": "MED7955",
@@ -72195,7 +72450,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31200",
       "Horario de Atención": "Lunes y Viernes 8am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  |"
     },
     {
       "Id Medico": "MED7955",
@@ -72210,7 +72465,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes y Viernes 8am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  |"
     },
     {
       "Id Medico": "MED7955",
@@ -72225,7 +72480,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes y Viernes 8am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  |"
     },
     {
       "Id Medico": "MED7955",
@@ -72240,7 +72495,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes y Viernes 8am a 12 md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente"
+      "Comentarios": "Ultrasonido Obligatorio El Dr. Mora no realiza ultrasonidos de Mamás ni mamografias  | NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED12183",
@@ -72660,7 +72915,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "33647.12",
       "Horario de Atención": "Lunes de 8AM A 3 PM, Martes de 8 AM A 7 PM, Miercoles de 8AM A 3 PM, Jueves de 8AM A 2 PM, Viernes de 8AM A 3 PM, Sabado de 8AM a 2 PM",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -72675,7 +72930,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.55",
       "Horario de Atención": "Lunes de 8AM A 3 PM, Martes de 8 AM A 7 PM, Miercoles de 8AM A 3 PM, Jueves de 8AM A 2 PM, Viernes de 8AM A 3 PM, Sabado de 8AM a 2 PM",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -72720,7 +72975,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "39108.16",
       "Horario de Atención": "Lunes de 8AM A 3 PM, Martes de 8 AM A 7 PM, Miercoles de 8AM A 3 PM, Jueves de 8AM A 2 PM, Viernes de 8AM A 3 PM, Sabado de 8AM a 2 PM",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -72735,7 +72990,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes de 8AM A 3 PM, Martes de 8 AM A 7 PM, Miercoles de 8AM A 3 PM, Jueves de 8AM A 2 PM, Viernes de 8AM A 3 PM, Sabado de 8AM a 2 PM",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -72750,7 +73005,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Lunes de 8AM A 3 PM, Martes de 8 AM A 7 PM, Miercoles de 8AM A 3 PM, Jueves de 8AM A 2 PM, Viernes de 8AM A 3 PM, Sabado de 8AM a 2 PM",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -72765,7 +73020,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "39108.16",
       "Horario de Atención": "Lunes de 8AM A 3 PM, Martes de 8 AM A 7 PM, Miercoles de 8AM A 3 PM, Jueves de 8AM A 2 PM, Viernes de 8AM A 3 PM, Sabado de 8AM a 2 PM",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED7958",
@@ -73005,7 +73260,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes, Miercoles 9 am a 7:30pm  y Viernes de por medio 9am a 3:30pm y Sabados de por medio 8am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -73050,7 +73305,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Lunes, Miercoles 9 am a 7:30pm  y Viernes de por medio 9am a 3:30pm y Sabados de por medio 8am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -73095,7 +73350,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Lunes, Miercoles 9 am a 7:30pm  y Viernes de por medio 9am a 3:30pm y Sabados de por medio 8am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -73200,7 +73455,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes, Miercoles 9 am a 7:30pm  y Viernes de por medio 9am a 3:30pm y Sabados de por medio 8am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -73335,7 +73590,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Lunes, Miercoles 9 am a 7:30pm  y Viernes de por medio 9am a 3:30pm y Sabados de por medio 8am a 12md",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED15688",
@@ -74280,7 +74535,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "33647.12",
       "Horario de Atención": "Jueves de 3pm a 8pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -74295,7 +74550,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.55",
       "Horario de Atención": "Jueves de 3pm a 8pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -74340,7 +74595,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "39108.16",
       "Horario de Atención": "Jueves de 3pm a 8pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -74355,7 +74610,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Jueves de 3pm a 8pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -74370,7 +74625,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Jueves de 3pm a 8pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -74385,7 +74640,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "39108.16",
       "Horario de Atención": "Jueves de 3pm a 8pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -76115,7 +76370,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0221",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audimetría de rastreo",
+      "Procedimiento": "Audiometrías de rastreo",
       "Sede": "Clínica Santa Catalina",
       "Precio Regular Tarjeta": "11190.38",
       "Iva": "447.61",
@@ -76130,7 +76385,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0221",
       "Especialidad": "Audiología",
-      "Procedimiento": "Audimetría Clínica",
+      "Procedimiento": "Audiometría clínica",
       "Sede": "Clínica Santa Catalina",
       "Precio Regular Tarjeta": "49872.49",
       "Iva": "1994.8996",
@@ -76145,7 +76400,7 @@ var DM_DATA = {
     {
       "Id Medico": "CTCR-AU-0221",
       "Especialidad": "Audiología",
-      "Procedimiento": "Emisiones Otacústicas",
+      "Procedimiento": "Emisiones otacústicas",
       "Sede": "Clínica Santa Catalina",
       "Precio Regular Tarjeta": "43039.9",
       "Iva": "1721.596",
@@ -76185,7 +76440,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes 8am a 6pm tiempo de comida 12md a 1pm y Viernes 8am a 4pm (tiempo de almuerzo 12md a 1 pm). 2 últimos Sábado al mes 8ama a 11:30am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13790",
@@ -76230,7 +76485,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Lunes 8am a 6pm tiempo de comida 12md a 1pm y Viernes 8am a 4pm (tiempo de almuerzo 12md a 1 pm). 2 últimos Sábado al mes 8ama a 11:30am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13790",
@@ -76275,7 +76530,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "38405.36",
       "Horario de Atención": "Lunes 8am a 6pm tiempo de comida 12md a 1pm y Viernes 8am a 4pm (tiempo de almuerzo 12md a 1 pm). 2 últimos Sábado al mes 8ama a 11:30am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13790",
@@ -76350,7 +76605,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.552",
       "Horario de Atención": "Lunes 8am a 6pm tiempo de comida 12md a 1pm y Viernes 8am a 4pm (tiempo de almuerzo 12md a 1 pm). 2 últimos Sábado al mes 8ama a 11:30am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13790",
@@ -76485,7 +76740,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "13699.5768",
       "Horario de Atención": "Lunes 8am a 6pm tiempo de comida 12md a 1pm y Viernes 8am a 4pm (tiempo de almuerzo 12md a 1 pm). 2 últimos Sábado al mes 8ama a 11:30am",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED13790",
@@ -77010,7 +77265,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED9084",
@@ -77025,7 +77280,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "55536",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED9084",
@@ -77100,7 +77355,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43738.38",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED9084",
@@ -77160,7 +77415,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "No Aplica",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED9084",
@@ -77295,7 +77550,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "31034.64",
       "Horario de Atención": "Lunes 10am a 4pm | Martes, Miercoles y Viernes 10am a 6pm. Jueves de 1pm a 6pm.y Sabados 9am a 2pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     },
     {
       "Id Medico": "MED9084",
@@ -80959,7 +81214,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Consulta",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "75.00",
@@ -80974,7 +81229,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Consulta de Jubilación",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "60.00",
@@ -80989,7 +81244,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Procedimiento PAP",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -81004,7 +81259,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Ultrasonidos pélvicos y vaginales",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -81019,7 +81274,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Infertilidad básica",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -81034,7 +81289,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Histeroscopia",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -81049,7 +81304,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Laparascopia",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -81064,7 +81319,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Cono cervical",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -81079,7 +81334,7 @@ var DM_DATA = {
     },
     {
       "Id Medico": "ML-25",
-      "Especialidad": "Ginecología y obtetricia",
+      "Especialidad": "Ginecología y Obstetricia",
       "Procedimiento": "Legrados uterino",
       "Sede": "Centro Médico Mae Lewis",
       "Precio Regular Tarjeta": "",
@@ -91470,7 +91725,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "33647.12",
       "Horario de Atención": "Viernes a 1:30pm a 4:30pm, Miercoles 12 y 26 8:30 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -91485,7 +91740,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "14384.55",
       "Horario de Atención": "Viernes a 1:30pm a 4:30pm, Miercoles 12 y 26 8:30 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -91530,7 +91785,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "39108.16",
       "Horario de Atención": "Viernes a 1:30pm a 4:30pm, Miercoles 12 y 26 8:30 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -91545,7 +91800,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Viernes a 1:30pm a 4:30pm, Miercoles 12 y 26 8:30 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -91560,7 +91815,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "43680",
       "Horario de Atención": "Viernes a 1:30pm a 4:30pm, Miercoles 12 y 26 8:30 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED12183",
@@ -91575,7 +91830,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "39108.16",
       "Horario de Atención": "Viernes a 1:30pm a 4:30pm, Miercoles 12 y 26 8:30 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente"
+      "Comentarios": "NOTA: **El costo del procedimiento NO INCLUYE  el costo de la Toma, la cual debe pagarse adicionalmente"
     },
     {
       "Id Medico": "MED12183",
@@ -91686,7 +91941,7 @@ var DM_DATA = {
       "Id Medico": "13122",
       "Especialidad": "Psicología",
       "Procedimiento": "Consulta Individual",
-      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Sede": "H. Metropolitano Lindora| Clinica Herrera Amiguetti",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
@@ -91701,7 +91956,7 @@ var DM_DATA = {
       "Id Medico": "13122",
       "Especialidad": "Psicología",
       "Procedimiento": "Consulta Pareja",
-      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Sede": "H. Metropolitano Lindora| Clinica Herrera Amiguetti",
       "Precio Regular Tarjeta": "86949.22",
       "Iva": "3477.97",
       "Precio Regular Efectivo": "90427.19",
@@ -91716,7 +91971,7 @@ var DM_DATA = {
       "Id Medico": "13122",
       "Especialidad": "Psicología",
       "Procedimiento": "Consulta Familiar",
-      "Sede": "H. Metropolitano Lindora | Clinica Herrera Amiguetti",
+      "Sede": "H. Metropolitano Lindora| Clinica Herrera Amiguetti",
       "Precio Regular Tarjeta": "86949.22",
       "Iva": "3477.97",
       "Precio Regular Efectivo": "90427.19",
@@ -91800,7 +92055,7 @@ var DM_DATA = {
       "Precio MS Efectivo": "44415.28",
       "Horario de Atención": "Lunes a Viernes 9 am a 2 pm",
       "Tiempo de Consulta": "45",
-      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente"
+      "Comentarios": ""
     },
     {
       "Id Medico": "MED5847",
@@ -91876,6 +92131,486 @@ var DM_DATA = {
       "Horario de Atención": "Miercoles 9am a 7pm, Sábado (cada 15) 8am a 2pm",
       "Tiempo de Consulta": "30",
       "Comentarios": "Seguimiento 30 min."
+    },
+    {
+      "Id Medico": "12825",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Individual",
+      "Sede": "H. Metropolitano Lindora| Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Iva2": "955.28",
+      "Precio MS Efectivo": "24837.33",
+      "Horario de Atención": "J 8am a 1pm, V 8am a 12md Cada 15",
+      "Tiempo de Consulta": "60",
+      "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "12825",
+      "Especialidad": "Psicología",
+      "Procedimiento": "Consulta Individual",
+      "Sede": "Centro Metropolitano Escazú | Clinica Herrera Amiguetti",
+      "Precio Regular Tarjeta": "59705.13",
+      "Iva": "2388.21",
+      "Precio Regular Efectivo": "62093.34",
+      "Precio MS Tarjeta": "23882.05",
+      "Iva2": "955.28",
+      "Precio MS Efectivo": "24837.33",
+      "Horario de Atención": "L 5pm a 10pm",
+      "Tiempo de Consulta": "60",
+      "Comentarios": "60 minutos de consulta. Código SER-01679. TODOS LOS SEGUROS POR REEMBOLSOS."
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consulta Ginecologia",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "69156.52",
+      "Iva": "2766.2608",
+      "Precio Regular Efectivo": "71922.78080000001",
+      "Precio MS Tarjeta": "13831.3",
+      "Iva2": "553.252",
+      "Precio MS Efectivo": "14384.552",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Honorarios Medicos Colocación de Implanon",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "55688.9",
+      "Iva": "2227.556",
+      "Precio Regular Efectivo": "57916.456",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Retiro de Implanon",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "55688.9",
+      "Iva": "2227.556",
+      "Precio Regular Efectivo": "57916.456",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consulta Prenatal",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "133500",
+      "Iva": "5340",
+      "Precio Regular Efectivo": "138840",
+      "Precio MS Tarjeta": "53400",
+      "Iva2": "2136",
+      "Precio MS Efectivo": "55536",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Mapeo de endometriosis",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "89000",
+      "Iva": "3560",
+      "Precio Regular Efectivo": "92560",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": ""
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Toma  de Papanicolau o citologia por monocapa",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "11190.38",
+      "Iva": "447.61519999999996",
+      "Precio Regular Efectivo": "11637.9952",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la citología, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Citopatología cervical o vaginal - monocapa (PAP) recolectado en líquido preservante",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "13459.88",
+      "Iva": "538.3951999999999",
+      "Precio Regular Efectivo": "13998.2752",
+      "Precio MS Tarjeta": "12113.89",
+      "Iva2": "484.55559999999997",
+      "Precio MS Efectivo": "12598.4456",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta Ni el costo de la Toma, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consulta Ginecologia con Ultrasonido (endovaginal o suprapubico)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "92320.6",
+      "Iva": "3692.8240000000005",
+      "Precio Regular Efectivo": "96013.424",
+      "Precio MS Tarjeta": "36928.24",
+      "Iva2": "1477.12",
+      "Precio MS Efectivo": "38405.36",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Toma de biopsia ginecologica",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "23499.79",
+      "Iva": "939.9916000000001",
+      "Precio Regular Efectivo": "24439.781600000002",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Nivel II - Pólipo cervical y endometrial (macroscopico e histologico)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "1938.4616",
+      "Precio Regular Efectivo": "5040016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "1744.6156",
+      "Precio MS Efectivo": "4536056",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Nivel II - Endometrio curetaje o biopsia (Macroscopico e histologico)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "1938.4616",
+      "Precio Regular Efectivo": "5040016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "1744.6156",
+      "Precio MS Efectivo": "4536056",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Colocacion de Pellets de Testosterona (por sesión)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "87508.73",
+      "Iva": "3500.3492",
+      "Precio Regular Efectivo": "91009.0792",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consulta Ginecologia depende del medico si requiere la consulta",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "69156.52",
+      "Iva": "2766.2608",
+      "Precio Regular Efectivo": "71922.78080000001",
+      "Precio MS Tarjeta": "13831.3",
+      "Iva2": "553.252",
+      "Precio MS Efectivo": "14384.552",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Retiro de Dispositivo Intrauterino -DIU",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "99874.1",
+      "Iva": "3994.9640000000004",
+      "Precio Regular Efectivo": "103869.06400000001",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consultar al doc el tipo de citologia (Endometrio curetaje o biopsia// Pólipo cervical y endometrial)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "48461.54",
+      "Iva": "1938.4616",
+      "Precio Regular Efectivo": "5040016",
+      "Precio MS Tarjeta": "43615.39",
+      "Iva2": "1744.6156",
+      "Precio MS Efectivo": "4536056",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Colposcopia",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "99874.1",
+      "Iva": "3994.9640000000004",
+      "Precio Regular Efectivo": "103869.06400000001",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Marzupializacion de quiste bartolino (Consultorio)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "156665.25",
+      "Iva": "6266.610000000001",
+      "Precio Regular Efectivo": "162931.86",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Leep",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "232385.28",
+      "Iva": "9295.4112",
+      "Precio Regular Efectivo": "241680.6912",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Criocirugia",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "145467.12",
+      "Iva": "5818.6848",
+      "Precio Regular Efectivo": "151285.80479999998",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Cauterizacion Verrugas y/o condilomas Consultorio",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "180367.92",
+      "Iva": "7214.716800000001",
+      "Precio Regular Efectivo": "187582.6368",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Colocacion de Acido Tricloroacetico Tratamiento verrugas",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "14830.26",
+      "Iva": "593.2104",
+      "Precio Regular Efectivo": "15423.4704",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Consulta Ginecologia (puede ser Consulta mas US)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "69156.52",
+      "Iva": "2766.2608",
+      "Precio Regular Efectivo": "71922.78080000001",
+      "Precio MS Tarjeta": "13172.67",
+      "Iva2": "526.9068",
+      "Precio MS Efectivo": "13699.5768",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "*** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Toma de Muestra de VPH",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "11749.9",
+      "Iva": "469.996",
+      "Precio Regular Efectivo": "12219.895999999999",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Virus del Papiloma Humano (14 genotipos) por PCR",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "63554.49",
+      "Iva": "2542.1796",
+      "Precio Regular Efectivo": "66096.6696",
+      "Precio MS Tarjeta": "57199.04",
+      "Iva2": "2287.9616",
+      "Precio MS Efectivo": "5948716",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Histerosonografía en Consultorio",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "152504.64",
+      "Iva": "6100.185600000001",
+      "Precio Regular Efectivo": "158604.8256",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Honorarios Medicos Colocacion de Dispositivo Intrauterino (DIU)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "151070.06",
+      "Iva": "6042.8024",
+      "Precio Regular Efectivo": "157112.86239999998",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Kit colocación de Jaydess  ( incluye dispositivo)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "145242.24",
+      "Iva": "5809.6896",
+      "Precio Regular Efectivo": "151051.9296",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Kit colocación de Myrena ( incluye dispositivo )",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "167855.63",
+      "Iva": "6714.225200000001",
+      "Precio Regular Efectivo": "174569.8552",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Kit colocación de  T de plata Silvercare Mini + Histerometro DIU- CP ( incluye dispositivo)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "67034.88",
+      "Iva": "2681.3952000000004",
+      "Precio Regular Efectivo": "69716.2752",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
+    },
+    {
+      "Id Medico": "MED13945",
+      "Especialidad": "Ginecología y Obstetricia",
+      "Procedimiento": "Kit colocación de T de Cobre ( incluye dispositivo)",
+      "Sede": "H. Metropolitano Lincoln Plaza",
+      "Precio Regular Tarjeta": "15724.8",
+      "Iva": "628.992",
+      "Precio Regular Efectivo": "16353.792",
+      "Precio MS Tarjeta": "No Aplica",
+      "Iva2": "No Aplica",
+      "Precio MS Efectivo": "No Aplica",
+      "Horario de Atención": "Lunes de  8 am a 3 pm",
+      "Tiempo de Consulta": "45",
+      "Comentarios": "El costo del procedimiento NO INCLUYE el costo de la consulta, la cual debe pagarse adicionalmente *** NOTA IMPORTANTE : Los honorarios NO ESTÁN INCLUIDOS en el costo del procedimiento y se cobrarán adicional"
     }
   ]
 };
