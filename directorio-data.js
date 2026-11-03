@@ -18417,7 +18417,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño (15+)| Adulto | Adulto mayor",
       "Tiempo de Consulta": "Cita primera vez 45 min | Seguimientos 30 min |",
       "Tiempo De Espera": "10",
-      "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.)",
+      "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.) La doctpra tambien realiza Oligocheck  el precio por pasar el Oligocheck es de 35,000 adicional a la consulta de 45 min. (se agenda en el mismo tiempo de la consulta.) que es Oligocheck Un análisis no invasivo basado en espectrofotometría que mide en segundos minerales, vitaminas, oligoelementos, metales pesados y estrés oxidativo desde la palma de la mano, ofreciendo un informe nutricional y celular inmediato",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -19734,10 +19734,10 @@ var DM_DATA = {
       "Precio MS Tarjeta": "15225",
       "Precio MS Efectivo": "15834",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Bebes | Niños | Adolescentes | Adultos | Adultos mayores",
+      "Enfoque De Atención": "Niño (15+)| Adulto | Adulto mayor",
       "Tiempo de Consulta": "Cita primera vez 45 min | Seguimientos 30 min |",
       "Tiempo De Espera": "",
-      "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.)",
+      "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.) L adoctpra tambien realiza Oligocheck (se agenda en el mismo tiempo de la consulta.) que es Oligocheck Un análisis no invasivo basado en espectrofotometría que mide en segundos minerales, vitaminas, oligoelementos, metales pesados y estrés oxidativo desde la palma de la mano, ofreciendo un informe nutricional y celular inmediato",
       "Seguros_Todos": "MediSmart | Palig | INS | RedBridge | Mapfre | BMI | Adisa | Mediprocesos | ASSA"
     },
     {
@@ -20274,10 +20274,10 @@ var DM_DATA = {
       "Precio MS Tarjeta": "15225",
       "Precio MS Efectivo": "15824",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños | Adolescentes | Adultos | Adultos mayores | Mujeres embaradas",
+      "Enfoque De Atención": "Niño (15+)| Adulto | Adulto mayor",
       "Tiempo de Consulta": "Cita primera vez 45 min | Seguimientos 30 min |",
       "Tiempo De Espera": "",
-      "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.)",
+      "Comentario": "Pacientes con mas de 6 meses sin asistir se tomara cuenta como por primera vez. (Precios principales = consulta NUEVA. Seguimiento ver Procedimientos.) L adoctpra tambien realiza Oligocheck (se agenda en el mismo tiempo de la consulta.) que es Oligocheck Un análisis no invasivo basado en espectrofotometría que mide en segundos minerales, vitaminas, oligoelementos, metales pesados y estrés oxidativo desde la palma de la mano, ofreciendo un informe nutricional y celular inmediato",
       "Seguros_Todos": "MediSmart | Palig | INS | RedBridge | Mapfre | BMI | Adisa | Mediprocesos | ASSA"
     },
     {
@@ -29627,7 +29627,7 @@ var DM_DATA = {
       "Agenda Call Center": "SI",
       "Medicina Mixta": "NO",
       "Acepta Medismart": "SI",
-      "Horario de Atención": "L 5pm a 10pm",
+      "Horario de Atención": "L 5pm a 8pm y S  2pm a 4pm",
       "Precio Regular Tarjeta": "59705.13",
       "Iva": "2388.21",
       "Precio Regular Efectivo": "62093.34",
