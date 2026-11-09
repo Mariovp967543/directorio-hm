@@ -687,8 +687,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Realiza: Consulta, Ecocardiograma o Prueba de Esfuerzo 30 min y Eco Esfuerzo/Stress y Eco con Dobutamina 60 min. | Consulta Incluye Electrocardiograma Horarios de atención: Precio con medismart Trajeta: ₡ 48 812,97 Precio con medismart efectivo: ₡50 765,48}",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Realiza: Consulta, Ecocardiograma o Prueba de Esfuerzo 30 min y Eco Esfuerzo/Stress y Eco con Dobutamina 60 min. | Consulta Incluye Electrocardiograma Horarios de atención: Precio con medismart Trajeta: ₡ 48 812,97 Precio con medismart efectivo: ₡50 765,48} | Médico acepta Medisport únicamente en el procedimiento de ecocardiograma. Precio regular: ₡205.279 | precio medisport: ₡97.316.",
+      "Seguros_Todos": "Medismart | | Medisport | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "MED12204",
@@ -717,7 +717,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "10",
-      "Comentario": "Realiza todos los procedimientos cardiológicos | Consulta Incluye Electrocardiograma|Precio MS: ₡ 46 488,55 Horario:",
+      "Comentario": "Realiza todos los procedimientos cardiológicos | Consulta Incluye Electrocardiograma|Precio MS: ₡ 46 488,55 Horario: Médico acepta Medisport únicamente en el procedimiento de ecocardiograma. Precio regular: ₡205.279 | precio medisport: ₡97.316.",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -777,7 +777,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "10",
-      "Comentario": "Realiza todos los procedimientos cardiológicos | Consulta Incluye ElectrocardiogramaPrecio MS: ₡ 46 488,55",
+      "Comentario": "Realiza todos los procedimientos cardiológicos | Consulta Incluye ElectrocardiogramaPrecio MS: ₡ 46 488,55 | Médico acepta Medisport únicamente en el procedimiento de ecocardiograma. Precio regular: ₡205.279 | precio medisport: ₡97.316.",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -1137,7 +1137,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Solo realiza consulta, ecocardiograma , prueba de esfuerzo. | Consulta Incluye Electrocardiograma Horario: Precio con medismart Trajeta: ₡ 48 812,97 Precio con medismart efectivo: ₡50 765,48",
+      "Comentario": "Solo realiza consulta, ecocardiograma , prueba de esfuerzo. | Consulta Incluye Electrocardiograma Horario: Precio con medismart Trajeta: ₡ 48 812,97 Precio con medismart efectivo: ₡50 765,48 | Médico acepta Medisport únicamente en el procedimiento de ecocardiograma. Precio regular: ₡205.279 | precio medisport: ₡97.316.",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -1167,7 +1167,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "45",
       "Tiempo De Espera": "10",
-      "Comentario": "Realiza todos los procedimientos cardiológicos | Consulta Incluye ElectrocardiogramaPrecio MS: ₡ 46 488,55Horario: Lunes 8:30am a 12:10 md y Viernes 9am a 1pm",
+      "Comentario": "Realiza todos los procedimientos cardiológicos | Consulta Incluye ElectrocardiogramaPrecio MS: ₡ 46 488,55Horario: Lunes 8:30am a 12:10 md y Viernes 9am a 1pm | Médico acepta Medisport únicamente en el procedimiento de ecocardiograma. Precio regular: ₡205.279 | precio medisport: ₡97.316.",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -1347,7 +1347,7 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño (15+)| Adulto | Adulto mayor",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Realiza Consulta, ecocardiograma y prueba de esfuerzo. | Solo agendar 2 pacientes 1 hora (nuevos) se puede agendar un tercer paciente si este es de seguimiento. | Los días viernes solo agendar consultas. | Consulta Incluye Electrocardiograma Horario: Precio con medismart Trajeta: ₡ 48 812,97 Precio con medismart efectivo: ₡50 765,48",
+      "Comentario": "Realiza Consulta, ecocardiograma y prueba de esfuerzo. | Solo agendar 2 pacientes 1 hora (nuevos) se puede agendar un tercer paciente si este es de seguimiento. | Los días viernes solo agendar consultas. | Consulta Incluye Electrocardiograma Horario: Precio con medismart Trajeta: ₡ 48 812,97 Precio con medismart efectivo: ₡50 765,48 | Médico acepta Medisport únicamente en el procedimiento de ecocardiograma. Precio regular: ₡205.279 | precio medisport: ₡97.316.",
       "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -7317,8 +7317,8 @@ var DM_DATA = {
       "Enfoque De Atención": "+18 años | Adultos",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-3313",
@@ -7347,8 +7347,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +15 | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-0086",
@@ -7377,8 +7377,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos jóvenes - Adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Oncológica. Atenciones pacientes de Cuidados paliativos y oncológicos",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque: Oncológica. Atenciones pacientes de Cuidados paliativos y oncológicos| Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "ASB-ZENIT",
@@ -7437,8 +7437,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +15 | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Neurológica. Se cobra como Fisioterapia Especializada",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque: Neurológica. Se cobra como Fisioterapia Especializada| Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-3169",
@@ -7467,8 +7467,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Presentarse 15min antes. Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Presentarse 15min antes. Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-3169",
@@ -7497,8 +7497,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Rehabilitación Oncológica. Se cobra como Fisioterapia Especializada. Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque: Rehabilitación Oncológica. Se cobra como Fisioterapia Especializada. Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-1573",
@@ -7617,8 +7617,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos y adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Pediatrico ( apartir de los 8 años en lesiones)",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque: Pediatrico ( apartir de los 8 años en lesiones)|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-4019",
@@ -7707,8 +7707,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +15 | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Presentarse 15min antes. Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Presentarse 15min antes. Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-3533",
@@ -7887,8 +7887,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, adultos jovenes, adultos mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-2992",
@@ -7947,8 +7947,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, adultos mayores, deportistas, post operatorios",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Procedimientos: Terapia Manual, Ejercicio terapéutico, Vendaje Neuromuscular, Rehabilitación de lesiones deportivas, Rehabilitación postquirúrgica, Rehabilitación Física, Rehabilitación ortopédica postquirúrgica|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-2009",
@@ -7977,8 +7977,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos, Adultos Mayores",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque en Dermatofuncional",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque en Dermatofuncional|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "LGR-ZENIT",
@@ -8127,8 +8127,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +15 | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF 1784",
@@ -8157,8 +8157,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +15 | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque en oncología, Realiza masaje linfático. Trabajará 1/2 tiempo con pacientes oncológicos del Centro de Cáncer y 1/2 . Presentarse 15min antes y se cancela por cobro anticipado. Realiza Masaje Linfático.",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque en oncología, Realiza masaje linfático. Trabajará 1/2 tiempo con pacientes oncológicos del Centro de Cáncer y 1/2 . Presentarse 15min antes y se cancela por cobro anticipado. Realiza Masaje Linfático.|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF 1784",
@@ -8187,8 +8187,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niños +15 | Adulto | Adulto mayor",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque Dermatologíafuncional. Trabajará 1/2 tiempo con pacientes oncológicos del Centro de Cáncer y 1/2 tiempo con pacientes regulares de la sede de Lindora. Presentarse 15min antes y se cancela por cobro anticipado. Realiza Masaje Linfático.",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque Dermatologíafuncional. Trabajará 1/2 tiempo con pacientes oncológicos del Centro de Cáncer y 1/2 tiempo con pacientes regulares de la sede de Lindora. Presentarse 15min antes y se cancela por cobro anticipado. Realiza Masaje Linfático.|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-2865",
@@ -8217,8 +8217,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adulto mayor - Adulto - Deporte",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque en deportivo",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque en deportivo|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-4012",
@@ -8307,8 +8307,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos mayores, jovenes, deportistas",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Procedimiento que realiza: Punsión seca, ejercicios terapeuticos, readapatción física, terapia manual, terapia post quirurgica",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Procedimiento que realiza: Punsión seca, ejercicios terapeuticos, readapatción física, terapia manual, terapia post quirurgica|Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-2943",
@@ -8607,8 +8607,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos Mayores, Adolescentes, Adultos (15 AÑOS A 80 AÑOS)",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Jennifer Rugama es la fisioterapeuta back-up por lo que la agenda se le habilita únicamente cuando va a estar realizando una cobertura. \r\n\r\nSe les estaría avisando cuando se le habilita la agenda para que también el call center tenga visibilidad y agende citas en la agenda de ella.",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Jennifer Rugama es la fisioterapeuta back-up por lo que la agenda se le habilita únicamente cuando va a estar realizando una cobertura. \r\n\r\nSe les estaría avisando cuando se le habilita la agenda para que también el call center tenga visibilidad y agende citas en la agenda de ella. |Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-3084",
@@ -8727,8 +8727,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Adultos Mayores, Adolescentes, Adultos (15 AÑOS A 80 AÑOS)",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Jennifer Rugama es la fisioterapeuta back-up por lo que la agenda se le habilita únicamente cuando va a estar realizando una cobertura. \r\n\r\nSe les estaría avisando cuando se le habilita la agenda para que también el call center tenga visibilidad y agende citas en la agenda de ella.",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Jennifer Rugama es la fisioterapeuta back-up por lo que la agenda se le habilita únicamente cuando va a estar realizando una cobertura. \r\n\r\nSe les estaría avisando cuando se le habilita la agenda para que también el call center tenga visibilidad y agende citas en la agenda de ella. Médico acepta Medisport . Precio regular: ₡38082| precio medisport: ₡15233",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "CTCR-TF-TECNICO01",
@@ -21087,8 +21087,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño (+7) | Adulto | Adulto mayor",
       "Tiempo de Consulta": "20",
       "Tiempo De Espera": "10",
-      "Comentario": "CIta en 20 minutos. Horario:K,M y J 8am a 12 md.",
-      "Seguros_Todos": "Medismart | RedBridge | Mapfre | BlueCross"
+      "Comentario": "Médico acepta Medisport  Precio regular: ₡69157 | precio medisport: ₡27662",
+      "Seguros_Todos": "Medismart |Medisport | RedBridge | Mapfre | BlueCross"
     },
     {
       "Id Medico": "MED5445",
@@ -22317,8 +22317,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Prioridad de Citas. Categoría: DR.VIP PRIORIDAD CITAS. Procedimientos: Trauma ortopédico fracturas complejas Fracturas de miembro superior: hombro, clavícula, brazo, antebrazo, codo, muñeca y mano. Fractura de Pelvis, cadera. Fractura de miembro inferior: fémur, rodilla, pierna, tobillo y pie. Infiltraciones articulares. Cirugía de Reemplazo de cadera y rodilla. Desgaste articular. Rodilla: Patología de Meniscos, lesiones ligamentarias. Pie: Juanetes, dedos en garra, deformidades. Medicina deportiva.  CUENTA CON PRIORIDAD DE CITAS. DR VIP",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | BMI | BlueCross | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque: Prioridad de Citas. Categoría: DR.VIP PRIORIDAD CITAS. Procedimientos: Trauma ortopédico fracturas complejas Fracturas de miembro superior: hombro, clavícula, brazo, antebrazo, codo, muñeca y mano. Fractura de Pelvis, cadera. Fractura de miembro inferior: fémur, rodilla, pierna, tobillo y pie. Infiltraciones articulares. Cirugía de Reemplazo de cadera y rodilla. Desgaste articular. Rodilla: Patología de Meniscos, lesiones ligamentarias. Pie: Juanetes, dedos en garra, deformidades. Medicina deportiva.  CUENTA CON PRIORIDAD DE CITAS. DR VIP. Médico acepta Medisport . Precio regular: ₡69157| precio medisport: ₡27662",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | BMI | BlueCross | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "MED9941",
@@ -22347,8 +22347,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño | Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Enfoque: Prioridad de Citas. Categoría: DR.VIP PRIORIDAD CITAS. Procedimientos: Trauma ortopédico fracturas complejas Fracturas de miembro superior: hombro, clavícula, brazo, antebrazo, codo, muñeca y mano. Fractura de Pelvis, cadera. Fractura de miembro inferior: fémur, rodilla, pierna, tobillo y pie. Infiltraciones articulares. Cirugía de Reemplazo de cadera y rodilla. Desgaste articular. Rodilla: Patología de Meniscos, lesiones ligamentarias. Pie: Juanetes, dedos en garra, deformidades. Medicina deportiva. | CUENTA CON PRIORIDAD DE CITAS. DR VIP",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | BMI | BlueCross | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Enfoque: Prioridad de Citas. Categoría: DR.VIP PRIORIDAD CITAS. Procedimientos: Trauma ortopédico fracturas complejas Fracturas de miembro superior: hombro, clavícula, brazo, antebrazo, codo, muñeca y mano. Fractura de Pelvis, cadera. Fractura de miembro inferior: fémur, rodilla, pierna, tobillo y pie. Infiltraciones articulares. Cirugía de Reemplazo de cadera y rodilla. Desgaste articular. Rodilla: Patología de Meniscos, lesiones ligamentarias. Pie: Juanetes, dedos en garra, deformidades. Medicina deportiva. | CUENTA CON PRIORIDAD DE CITAS. DR VIP.Médico acepta Medisport . Precio regular: ₡69157| precio medisport: ₡27662",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | BMI | BlueCross | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "MED6627",
@@ -22857,8 +22857,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Bebé | Niño | Adulto | Adulto mayor",
       "Tiempo de Consulta": "",
       "Tiempo De Espera": "10",
-      "Comentario": "Validar en calendario de visitas Procedimientos: Infiltración con plasma, Infiltración articular, Liberación dedo en gatillo, Liberación del túnel del carpo **Precios lo define en consulta** Horario: 1 vez al mez, revisar agenda Tiempo de consulta: Precio MS Tarjeta: ₡29 841,00 Precio MS Efectivo: ₡30 660,24",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Validar en calendario de visitas Procedimientos: Infiltración con plasma, Infiltración articular, Liberación dedo en gatillo, Liberación del túnel del carpo **Precios lo define en consulta** Horario: 1 vez al mez, revisar agenda Tiempo de consulta: Precio MS Tarjeta: ₡29 841,00 Precio MS Efectivo: ₡30 660,24| Médico acepta Medisport . Precio regular: ₡69157| precio medisport: ₡27662",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | BMI | BlueCross | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "MED15716",
@@ -23217,8 +23217,8 @@ var DM_DATA = {
       "Enfoque De Atención": "Niño (5+) | Adulto | Adulto mayor",
       "Tiempo de Consulta": "30",
       "Tiempo De Espera": "10",
-      "Comentario": "Infiltraciones (incluye honorarios y kit de infiltración) Se brinda en consulta no aplica medismart",
-      "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
+      "Comentario": "Infiltraciones (incluye honorarios y kit de infiltración) Se brinda en consulta no aplica medismart | Médico acepta Medisport . Precio regular: ₡69157| precio medisport: ₡27662",
+      "Seguros_Todos": "Medismart | Medisport | Palig | INS | RedBridge | BMI | BlueCross | ASSA | Mediprocesos | Adisa"
     },
     {
       "Id Medico": "MED6517",
@@ -27234,10 +27234,10 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
+      "Enfoque De Atención": "Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol. TODOS LOS SEGUROS POR REEMBOLSOS\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia",
+      "Comentario": "Idiomas\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nInglés\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEspañol. TODOS LOS SEGUROS POR REEMBOLSOS\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcedimiento que se realiza: Depresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegulación emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRelaciones, vínculos y patrones afectivos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMalestar emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcesos de autoconocimiento",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -27264,10 +27264,10 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
+      "Enfoque De Atención": "Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "Utiliza el código SKU Psicología Zenit\r\n\r\nMediSmart y MediSportIdiomas Inglés Español | TODOS LOS SEGUROS POR REEMBOLSOS\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcedimiento que se realiza: Depresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegulación emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRelaciones, vínculos y patrones afectivos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMalestar emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcesos de autoconocimiento\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAcompañamiento en adolescencia",
+      "Comentario": "Utiliza el código SKU Psicología Zenit\r\n\r\nMediSmart y MediSportIdiomas Inglés Español | TODOS LOS SEGUROS POR REEMBOLSOS\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcedimiento que se realiza: Depresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegulación emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRelaciones, vínculos y patrones afectivos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMalestar emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcesos de autoconocimiento",
       "Seguros_Todos": "Medismart| MediSport | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -27294,10 +27294,10 @@ var DM_DATA = {
       "Precio MS Tarjeta": "23882.05",
       "Precio MS Efectivo": "24837.33",
       "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Niños/ Adolescentes / Adultos.",
+      "Enfoque De Atención": "Adultos.",
       "Tiempo de Consulta": "60",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que se realiza: Depresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nRegulación emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nRelaciones, vínculos y patrones afectivos\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nMalestar emocional\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nProcesos de autoconocimiento\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAcompañamiento en adolescencia. Idiomas\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nInglés\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEspañol",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que se realiza: Depresión\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRegulación emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nRelaciones, vínculos y patrones afectivos\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTOC (Trastorno Obsesivo-Compulsivo)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMalestar emocional\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcesos de autoconocimiento\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n. Idiomas\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nInglés\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nEspañol",
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
@@ -32789,6 +32789,36 @@ var DM_DATA = {
       "Tiempo De Espera": "",
       "Comentario": "",
       "Seguros_Todos": ""
+    },
+    {
+      "Id Medico": "MED3322",
+      "Nombre Doctor": "Oscar Alberto Zúñiga González",
+      "Especialidad": "Pediatría",
+      "Método De Ingreso": "Servicios Profesionales",
+      "Sede": "H. Metropolitano Plaza del Sol (PediaClinic)",
+      "Correo Electrónico": "",
+      "Piso": "1",
+      "Número Del Consultorio": "",
+      "Extensión": "40012300",
+      "Secretarias": "Admisión y cajas Plaza del Sol",
+      "Agenda": "ZH Blue",
+      "Modalidad Cita": "Presencial",
+      "Cobro Anticipado": "NO",
+      "Agenda Call Center": "SI",
+      "Medicina Mixta": "NO",
+      "Acepta Medismart": "SI",
+      "Horario de Atención": "Lunes y martes: 4:00pm a 6:00pm.",
+      "Precio Regular Tarjeta": "63945",
+      "Iva": "2557.80",
+      "Precio Regular Efectivo": "66502.80",
+      "Precio MS Tarjeta": "17289",
+      "Precio MS Efectivo": "17980.56",
+      "Forma De Pago": "EFECTIVO | TARJETA",
+      "Enfoque De Atención": "0 a 14 años",
+      "Tiempo de Consulta": "30",
+      "Tiempo De Espera": "10",
+      "Comentario": "",
+      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BMI | ASSA | Mediprocesos | Adisa"
     }
   ],
   "procedures": [
