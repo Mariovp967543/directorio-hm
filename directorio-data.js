@@ -16231,36 +16231,6 @@ var DM_DATA = {
       "Seguros_Todos": "Medismart | Palig | INS | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
     },
     {
-      "Id Medico": "MED12337",
-      "Nombre Doctor": "Michelle Rudín Hernández",
-      "Especialidad": "Medicina Interna",
-      "Método De Ingreso": "Servicios Profesionales",
-      "Sede": "H. Metropolitano Plaza del Sol",
-      "Correo Electrónico": "",
-      "Piso": "1",
-      "Número Del Consultorio": "11",
-      "Extensión": "25219595",
-      "Secretarias": "Admisión de especialistas",
-      "Agenda": "ZH Blue",
-      "Modalidad Cita": "Presencial",
-      "Cobro Anticipado": "NO",
-      "Agenda Call Center": "SI",
-      "Medicina Mixta": "NO",
-      "Acepta Medismart": "SI",
-      "Horario de Atención": "Miércoles 4:00 pm a 8:00 pm",
-      "Precio Regular Tarjeta": "83927.81",
-      "Iva": "3357.11",
-      "Precio Regular Efectivo": "87284.92",
-      "Precio MS Tarjeta": "16785.56",
-      "Precio MS Efectivo": "17456.98",
-      "Forma De Pago": "EFECTIVO | TARJETA",
-      "Enfoque De Atención": "Adultos",
-      "Tiempo de Consulta": "30",
-      "Tiempo De Espera": "10",
-      "Comentario": "",
-      "Seguros_Todos": "Medismart | Palig | RedBridge | Mapfre | BlueCross | BMI | ASSA | Mediprocesos | Adisa"
-    },
-    {
       "Id Medico": "MED8018",
       "Nombre Doctor": "Moisés Fallas Wahrmann",
       "Especialidad": "Medicina Interna",
@@ -29937,7 +29907,7 @@ var DM_DATA = {
       "Enfoque De Atención": "mayores de 18 años",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno de bipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nNo atiende niños",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Procedimiento que realiza:\r\n\r\nAnsiedad\r\n\r\nDepresión\r\n\r\nTranstorno de bipolaridad\r\n\r\nEsquizofrenia\r\n\r\nNo atiende niños",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
@@ -29967,7 +29937,7 @@ var DM_DATA = {
       "Enfoque De Atención": "mayores de 18 años",
       "Tiempo de Consulta": "40",
       "Tiempo De Espera": "15",
-      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS. Procedimiento que realiza:\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nAnsiedad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nDepresión\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nTranstorno de bipolaridad\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nEsquizofrenia\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\nNo atiende niños",
+      "Comentario": "TODOS LOS SEGUROS POR REEMBOLSOS.Procedimiento que realiza:\r\n\r\nAnsiedad\r\n\r\nDepresión\r\n\r\nTranstorno de bipolaridad\r\n\r\nEsquizofrenia\r\n\r\nNo atiende niños",
       "Seguros_Todos": "Medismart | Palig | INS | Bluecross | Mapfre | Redbrige | Adisa | BMI | ASSA | Mediprocesos"
     },
     {
