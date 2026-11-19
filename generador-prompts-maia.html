@@ -619,15 +619,15 @@ var categories = [
   },
   {
     id: 'chequeo', icon: '✅', name: 'Chequeo Médico',
-    systems: ['HM','Santa Catalina', 'Zennit'],
+    systems: ['HM','Santa Catalina', 'Zennit', 'Magna', 'LHS'],
     actions: [{ label: 'Paquetes de chequeo', fields: ['tipoChequeo'] }]
   },
   {
     id: 'cotizador', icon: '💲', name: 'Cotizador / Precios',
-    systems: ['HM', 'MS','Magna','Santa Catalina', 'Zennit','LHS'],
+    systems: ['HM', 'MS','Magna','Santa Catalina', 'Zennit','LHS', 'Laboratorios Paez'],
     actions: [
       { label: 'Precio de un producto/servicio', fields: ['producto'] },
-      { label: 'Enviar cotización por correo', fields: ['producto', 'correo', 'nombrePaciente', 'apellidoPaciente', 'idioma'] }
+      { label: 'Enviar cotización por correo', fields: ['producto', 'correo', 'nombrePaciente', 'apellidoPaciente', 'idioma', 'cantidad'] }
     ],
     note: 'Al enviar cotización, recuerda pedirle al paciente que revise bandeja de entrada y spam'
   },
@@ -662,7 +662,7 @@ var categories = [
   },
   {
     id: 'informacion_general', icon: '📋', name: 'Información General',
-    systems: ['MS','HM'],
+    systems: ['MS','HM','Magna','LHS','Odonto Dr Max','Ópticas Dr. Max','Red Externa MS','Farmacia La Botica','Plenisalud'],
     actions: [{ label: 'Formas de pago ', fields: [] },
               { label: 'Cuentas bancarias', fields: [] },
               { label: 'Protocolo de devoluciones de dinero', fields: [] },
@@ -677,17 +677,18 @@ var categories = [
   },
   {
     id: 'sedes', icon: '📍', name: 'Sedes / Horarios / Contacto',
-    systems: ['HM', 'Magna','Santa Catalina', 'Zennit','LHS'],
+    systems: ['HM', 'Magna','Santa Catalina', 'Zennit','LHS','Odonto Dr Max','Ópticas Dr. Max','Farmacia La Botica'],
     actions: [
       { label: 'Horario de una sede', fields: ['tipoServicioSede', 'sede'] },
       { label: 'Contacto de una sede', fields: ['tipoServicioSede', 'sede'] },
       { label: 'Extensión de una sede', fields: ['tipoServicioSede', 'sede'] },
-      { label: 'Dirección de una sede', fields: ['sede'] }
+      { label: 'Dirección de una sede', fields: ['sede'] },
+      { label: 'Sede', fields: [] }  // solo LHS
     ]
   },
   {
     id: 'promociones', icon: '🎯', name: 'Promociones',
-    systems: ['HM', 'MS', 'Medisport', "Laboratorios Paez"],
+    systems: ['HM', 'MS', 'Medisport', "Laboratorios Paez", 'Magna'],
     actions: [
       { label: 'Ver promociones', fields: [] },
       { label: 'Horarios frío', fields: [] }
@@ -729,12 +730,14 @@ var fieldDefs = {
   correo:             { label: 'Correo del paciente', type: 'text', placeholder: 'nombre@correo.com' },
   nombrePaciente:     { label: 'Nombre del paciente', type: 'text', placeholder: '' },
   apellidoPaciente:   { label: 'Apellido del paciente', type: 'text', placeholder: '' },
+  cantidad:           { label: 'Cantidad', type: 'text', placeholder: 'Ej: 1, 2, 3...' },
   idioma:             { label: 'Idioma de la cotización', type: 'select', options: ['Español', 'Inglés'] },
   carpetaArchivo:     { label: 'Carpeta / área del archivo', type: 'text', placeholder: 'Ej: TAC, Endoscopia, Reembolso Médico...' },
   nombreArchivo:      { label: 'Nombre del archivo', type: 'text', placeholder: 'Ej: Formulario TAC HM.pdf' },
   idPaciente:         { label: 'CLI, BEN o ID del paciente', type: 'text', placeholder: 'Ej: 123456789' },
-  temaEspecial:       { label: 'Tema especial', type: 'select', options: ['Asidown','Assist Card','Baby Spa','Biocenpat','Canales Digitales','Centro Especializado de Columna','Clínica LHS','Medistars','Previplan','Panamá','Cardiología'] },
+  temaEspecial:       { label: 'Tema especial', type: 'select', options: ['Asidown','Assist Card','Baby Spa','Biocenpat','Canales Digitales','Centro Especializado de Columna','Clínica LHS','Medistars','Previplan','Cardiología','Reembolso'] },
   subtema:            { label: 'Describe tu consulta', type: 'text', placeholder: 'Escribe tu consulta aquí...' },
+  tipoDatoEsp:        { label: 'Qué información necesitas', type: 'select', options: ['Doctores de la especialidad', 'Tiempo de consulta'] },
   tipoServicioSede:   { label: 'Servicio a consultar', type: 'text', placeholder: 'Ej: Urgencias, Farmacia, Radiología, Quiosco...' },
   Asidown_P:          { label: 'Consulta sobre Asidown', type: 'select', options: ['Ver Paso a paso para activar Asidown en Salesforce','Cuál es la página Web de asidown','Que es ASIDOWN','Otro'] },
   Assist_Card_P:      { label: 'Consulta sobre Assist Card', type: 'select', options: ['Información de Assist Card','Ver Archivos de assist card','Como escalar Assist Card','Página de web de Assist Card','Otro'] },
@@ -745,8 +748,29 @@ var fieldDefs = {
   Clinica_LHS_P:      { label: 'Consulta sobre Clínica LHS', type: 'select', options: ['Cual es el precio LHS','Otro'] },
   Medistars_P:        { label: 'Consulta sobre Medistars', type: 'select', options: ['Ver el Paso a paso para canjear Medipoints','Que es Medistars','¿Cómo gano o acumulo MEDIPOINTS?','Reglas de Medistar','Otro'] },
   Previplan_P:        { label: 'Consulta sobre Previplan', type: 'select', options: ['Cuál es el protocolo de previplan','Información previplan','Escalamiento de casos PREVIPLAN','Costo del plan funerario de mascota previplan','Otro'] },
-  Panama_P:           { label: 'Consulta sobre Panamá', type: 'select', options: ['Información del plan de MediSmart de Panamá','¿Cuáles son los beneficios del plan panama?','Otro'] },
-  Cardiologia_P:      { label: 'Consulta sobre Cardiología', type: 'select', options: ['Protocolo cardiología Hospital Metropolitano','En Lindora se agenda EKG en HM','Información importante cardiología HM','Cuáles son los Procedimientos que SOLO agenda Cardiología','Quien realiza la Interpretación Angiotac Coronario','Otro'] }
+  Cardiologia_P:      { label: 'Consulta sobre Cardiología', type: 'select', options: ['En qué sede se agenda EKG en HM','Información importante cardiología HM','Cuáles son los Procedimientos que SOLO agenda Cardiología','Quien realiza la Interpretación Angiotac Coronario','Protocolo de Agendamiento de MAPA','Protocolo de Agendamiento de Holter','Protocolo de Agendamiento de Electrocardiograma','Otro'] },
+  Reembolso_P:        { label: 'Consulta sobre Reembolso', type: 'select', options: ['Cobertura de Reembolso','Archivo de Reembolso','Otro'] }
+};
+
+// =====================================================
+// SUBTEMAS (Temas Especiales) con prompt propio o campo extra
+// extra: campo de texto que aparece al elegir la opción
+// =====================================================
+var SUBTEMA_CFG = {
+  'En qué sede se agenda EKG en HM': {
+    extra: { label: 'Sede', placeholder: 'Ej: Lindora, Plaza Lincoln...' },
+    prompt: function(x) { return 'En ' + x + ' se agenda EKG en HM'; } },
+  'Protocolo de Agendamiento de MAPA': {
+    prompt: function() { return '¿Cuál es el protocolo de agendamiento de MAPA en HM?'; } },
+  'Protocolo de Agendamiento de Holter': {
+    prompt: function() { return '¿Cuál es el protocolo de agendamiento de Holter en HM?'; } },
+  'Protocolo de Agendamiento de Electrocardiograma': {
+    prompt: function() { return '¿Cuál es el protocolo de agendamiento de Electrocardiograma en HM?'; } },
+  'Cobertura de Reembolso': {
+    extra: { label: 'Especialidad', placeholder: 'Ej: Cardiología, Pediatría...' },
+    prompt: function(x) { return '¿Cuál es la cobertura de reembolso para la especialidad de ' + x + ' ?'; } },
+  'Archivo de Reembolso': {
+    prompt: function() { return '¿Cuál es el archivo "Solicitud de reembolso - MediSmart.pdf"?'; } }
 };
 
 // =====================================================
@@ -874,9 +898,270 @@ var COTIZADOR_SC_DATA = {"Laboratorios":{"Vitaminas":["1,25 dihidroxi Vitamina D
 //   - prompt: función(valores) => texto del Paso 4
 // Si la función devuelve null, la categoría usa el flujo normal.
 // =====================================================
+// Patología BioCENPAT MAGNA — { Categoría: [ descripciones ] }
+var BIOCENPAT_DATA = {"Citopatología": ["Citopatología cervical o vaginal (cualquier sistema de procesamiento), interconsulta a patólogo", "Citopatología cervical o vaginal - monocapa (PAP) recolectado en líquido preservante", "Citopatología de líquidos, lavados o cepillados, en base líquida excepto cervical", "Citopatología de líquidos, lavados o cepillados, excepto cervical", "Citopatología, evaluación de aspirado por aguja fina, interpretación y reporte (BAAF)", "Citopatología, evaluación de aspirado por aguja fina; estudio citohistológico inmediato", "Frotis de citopatología cervical o vaginal; tamizaje manual con retamizaje manual bajo supervisión de patólogo"], "Consultas transoperatorias y tejido archivado": ["Consulta transoperatoria sin congelación", "Consulta transoperatoria, con preparación de citología de único espécimen", "Consulta transoperatoria, con preparación de citología, segundo espécimen y subsecuentes", "Consulta transoperatoria, primer bloque congelado, con preparación de láminas", "Consulta transoperatoria, segundo bloque congelado y subsecuentes, con preparación de láminas", "Examinación y selección de tejido archivado (ej, previamento diagnósticado) para análisis molecular."], "Inmunofluorescencia e inmunohistoquímica (IHQ)": ["Estudio de inmunofluorescencia, seis anticuerpos, método directo", "Patologia 1 anticuerpos IHQ", "Patologia 10 Anticuerpos IHQ", "Patologia 11 Anticuerpos IHQ", "Patologia 12 Anticuerpos IHQ", "Patologia 13 Anticuerpos IHQ", "Patologia 14 Anticuerpos IHQ", "Patologia 15 Anticuerpos IHQ", "Patologia 2 Anticuerpos IHQ", "Patologia 3 Anticuerpos IHQ", "Patologia 4 Anticuerpos IHQ", "Patologia 5 Anticuerpos IHQ", "Patologia 6 Anticuerpos IHQ", "Patologia 7 Anticuerpos IHQ", "Patologia 8 Anticuerpos IHQ", "Patologia 9 Anticuerpos IHQ"], "Nivel II (CR-88302)": ["Nivel II - Aborto espontaneo (Macroscopico e histologico)", "Nivel II - Aborto inducido (macroscopico e histologico)", "Nivel II - Amígdalas (precio cada una - macroscopico e histologico)", "Nivel II - Biopsias de mucosa nasal (macroscopico e histologico)", "Nivel II - Biopsias de naso y orofaringe (macroscopico e histologico)", "Nivel II - Biopsias de peritoneo y/o omento por metástasis (macroscopico e histologico)", "Nivel II - Bloque celular", "Nivel II - Colon biopsia endoscópica (Macroscopico e histologico)", "Nivel II - Conductos deferentes por esterilización (Macroscopico e histológico)", "Nivel II - Conductos deferentes que no sean por esterilización (macroscopico e histologico)", "Nivel II - Cérvix biopsia (Macroscopico e histológico)", "Nivel II - Dedos amputación traumática (Macroscopico e histológico)", "Nivel II - Duodeno biopsia endoscópica (Macroscopico e histologico)", "Nivel II - Endocervix curetaje o Bx (Macroscopico e histologico)", "Nivel II - Endometrio curetaje o biopsia (Macroscopico e histologico)", "Nivel II - Estómago, biopsia endoscópica (macroscopico e histologico)", "Nivel II - Esófago biopsia endoscópica (Macroscopico e histologico)", "Nivel II - Intestino delgado biopsia endoscópica (Macroscopico e histologico)", "Nivel II - Laringe Biopsia (macroscopico e histologico)", "Nivel II - Lengua, biopsia (macroscopico e histologico)", "Nivel II - Mucosa oral (macroscopico e histologico)", "Nivel II - Piel por plastia (Macroscopico e histológico)", "Nivel II - Piel, biopsia sencilla para diagnóstico (macroscopico e histologico)", "Nivel II - Placenta (macroscopico e histologico)", "Nivel II - Pólipo cervical y endometrial (macroscopico e histologico)", "Nivel II - Quiste Bartolino", "Nivel II - Quiste epidimo (macroscopico e histologico) - bartolino", "Nivel II - Quiste paraovárico", "Nivel II - Quistes odontogénicos y dentales (macroscopico e histologico)", "Nivel II - Rodete", "Nivel II - Testículo por castración C/U (Macroscopico e histológico)", "Nivel II - Trombos (macroscopico e histologico)", "Nivel II - Trompas uterinas por esterilización (Macroscopio e histológico)", "Nivel II - Vagina y vulva, biopsia (Macroscopico e histologico)", "Nivel II - Varices (macroscopico e histologico)", "Nivel II - Varicocele (macroscopico e histologico)"], "Nivel III (CR-88304)": ["Nivel III - Abscesos (patología quirurgica)", "Nivel III - Apendice cecal no tumoral (patologia quirurgica)", "Nivel III - Biopsia de testículo", "Nivel III - Conjuntiva (patología quirurgica)", "Nivel III - Cornea (patologia quirurgica)", "Nivel III - Cérvix cono", "Nivel III - Disco intervertebral (patologia quirurgica)", "Nivel III - Ganglio linfático biopsia en estudio por metástasis (hasta 2ganglios)", "Nivel III - Hematoma (patologia quirurgica)", "Nivel III - Hemorroides", "Nivel III - Huesos por fracturas patológicas (patología quirurgica)", "Nivel III - Mama, biopsia por tumor benigno, menos de 5 cm", "Nivel III - Meniscos (patologia quirurgica)", "Nivel III - Mucoceles (patologia quirurgica)", "Nivel III - Mucosectomía gastrointestinal (patologia quirurgica)", "Nivel III - Neuromas (patologia quirurgica)", "Nivel III - Piel por tumor resección 1-3 cm (patologia quirurgica)", "Nivel III - Pleura (patologia quirurgica)", "Nivel III - Polipectomías gastrointestinales (patologia quirurgica)", "Nivel III - Pólipos inflamatorios y nasales (patologia quirurgica)", "Nivel III - Quiste pilonidal (patologia quirurgica)", "Nivel III - Quistes sinoviales (patología quirurgica)", "Nivel III - Tejidos blandos, debridacion y lipomas (patologia quirurgica)", "Nivel III - Tendón (patologia quirurgica)", "Nivel III - Trompas uterinas embarazo ectópico (patologia quirurgica)", "Nivel III - Tumores odontogénicos", "Nivel III - Uretra, biopsia (patologia quirurgica)", "Nivel III - Uréter, biopsia (patologia quirurgica)", "Nivel III - Vejiga, biopsia endoscópica (patologia quirurgica)", "Nivel III - Vesicula biliar no tumoral (patología quirurgica)", "Nvel III - Mama, biopsia por aguja gruesa (Tru-cut)"], "Nivel IV (CR-88305)": ["Nivel IV - ampliaciones de mama", "Nivel IV - Arteria biopsia", "Nivel IV - Bazo no tumoral", "Nivel IV - Biopsias de nervios", "Nivel IV - Bronquio biopsia endoscópica", "Nivel IV - Cabeza femoral por fractura", "Nivel IV - Cerebro y meninges", "Nivel IV - Dedos amputación por tumor", "Nivel IV - Estomago gastrectomía parcial (manga gástrica)", "Nivel IV - Exostosis ósea", "Nivel IV - Extremidades amputación traumática", "Nivel IV - Fragmentos de hueso por fracturas patológicas", "Nivel IV - Ganglios linfáticos biopsia en estudio por linfoma", "Nivel IV - Glándulas paratiroides", "Nivel IV - Glándulas salivales biopsia No tumoral", "Nivel IV - HIgado biopsia por aguja o cuña pequeña (menos de 3cm)", "Nivel IV - Hipófisis por tumor", "Nivel IV - Histerectomía Simple sin Anexos", "Nivel IV - Leiomiomas Miomectomias sin útero C/U", "Nivel IV - Mama, biopsia marcada por arpón u otro marcador", "Nivel IV - Mama, biopsia por tumor benigno, mayor de 5 cm", "Nivel IV - Mastopexia C/U", "Nivel IV - Medula osea", "Nivel IV - Ovarios con o sin trompas no neoplásicos C/U", "Nivel IV - Prostata por aguja 6 frascos", "Nivel IV - Próstata por aguja cada 2 frascos", "Nivel IV - Próstata resección suprapúbica", "Nivel IV - Próstata RTU", "Nivel IV - Pulmón biopsia transbronquial", "Nivel IV - Páncreas biopsia", "Nivel IV - Riñón Biopsias", "Nivel IV - Tiroidectomía total o parcial no tumoral", "Nivel IV - Utero por prolapso", "Nivel IV - Vejiga RTU", "Nivel IV - Válvulas cardiacas", "Nivel IV colestomía", "Nivel IV- Biopsia por aguja gruesa/tru cut excepto mama"], "Nivel V (CR-88307)": ["Nivel V - Apéndice cecal tumoral", "Nivel V - Biopsia miocardio", "Nivel V - Cerebro biopsia", "Nivel V - Cerebro y meninges resección de tumor", "Nivel V - Colon resección de segmento no tumoral", "Nivel V - Estómagos resección total o subtotal que no sea por tumor", "Nivel V - Extremidades amputación no traumática", "Nivel V - Fetos con disección", "Nivel V - Gandulas salivales por tumor", "Nivel V - Ganglio linfático centinela mama biopsia definitiva", "Nivel V - Ganglios linfáticos resección regional", "Nivel V - Hueso Bx o curetaje por tumor", "Nivel V - Hígado resección parcial no tumoral; cuñas de más de 3cm", "Nivel V - Intestino delgado resección que no sea por tumor", "Nivel V - Mama cuadrantectomía y/o tumorectomía que requiera reportar bordes de resección", "Nivel V - Mama mastectomía parcial o simple", "Nivel V - Masas de tejidos blandos biopsias excisional excepto lipomas", "Nivel V - Masas mediastinales", "Nivel V - Mesenterio resección", "Nivel V - Ojo enucleación por tumor", "Nivel V - Ovarios con o sin trompas neoplásicos", "Nivel V - Pulmón biopsia por cuña", "Nivel V - Suprarrenal resección", "Nivel V - Tiroidectomía total o parcial por tumor", "Nivel V - Tumor de timo", "Nivel V - Tumores paratiroides", "Nivel V - Vesícula biliar tumoral", "Nivel V - Útero con y sin ovarios y trompas que no sea por tumor maligno o prolapso", "Nivel V- Riñón nefrectomía parcial o total no tumoral"], "Nivel VI (CR-88309)": ["Nivel VI - Colon resección total", "Nivel VI - Estomago total o parcial por tumor", "Nivel VI - Esófago resección total o parcial por tumor", "nivel VI - Extremidades desarticulación", "Nivel VI - Laringe parcial o total con disección ganglionar", "Nivel VI - Laringe resección parcial o total", "Nivel VI - Lengua por tumor", "Nivel VI - Mama mastectomía radical", "Nivel VI - Ovario tumor maligno", "Nivel VI - Próstata prostatectomía radical", "Nivel VI - Pulmón Total, Lóbulo o segmento.", "Nivel VI - Páncreas total o subtotal resección", "Nivel VI - Resección de hueso tumoral", "Nivel VI - Testículo por tumor", "Nivel VI - Tumores de tejidos blandos resección extensa", "Nivel VI - Vejiga total o parcial por tumor", "Nivel VI - Vulva resección total o parcial.", "Nivel VI - Útero con o sin trompas y ovarios por tumor maligno", "Nivel VI- Colon resección por tumor", "Nivel VI- Intestino delgado resección por tumor"]};
+// Laboratorios Magna — { Laboratorio: [ tipos ] }
+var MAGNA_LAB_DATA = {"Pruebas generales": ["PFR", "Nitrógeno ureico", "Creatinina", "PFH", "AST/ALT", "Fosfatasa Alcalina", "GGT", "Bilirrubinas totales y fraccionadas", "Glicemia", "Perfil de lípidos", "Colesterol total", "HDL", "LDL", "Triglicéridos", "Electrolitos (Na, K, Cl, Mg, P, Ca)", "Ácido úrico", "Proteínas totales y fraccionadas", "Amilasa / Lipasa", "PCR (Proteína C Reactiva)", "CKMB", "LDH", "CPK", "VES (Velocidad de eritrosedimentación)", "Hemograma completo (tomar en cuenta cuando el hemograma esta alterado el microbiólogo tiene que realizar el análisis bajo microscopio)", "Orina general", "Heces general", "HCG (prueba de embarazo)", "Sangre oculta", "Panel gastrointestinal PCR", "Azúcares reductores", "Helicobacter pylori en heces", "Grupo y Rh", "Reticulocitos", "Urocultivo + Antibiograma", "Microalbuminuria", "Proteinuria de 24hrs", "Aclaramiento endógeno de creatinina", "Pruebas tiroideas", "TSH", "T3 total y libre", "T4 total y libre", "Tiempo de coagulación TP/TTP", "Vitamina D", "Vitamina B12", "Panel de hierro (ferritina + transferrina)", "Ferritina"], "CELIAQUÍA": ["Antitransglutaminasa IgG e IgM", "Antigliadina IgG e IgM", "Antiendomisio IgA", "HLA DQ2 / HLA DQ8"], "Hormonas": ["Testosterona libre", "Testosterona total", "FSH", "LH", "Estradiol", "Progesterona", "Androstenediona", "SHBG", "Prolactina", "PTH", "Hormona de crecimiento", "ACTH", "Cortisol (AM – PM)", "Insulina", "HCG cuantitativa (embarazo)"], "ITS": ["HIV – VIH (4ta gen)", "Carga viral por VIH", "VDRL", "Herpes II (IgM e IgG)", "Anti Chlamydia IgG-IgM", "FTA IgM e IgG", "Panel ETS 10 agentes por PCR", "Neisseria / Chlamydia por PCR", "VPH por PCR en ETS"], "PRUEBAS DE DROGAS": ["Cocaína cuantificada", "Marihuana cuantificada", "Doping 6", "Doping 10"], "INMUNOLOGÍA / INFECCIOSAS": ["PCR cuantificada", "PCR ultrasensible", "Procalcitonina", "Factor reumatoide", "CCP", "HLA-B27", "ENA panel completo", "ANCA C y ANCA P", "Anti cardiolipinas IgM e IgG", "Anti coagulante lúpico", "ANAs", "Anti DNA", "Dengue IgM e IgG Y NS1", "Dengue/Zika/Chikungunya PCR", "Epstein Barr (VCA) IgM e IgG", "Epstein Barr (EBNA) y (EA)", "CMV IgM e IgG", "Toxoplasma IgM e IgG", "Antiestreptolisina", "Rubeola IgM e IgG", "Herpes I IgM e IgG", "Electroforesis de proteínas", "Cuantificación de inmunoglobulinas (IgA, IgM, IgG, igE)"], "Panel cardíaco": ["CK-MB", "Troponina I", "CK total", "NT-proBNP", "Dímero D"], "Hepatitis": ["Hepatitis A IgM e IgG", "HbsAg", "HbsAC", "Hepatitis B anticore total", "Hepatitis B carga viral (PCR)", "Hepatitis C Anticuerpos", "Hepatitis C carga viral (PCR)"], "MICROBIOLOGÍA": ["Frotis bacteriológico GRAM", "Cultivo por bacterias + PSA (incluye secreciones, heridas, tejidos, hueso, líquidos corporales)", "Examen directo por hongos KOH", "Cultivo por hongos", "Frotis vaginal", "Cultivo vaginal (incluye bacterias y hongos)", "Tamizaje por Streptococcus grupo B", "Streptococcus agalactiae por PCR", "Coprocultivo", "Hemocultivo", "Frotis por BAAR/BK", "Cultivo por BK", "Panel respiratorio por PCR"], "PERFIL PROSTÁTICO": ["PSA total", "APE libre"], "PRUEBA SIBO": ["PRUEBA SIBO"], "PRUEBA DE PATERNIDAD": ["PRUEBA DE PATERNIDAD"]};
+// Chequeos LHS — [ paquete, precio, población ]
+var LHS_CHEQUEOS = [["Chequeo Médico General", "$75", "Todas las edades"], ["Chequeo Médico General", "$100", "Todas las edades"], ["Chequeo Médico General", "$150", "Menores de 40 años"], ["Chequeo Médico General Hombre", "$150", "Mayores de 40 años"], ["Chequeo Médico General Mujer", "$150", "Mayores de 40 años"], ["Chequeo Médico Pediátrico", "$150", "4 a 17 años"], ["Chequeo Médico General Adultos", "$200", "Menores de 40 años"], ["Chequeo Médico General Hombre", "$200", "Mayores de 40 años"], ["Chequeo Médico General Mujer", "$200", "Mayores de 40 años"], ["Chequeo Médico General Adultos", "$250", "Menores de 40 años"], ["Chequeo Médico General Hombres", "$250", "Mayores de 40 años"], ["Chequeo Médico General Mujer", "$250", "Mayores de 40 años"], ["Chequeo General", "$300", "Menores de 40 años"], ["Chequeo General Hombre", "$300", "Mayores de 40 años"], ["Chequeo General Mujer", "$300", "Mayores de 40 años"], ["Chequeo Médico Walmart", "Convenio-Walmart", "Hombres mayores de 40"], ["Chequeo Médico Walmart", "Convenio-Walmart", "Hombres menores de 40"], ["Chequeo Médico Walmart", "Convenio-Walmart", "Mujeres mayores de 40"], ["Chequeo Médico Walmart", "Convenio-Walmart", "Mujeres menores de 40"], ["Chequeo General Linde-Praxair", "Convenio-Linde-Praxair", "Perfiles 1, 2 y 3 por puesto"]];
+
+
+// ---------- Helpers para armar acciones de pregunta → prompt ----------
+// qa: acción sin campos extra (prompt fijo)
+function qa(label, prompt) {
+  return { label: label, levels: [], prompt: function() { return prompt; } };
+}
+// qaSub: acción con un desplegable de preguntas; cada opción tiene su prompt
+function qaSub(label, subLabel, pairs) {
+  return {
+    label: label,
+    levels: [ { label: subLabel, options: pairs.map(function(p) { return p[0]; }) } ],
+    prompt: function(v) {
+      for (var i = 0; i < pairs.length; i++) if (pairs[i][0] === v[0]) return pairs[i][1];
+      return '[' + subLabel + ']';
+    }
+  };
+}
+function uniqList(arr) {
+  var out = [];
+  arr.forEach(function(x) { if (out.indexOf(x) === -1) out.push(x); });
+  return out;
+}
+
+// Campos de texto reutilizables (Red Externa)
+var TXT_ZONA     = { key: 'zona', type: 'text', label: 'Zona o Sede', placeholder: 'Provincia, Cantón o Sede', ph: '[Provincia, Cantón o Sede]' };
+var TXT_ZONA2    = { key: 'zona', type: 'text', label: 'Zona', placeholder: 'Provincia o Cantón', ph: '[Provincia o Cantón]' };
+var TXT_FARMACIA = { key: 'farmacia', type: 'text', label: 'Sede', placeholder: 'Nombre de la Farmacia', ph: '[Nombre de la Farmacia]' };
+var TXT_PRODUCTO = { key: 'producto', type: 'text', label: 'Producto o servicio', placeholder: 'Ej: Audiometría, Hemograma...', ph: '[Producto o servicio]' };
+
+// Red Externa MS: especialidad → pregunta → campos
+var RED_EXTERNA = [
+  { esp: 'AUDIOLOGÍA', qs: [
+    { q: 'Centros Médicos de Audiología', f: [TXT_ZONA], p: function(n) { return 'Cuáles son los centros médicos de Audiología de la Red Externa en ' + n.zona; } },
+    { q: 'Información de la Sede de Audiología', f: [TXT_ZONA], p: function(n) { return 'Información de la sede ' + n.zona + ' Audiología de la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Audiología', f: [TXT_PRODUCTO], p: function(n) { return '¿Cuál es el precio ' + n.producto + ' en la Red Externa de Audiología?'; } } ] },
+  { esp: 'CIRUGÍA OCULAR', qs: [
+    { q: 'Información General Cirugía Ocular', p: function() { return 'Información de Cirugía Ocular en la Red Externa'; } },
+    { q: 'Procedimientos de Cirugía Ocular', p: function() { return 'Cual son los procedimientos que se realiza en Cirugía Ocular en la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Cirugía Ocular', p: function() { return 'Cual son los precio de los procedimientos que se realiza en Cirugía Ocular en la Red Externa'; } },
+    { q: 'Cuotas de Financiamiento de Cirugía Ocular', p: function() { return 'Cuales son las cuotas de financiamiento con Cirugía Ocular en la Red Externa'; } } ] },
+  { esp: 'ENDOSCOPIAS', qs: [
+    { q: 'Información General Endoscopía', p: function() { return 'Información General Endoscopía de la Red Externa'; } },
+    { q: 'Precio de Procedimientos Endoscopia', p: function() { return 'Cual es el precio de los procedimiento de Endoscopía de la Red Externa'; } } ] },
+  { esp: 'IMÁGENES MÉDICAS', qs: [
+    { q: 'Centros Médicos de Imágenes Médicas', f: [TXT_ZONA], p: function(n) { return 'Cuáles son las sedes la Red Externa en ' + n.zona + ' de la Imágenes Médicas'; } },
+    { q: 'Información de la Sede Imágenes Médicas', f: [TXT_ZONA], p: function(n) { return 'Información de la Imágenes Médicas ' + n.zona + ' de la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Imágenes Médicas', f: [TXT_PRODUCTO, TXT_ZONA], p: function(n) { return 'Cual es el precio de ' + n.producto + ' en ' + n.zona + ' de la Red Externa'; } } ] },
+  { esp: 'LABORATORIOS', qs: [
+    { q: 'Centros Médicos de Laboratorios', f: [TXT_ZONA], p: function(n) { return 'Cuales son los laboratorios en la Red Externa en ' + n.zona; } },
+    { q: 'Información de la Sede Laboratorios', f: [TXT_ZONA], p: function(n) { return 'Información de la Laboratorios de la Red Externa en ' + n.zona; } },
+    { q: 'Precio de Procedimientos de Laboratorios', f: [TXT_PRODUCTO, TXT_ZONA], p: function(n) { return 'Cual es el precio del ' + n.producto + ' en laboratorios de la Red Externa ' + n.zona; } } ] },
+  { esp: 'PODOLOGÍA', qs: [
+    { q: 'Información de Podología', p: function() { return 'Cuales son los podólogos en la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Podología', p: function() { return 'Cuales es el precio de los procedimiento de Podología en la Red Externa'; } } ] },
+  { esp: 'REUMATOLOGÍA', qs: [
+    { q: 'Información General Reumatología', p: function() { return 'Información General Reumatología de la Red Externa'; } },
+    { q: 'Médico de Reumatología', p: function() { return 'Cuales son los médico de Reumatología en la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Reumatología', p: function() { return 'Cuales es el precio de los procedimiento de Reumatología en la Red Externa'; } } ] },
+  { esp: 'TERAPIA DE SONIDO', qs: [
+    { q: 'Información General Terapia de Sonido', p: function() { return 'Información General Terapia de Sonido de la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Terapia de Sonido', p: function() { return 'Cuales son los procedimientos y precio de Terapia de Sonido en Red Externa'; } } ] },
+  { esp: 'FARMACIA', qs: [
+    { q: 'Centros Médicos de Farmacia', f: [TXT_ZONA], p: function(n) { return 'Cuáles son las Farmacias de la Red Externa en ' + n.zona; } },
+    { q: 'Información de la Sede Farmacia', f: [TXT_ZONA2, TXT_FARMACIA], p: function(n) { return 'Información de la Farmacia ' + n.farmacia + ' de la Red externa en ' + n.zona; } },
+    { q: 'Descuentos disponibles en Farmacia', f: [TXT_ZONA], p: function(n) { return 'Cual es el descuento disponible en la farmacia de la Red Externa en ' + n.zona; } } ] },
+  { esp: 'TERAPIA FÍSICA A DOMICILIO', qs: [
+    { q: 'Médico de Fisioterapia a domicilio', f: [TXT_ZONA], p: function(n) { return 'Cuáles son los Fisioterapeutas a Domicilio de la Red Externa ' + n.zona; } } ] },
+  { esp: 'ODONTOLOGÍA-ORTODONCIA', qs: [
+    { q: 'Centros Médicos de Odontología', f: [TXT_ZONA], p: function(n) { return 'Cuales son las Odontología en ' + n.zona + ' de la Red Externa'; } },
+    { q: 'Información de la Sede Odontología', f: [TXT_ZONA], p: function(n) { return 'Información de la sede de ' + n.zona + ' de Odontología de la Red Externa'; } },
+    { q: 'Precio de Procedimientos de Odontología', f: [TXT_PRODUCTO, TXT_ZONA], p: function(n) { return 'Cual es el precio del ' + n.producto + ' en Odontología de la Red Externa ' + n.zona; } } ] },
+  { esp: 'VETERINARIAS', qs: [
+    { q: 'Información de la Sede Veterinarias', f: [TXT_ZONA], p: function(n) { return 'Cuales son las Veterinarias en ' + n.zona + ' de la Red Externa'; } },
+    { q: '% Beneficios de las Veterinarias', f: [TXT_ZONA], p: function(n) { return 'Cuales son los beneficios en las Veterinarias en ' + n.zona + ' de la Red Externa'; } } ] }
+];
+function redExternaActions() {
+  var acts = RED_EXTERNA.map(function(e) {
+    var preg = { key: 'preg', label: '¿Qué deseas hacer?', options: e.qs.map(function(x) { return x.q; }) };
+    function findQ(name) { for (var i = 0; i < e.qs.length; i++) if (e.qs[i].q === name) return e.qs[i]; return null; }
+    return {
+      label: e.esp,
+      levels: function(v) {
+        var q = findQ(v[0]);
+        return [preg].concat(q && q.f ? q.f : []);
+      },
+      prompt: function(v, n) {
+        var q = findQ(v[0]);
+        return q ? q.p(n) : '[¿Qué deseas hacer?]';
+      }
+    };
+  });
+  acts.actionsLabel = '¿Qué especialidad médica necesita consultar?';
+  return acts;
+}
+
 var CASCADES = {
+  // ---------- INFORMACIÓN GENERAL (por centro) ----------
+  informacion_general: function(system) {
+    if (system === 'Magna') {
+      var L = MAGNA_LAB_DATA;
+      return [
+        qa('Formas de pago', '¿Cuales son las formas de pago de Magna?'),
+        qa('Cuentas bancarias', '¿Cuáles son las cuentas bancarias de HM?'),
+        qa('Protocolo de devoluciones de dinero', '¿Protocolo de devoluciones de dinero en  HM?'),
+        qa('Validación de ticket de parqueo', 'Validación de ticket de parqueo Magna'),
+        { label: 'Protocolo aseguradoras',
+          levels: [ { type: 'text', label: 'Tipo de aseguradora', placeholder: 'Ej: INS, BMI, Pan-American...', ph: '[Tipo de Aseguradora]' } ],
+          prompt: function(v) { return 'Cual es el Protocolo en MAGNA sobre aseguradoras ' + v[0]; } },
+        qa('Convenio RMI – Células madres', 'Información sobre Convenio RMI – Células madres en MAGNA'),
+        qa('Scripts (llamadas-canales)', 'Cual es el Script de llamadas y canales en Magna'),
+        qa('Enlaces de sistema Magna', 'Link de sistemas de Magna'),
+        qa('Protocolo de confirmación de citas Magna', 'Cual es el Protocolo de confirmación de citas Magna'),
+        { label: 'Preparación Laboratorios',
+          levels: [ { label: 'Tipo de laboratorio', options: ['recolección de orina de 24 horas', 'cultivo por hongos', 'espermogramas', 'recolección de la muestra de orina general'] } ],
+          prompt: function(v) { return 'Cuáles son las preparaciones en laboratorios ' + v[0] + ' en Magna'; } },
+        { label: 'Requisitos y tiempos de entrega en Laboratorios',
+          levels: [
+            { label: 'Laboratorio', options: Object.keys(L) },
+            { label: 'Tipo de laboratorio', searchable: true,
+              options: function(v) { return (v[0] && L[v[0]]) ? L[v[0]] : []; } } ],
+          prompt: function(v) { return 'Cuáles son los Requisitos y tiempos de entrega ' + v[1] + ' en Magna'; } },
+        qa('Extensiones telefónicas internas', 'Cuales son las extensiones telefónicas internas en Magna'),
+        qa('Contraloría de servicios', 'Información de Contraloría de servicios en Magna')
+      ];
+    }
+    if (system === 'LHS') {
+      return [
+        qa('Información general', 'Información general LHS'),
+        qa('Servicios que brindamos', 'Cuales son los servicios disponibles en LHS'),
+        qa('Teléfonos y contactos principales', 'Cual el contacto de LHS'),
+        qa('Procedimientos que realiza Enfermería y Medicina General', 'Cuáles son los procedimientos que se realiza en Enfermería y Medicina General en LHS'),
+        qa('Medicina de Empresa', 'Información de Medicina de empresa en LHS'),
+        qa('Link de los sistemas', 'Link de los sistemas LHS'),
+        qa('Solicitudes de Aseguradoras y Preautorizaciones', 'Cuáles son las solicitudes de aseguradoras para preautorizaciones en LHS'),
+        qa('Manual de preautorizaciones de especialidades LHS', 'Información Manual de preautorizaciones de especialidades LHS'),
+        qa('Documentos importantes', 'Documentos adjuntos importantes en LHS'),
+        qa('Notas importantes por sede y servicio', 'Cuáles son las notas importantes por sede y servicio en LHS'),
+        qa('Números telefónicos de clínica', 'Números telefónicos de clínica LHS'),
+        qa('Farmacias Clínica LHS', 'Información de la Farmacias Clínica LHS'),
+        qaSub('Indicaciones importantes para pacientes', 'Qué información necesitas', [
+          ['Rayos X', 'Cuáles son las indicaciones importantes para pacientes en Rayos X en LHS'],
+          ['Chequeo Médico', 'Cuáles son las indicaciones importantes para pacientes en Chequeo Médico en LHS'],
+          ['Nutrición', 'Cuáles son las indicaciones importantes para pacientes en Nutrición en LHS'],
+          ['Ultrasonido (por estudio)', 'Cuáles son las indicaciones importantes para pacientes en Ultrasonido por estudio en LHS'],
+          ['Ultrasonido (principales indicaciones)', 'Cuáles son las indicaciones importantes para pacientes en Ultrasonido principales indicaciones en LHS'],
+          ['Colonoscopía', 'Cuáles son las indicaciones importantes para pacientes en preparación de colonoscopía en LHS'],
+          ['Gastrocolonoscopia digestiva y gastroscopia', 'Cuáles son las indicaciones importantes para pacientes en preparación para Gastrocolonoscopia digestiva y gastroscopia en LHS'],
+          ['Gastroenterología', 'Cuáles son las indicaciones importantes para pacientes en preparación para Gastroenterología en LHS'],
+          ['Cardiológicos', 'Cuáles son las indicaciones importantes para pacientes en estudios y procedimientos cardiológicos en LHS'],
+          ['Oftalmología', 'Cuáles son las indicaciones importantes para pacientes en procedimientos de Oftalmología en LHS'],
+          ['Optometría', 'Cuáles son las indicaciones importantes para pacientes en procedimientos de Optometría en LHS']
+        ])
+      ];
+    }
+    if (system === 'Odonto Dr Max') {
+      return [
+        qa('Información General', 'Información general Odonto Max'),
+        qa('Medios de Contacto', 'Cuales son los contactos de Odonto Max'),
+        qa('Procedimientos de Odonto Dr Max', 'Cuales son los procedimiento de Odonto Max'),
+        qa('Métodos de pago', 'Cuales son los métodos de pagos en Odonto Max'),
+        qaSub('Preguntas Frecuentes y Promoción', 'Pregunta', [
+          ['Limpieza básica y una profunda', '¿Cuál es la diferencia entre una limpieza básica y una profunda en Odonto Max?'],
+          ['Profilaxis', '¿Qué es Profilaxis en Odonto Max?'],
+          ['Limpieza dental + calza', 'Promoción limpieza dental + calza Ondo Max']
+        ])
+      ];
+    }
+    if (system === 'Ópticas Dr. Max') {
+      return [
+        qa('Información General', 'Información general Ópticas Dr. Max'),
+        qa('Medios de contacto', 'Cuales son los medios de contacto de Ópticas Dr. Max'),
+        qa('Descuentos con Medismart', 'Descuentos con Medismart  con Ópticas Dr. Max'),
+        qa('Promoción Ópticas Dr. Max', 'Cuales son las Promoción vigente con Ópticas Dr. Max'),
+        qa('Transferencia de llamadas a Dr. Max', 'Transferencia de llamadas a Ópticas Dr. Max'),
+        qa('Información de Precio de Aros Marca', 'Cual es precio de  Aros de marca en Ópticas Dr. Max'),
+        qaSub('Información Importante de Ópticas Dr. Max Salud', 'Tipo Información Importante', [
+          ['Registrar cita, datos necesarios', 'Información para registrar cita, datos necesarios en Ópticas Dr. Max'],
+          ['Examen de la vista', 'Información sobre los examanes de la vista '],
+          ['Fotosensible', 'Información sobre la Fotosinsible en Ópticas Dr. Max'],
+          ['Advertencias', 'Cuales son las advetencias en Ópticas Dr. Max'],
+          ['Paquetes básicos Dr. Max', 'Cuales son los paquetes basicos en Ópticas Dr. Max'],
+          ['Descuentos aplicables en Dr. Max para clientes Medismart', 'Cuales son los descuentos aplicables en Ópticas Dr. Max']
+        ])
+      ];
+    }
+    if (system === 'Farmacia La Botica') {
+      return [
+        qa('Descuentos', 'Cuales son los descuentos en la Farmacia la Botica'),
+        qa('Vademécum Botica', 'Información de Vademécum Botica'),
+        qa('Lista de Vacunas Comunes', 'Lista de Vacunas Comunes en la Farmacia la Botica'),
+        qa('Plan Paciente', '¿Qué es  Plan Paciente en la Farmacia la Botica?'),
+        qa('Servicio de Vacunas a Domicilio', '¿Cuál es el que servicio de vacuna a domicilio de la Farmacia la Botica?'),
+        qa('Información de Farmacia Virtual', 'Información de de la Farmacia Virtual en la farmacia la Botica '),
+        qa('Protocolo de Quejas a Farmacia Virtual', 'Cuales es el Protocolo de quejas en la farmacia virtual en la Farmacia la Botica'),
+        qa('Zonas de Entrega y Excepciones de Farmacia Virtual', 'Cual es la zonas de entrega y excepciones de Farmacia Virtual'),
+        qa('Logística de Farmacia Virtual', 'Información de la Logística De Farmacia Virtual en la Farmacia la Botica')
+      ];
+    }
+    if (system === 'Plenisalud') {
+      return [
+        qa('Información General', 'Información general Plenisalud o Seguro de hospitalización y cirugía'),
+        qa('Conceptos y Definiciones Clave del Seguro', 'Cuales son todos los conceptos y definiciones clave en Plenisalud o Seguro de hospitalización y cirugía'),
+        qa('Plan Respira', 'Que es el plan respira en Plenisalud o Seguro de hospitalización y cirugía'),
+        qa('Medio de Contacto', 'Cuales son los contactos de Plenisalud o Seguro de hospitalización y cirugía'),
+        qa('Contacto en Medismart', 'Contacto en MediSmart para afiliación o información sobre seguro INS hospitalización y cirugía'),
+        qa('Contactos Directos', 'Contactos directos para afiliación al seguro INS hospitalización y cirugía (Plenisalud)'),
+        qa('Tarjeta de Seguro Virtual', 'Información de la Tarjeta de Seguro Virtual Plenisalud o Seguro de hospitalización y cirugía'),
+        qa('Archivo de SISEPO', 'Ver archivo "Paso a paso del registro de clientes en SISEPO.pdf"'),
+        qa('Tipificación', 'Escalamiento de Casos en Salesforce Tipificación en Plenisalud o Seguro de Hospitalización y Cirugía')
+      ];
+    }
+    if (system === 'Red Externa MS') return redExternaActions();
+    return null; // MS / HM: flujo normal
+  },
+
+  // ---------- SEDES / HORARIOS / CONTACTO (centros externos) ----------
+  sedes: function(system) {
+    if (system === 'Odonto Dr Max') {
+      return [
+        qa('Sede', 'Cuál es la dirección de la sede de Odonto Max'),
+        qa('Horario', 'Cuál es el horario de la sede de Odonto Max')
+      ];
+    }
+    if (system === 'Ópticas Dr. Max') {
+      var txtSede = { type: 'text', label: 'Sede', placeholder: 'Ej: Escazú, Heredia...', ph: '[Sede]' };
+      return [
+        { label: 'Sede', levels: [txtSede], prompt: function(v) { return 'Cuál es la dirección de la sede de Ópticas Dr. Max ' + v[0]; } },
+        { label: 'Horario', levels: [txtSede], prompt: function(v) { return 'Cuál es el horario de la sede de Ópticas Dr. Max ' + v[0]; } }
+      ];
+    }
+    if (system === 'Farmacia La Botica') {
+      return [
+        qa('Contactos', 'Medios de contacto de la Farmacia la Botica'),
+        qa('Horarios', 'Cual son el horario de la Farmacia la Botica'),
+        qa('Dirección', 'Cual es la dirección de la Farmacia la Botica'),
+        qa('Sede', 'Cual son las sedes de la Farmacia la Botica')
+      ];
+    }
+    return null; // flujo normal
+  },
+
   // ---------- COTIZADOR / PRECIOS (solo Santa Catalina) ----------
   cotizador: function(system) {
+    if (system === 'Magna') {
+      var B = BIOCENPAT_DATA;
+      return [
+        { label: 'Producto o servicio',
+          levels: [ { type: 'text', label: 'Producto o servicio', placeholder: 'Ej: Consulta de cardiología, Rayos X...', ph: '[Producto o servicio]' } ],
+          prompt: function(v) { return 'Precio de ' + v[0] + ' en Magna'; } },
+        { label: 'Patología BioCENPAT',
+          levels: [
+            { label: 'Categoría de Producto', options: Object.keys(B) },
+            { label: 'Descripción de Producto',
+              options: function(v) { return (v[0] && B[v[0]]) ? B[v[0]] : []; } } ],
+          prompt: function(v) { return 'Cual es el precio de Patología BioCENPAT ' + v[1] + ' en MAGNA'; } }
+      ];
+    }
     if (system !== 'Santa Catalina') return null; // otras sedes: flujo normal
     var D = COTIZADOR_SC_DATA;
     var niveles = [
@@ -939,7 +1224,23 @@ var CASCADES = {
           prompt: function(v) { return 'Chequeo Médico ' + v[0] + ' precio'; } }
       ];
     }
-    return null; // Magna y LHS: flujo normal (paquete simple)
+    if (system === 'Magna') {
+      return [ qa('Chequeos Médico Magna', 'Chequeos Médico Magna') ];
+    }
+    if (system === 'LHS') {
+      var C = LHS_CHEQUEOS;
+      return [
+        { label: 'Información de Chequeo médico',
+          levels: [
+            { label: 'Tipo de chequeo', options: uniqList(C.map(function(r) { return r[0]; })) },
+            { label: 'Precio', options: function(v) {
+                return uniqList(C.filter(function(r) { return r[0] === v[0]; }).map(function(r) { return r[1]; })); } },
+            { label: 'Segmento', options: function(v) {
+                return uniqList(C.filter(function(r) { return r[0] === v[0] && r[1] === v[1]; }).map(function(r) { return r[2]; })); } } ],
+          prompt: function(v) { return 'Que incluye el ' + v[0] + ' ' + v[1] + ' ' + v[2] + ' en LHS'; } }
+      ];
+    }
+    return null;
   },
 
   // ---------- PROMOCIONES ----------
@@ -993,11 +1294,14 @@ function buildPrompt(catId, action, system, values) {
   if (state.cascadeActions) {
     var cact = state.cascadeActions[action];
     if (cact && cact.prompt) {
-      var cvals = cact.levels.map(function(lvl, i) {
+      var named = {};
+      var cvals = getLevels(cact).map(function(lvl, i) {
         var val = values['c' + i];
-        return (val === undefined || val === '') ? ('[' + lvl.label + ']') : val;
+        var out = (val === undefined || val === '') ? (lvl.ph || ('[' + lvl.label + ']')) : val;
+        if (lvl.key) named[lvl.key] = out;
+        return out;
       });
-      return cact.prompt(cvals);
+      return cact.prompt(cvals, named);
     }
   }
 
@@ -1005,6 +1309,15 @@ function buildPrompt(catId, action, system, values) {
   function v(key) { return values[key] || ('[' + (fieldDefs[key] ? fieldDefs[key].label : key) + ']'); }
 
   if (catId === 'especialidades') {
+    if (action === 0 && system === 'LHS' && values['tipoDatoEsp'] === 'Tiempo de consulta') {
+      return 'Cuál es el tiempo de consulta con ' + v('especialidad') + ' en LHS';
+    }
+    if (action === 2 && system === 'LHS' && values['tipoDato'] === 'Edades que atiende') {
+      return '¿Qué rango de edades atiende el doctor ' + v('nombreMedico') + ' en LHS?';
+    }
+    if (action === 2 && system === 'LHS' && values['tipoDato'] === 'Idioma') {
+      return 'Cuál es el idioma del doctor ' + v('nombreMedico') + ' en LHS';
+    }
     if (action === 0) {
       // Magna / Santa Catalina / Zennit / LHS: sin sub-sede en el prompt
       if (esSedeSinSubsede(system)) return 'Cuáles son los doctores de ' + v('especialidad') + ' en ' + system;
@@ -1020,7 +1333,7 @@ function buildPrompt(catId, action, system, values) {
   if (catId === 'chequeo') return 'Paquetes de Chequeo Médico ' + system + ' ' + v('tipoChequeo');
   if (catId === 'cotizador') {
     if (action === 0) return 'Precio de ' + v('producto') + sys;
-    if (action === 1) return 'Cotización de ' + v('producto') + sys + ', Correo: ' + v('correo') + ', Nombre: ' + v('nombrePaciente') + ', Apellido: ' + v('apellidoPaciente') + ', Idioma: ' + v('idioma');
+    if (action === 1) return 'Cotización de ' + v('producto') + sys + ', Correo: ' + v('correo') + ', Nombre: ' + v('nombrePaciente') + ', Apellido: ' + v('apellidoPaciente') + ', Idioma: ' + v('idioma') + ', ' + v('cantidad') + ' por cada examen';
   }
   if (catId === 'archivos') {
     if (action === 0) return 'Ver los archivos de ' + v('carpetaArchivo') + sys;
@@ -1043,7 +1356,14 @@ function buildPrompt(catId, action, system, values) {
     var tema = values['temaEspecial'] || '[Tema especial]';
     var subKey = temaToSubKey(tema);
     var subVal = subKey ? values[subKey] : null;
-    if (subVal && subVal !== 'Otro') return subVal;
+    if (subVal && subVal !== 'Otro') {
+      var scfg = SUBTEMA_CFG[subVal];
+      if (scfg) {
+        var extraVal = values['subExtra'] || (scfg.extra ? '[' + scfg.extra.label + ']' : '');
+        return scfg.prompt(extraVal);
+      }
+      return subVal;
+    }
     var libre = values['subtema'] || '[consulta]';
     return tema + ' — ' + libre;
   }
@@ -1059,6 +1379,7 @@ function buildPrompt(catId, action, system, values) {
       if (action === 1) return 'Medios de contacto de ' + system + ' de ' + v('tipoServicioSede');
       if (action === 2) return 'Cuál es la extensión de ' + system + ' de ' + v('tipoServicioSede');
       if (action === 3) return 'Cuál es la dirección de ' + system;
+      if (action === 4) return 'Cuales son las sede de ' + system;
     }
   }
   if (catId === 'promociones') {
@@ -1083,7 +1404,7 @@ function temaToSubKey(tema) {
     'Asidown':'Asidown_P','Assist Card':'Assist_Card_P','Baby Spa':'Baby_Spa_P',
     'Biocenpat':'Biocenpat_P','Canales Digitales':'Canales_Digitales_P',
     'Centro Especializado de Columna':'Centro_Columna_P','Clínica LHS':'Clinica_LHS_P',
-    'Medistars':'Medistars_P','Previplan':'Previplan_P','Panamá':'Panama_P','Cardiología':'Cardiologia_P'
+    'Medistars':'Medistars_P','Previplan':'Previplan_P','Cardiología':'Cardiologia_P','Reembolso':'Reembolso_P'
   };
   return map[tema] || null;
 }
@@ -1182,8 +1503,10 @@ function selectCat(catId) {
 function isActionVisible(cat, i, system) {
   // Especialidades: "Sede donde atiende un doctor" (1) se oculta en sedes de una sola ubicación
   if (cat.id === 'especialidades' && i === 1 && esSedeSinSubsede(system)) return false;
-  // Cotizador: "Enviar cotización por correo" (1) solo disponible en HM
-  if (cat.id === 'cotizador' && i === 1 && !esHM(system)) return false;
+  // Cotizador: "Enviar cotización por correo" (1) solo disponible en HM y Laboratorios Paez
+  if (cat.id === 'cotizador' && i === 1 && !esHM(system) && system !== 'Laboratorios Paez') return false;
+  // Sedes: "Sede" (4) solo disponible en LHS
+  if (cat.id === 'sedes' && i === 4 && system !== 'LHS') return false;
   // Promociones: "Horarios frío" (1) solo disponible en HM
   if (cat.id === 'promociones' && i === 1 && !esHM(system)) return false;
   return true;
@@ -1193,7 +1516,7 @@ function isActionVisible(cat, i, system) {
 function actionLabel(cat, i, system) {
   // Sedes que no son HM: se quita la palabra "sede" de las etiquetas
   if (cat.id === 'sedes' && !esHM(system)) {
-    var alt = ['Horario', 'Contacto', 'Extensión', 'Dirección'];
+    var alt = ['Horario', 'Contacto', 'Extensión', 'Dirección', 'Sede'];
     if (alt[i]) return alt[i];
   }
   return cat.actions[i].label;
@@ -1201,6 +1524,10 @@ function actionLabel(cat, i, system) {
 
 function buildStep3(cat) {
   setStep(3);
+  // Información General: la nota INFO HM / INFO MS solo aplica a HM y MS
+  if (cat.id === 'informacion_general' && cat.note) {
+    document.getElementById('m-system-note').classList.toggle('m-hidden', ['HM', 'MS'].indexOf(state.system) === -1);
+  }
   var container = document.getElementById('m-fields-container');
   container.innerHTML = '';
 
@@ -1254,7 +1581,7 @@ function buildCascadeStep3(cat, actions, container) {
   if (actions.length > 1) {
     var f = document.createElement('div');
     f.className = 'm-field';
-    f.innerHTML = '<label>¿Qué deseas hacer?</label>';
+    f.innerHTML = '<label>' + (actions.actionsLabel || '¿Qué deseas hacer?') + '</label>';
     var sel = document.createElement('select');
     sel.innerHTML = '<option value="">— Selecciona una acción —</option>';
     actions.forEach(function(a, i) {
@@ -1278,10 +1605,16 @@ function buildCascadeStep3(cat, actions, container) {
 function renderCascadeLevels(container, action) {
   document.querySelectorAll('#maia-gen .m-cascade-field').forEach(function(el) { el.remove(); });
   state.values = {};
-  if (action.levels && action.levels.length > 0) {
+  if (getLevels(action).length > 0) {
     renderCascadeLevel(container, action, 0);
   }
   generatePrompt();
+}
+
+// Niveles de una acción: arreglo fijo o función(valoresPrevios) => arreglo
+function getLevels(action) {
+  if (!action || !action.levels) return [];
+  return (typeof action.levels === 'function') ? action.levels(cascadeVals()) : action.levels;
 }
 
 function cascadeVals() {
@@ -1293,9 +1626,9 @@ function cascadeVals() {
 }
 
 function renderCascadeLevel(container, action, idx) {
-  var level = action.levels[idx];
+  var level = getLevels(action)[idx];
   if (!level) return;
-  var opts = (typeof level.options === 'function') ? level.options(cascadeVals()) : level.options;
+  var opts = (typeof level.options === 'function') ? level.options(cascadeVals()) : (level.options || []);
 
   var wrapper = document.createElement('div');
   wrapper.className = 'm-field m-dynamic-field m-cascade-field';
@@ -1311,10 +1644,25 @@ function renderCascadeLevel(container, action, idx) {
     });
     for (var k = idx + 1; k < 6; k++) { delete state.values['c' + k]; }
     // mostrar el siguiente nivel si existe y se eligió un valor
-    if (value && action.levels[idx + 1]) {
+    if (value && getLevels(action)[idx + 1]) {
       renderCascadeLevel(container, action, idx + 1);
     }
     generatePrompt();
+  }
+
+  if (level.type === 'text') {
+    // Campo de texto libre: no bloquea los niveles siguientes
+    var tinput = document.createElement('input');
+    tinput.type = 'text';
+    tinput.placeholder = level.placeholder || '';
+    tinput.oninput = function() {
+      state.values['c' + idx] = tinput.value.trim();
+      generatePrompt();
+    };
+    wrapper.appendChild(tinput);
+    container.appendChild(wrapper);
+    if (getLevels(action)[idx + 1]) renderCascadeLevel(container, action, idx + 1);
+    return;
   }
 
   if (level.searchable) {
@@ -1414,6 +1762,11 @@ function renderDynamicFields(cat, actionIdx) {
     fields = fields.filter(function(f) { return f !== 'sede'; });
   }
 
+  // Especialidades LHS: en "Ver doctores por especialidad" se pregunta qué información necesita
+  if (cat.id === 'especialidades' && actionIdx === 0 && state.system === 'LHS') {
+    fields = ['tipoDatoEsp'].concat(fields);
+  }
+
   // Radiología: el campo "Sede" solo aparece en HM.
   if (cat.id === 'radiologia' && !esHM(state.system)) {
     fields = fields.filter(function(f) { return f !== 'sede'; });
@@ -1441,6 +1794,10 @@ function renderDynamicFields(cat, actionIdx) {
       if (fieldKey === 'tipoDato' && cat.id === 'especialidades' && actionIdx === 2 && esSedeSinSubsede(state.system)) {
         opts = opts.filter(function(o) { return o !== 'sede'; });
       }
+      // Especialidades LHS: opciones adicionales (edades que atiende / idioma)
+      if (fieldKey === 'tipoDato' && cat.id === 'especialidades' && actionIdx === 2 && state.system === 'LHS') {
+        opts = opts.concat(['Edades que atiende', 'Idioma']);
+      }
       opts.forEach(function(opt) {
         var o = document.createElement('option');
         o.value = opt; o.textContent = opt;
@@ -1462,6 +1819,7 @@ function renderDynamicFields(cat, actionIdx) {
       };
     } else {
       input.oninput = input.onchange = function() {
+        if (!input.isConnected || state.action !== actionIdx || state.catId !== cat.id) return; // campo de una acción anterior
         state.values[fieldKey] = input.value.trim();
         generatePrompt();
       };
@@ -1489,12 +1847,31 @@ function injectSubthemeField(container, subKey) {
   });
   input.onchange = function() {
     state.values[subKey] = input.value;
-    document.querySelectorAll('#maia-gen .m-otro-field').forEach(function(el) { el.remove(); });
+    document.querySelectorAll('#maia-gen .m-otro-field, #maia-gen .m-extra-field').forEach(function(el) { el.remove(); });
+    delete state.values['subExtra'];
+    var scfg = SUBTEMA_CFG[input.value];
+    if (scfg && scfg.extra) injectExtraField(container, scfg.extra);
     if (input.value === 'Otro') {
       injectOtroField(container);
     } else {
       delete state.values['subtema'];
     }
+    generatePrompt();
+  };
+  wrapper.appendChild(input);
+  container.appendChild(wrapper);
+}
+
+// Campo de texto adicional para subtemas que lo requieren (ej: Sede, Especialidad)
+function injectExtraField(container, cfg) {
+  var wrapper = document.createElement('div');
+  wrapper.className = 'm-field m-dynamic-field m-subtheme-field m-extra-field';
+  wrapper.innerHTML = '<label>' + cfg.label + '</label>';
+  var input = document.createElement('input');
+  input.type = 'text';
+  input.placeholder = cfg.placeholder || '';
+  input.oninput = function() {
+    state.values['subExtra'] = input.value.trim();
     generatePrompt();
   };
   wrapper.appendChild(input);
